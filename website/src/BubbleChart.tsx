@@ -15,20 +15,6 @@ const LanguageColoursURL =
 
 const logBase = (n, base) => Math.log(n) / Math.log(base);
 
-const categories = ["Sandbox", "Archived", "Incubating", "Graduated"];
-
-const mapCategoryToColor = (category) => {
-  const colorMappings = {
-    Sandbox: "rgb(93, 164, 214)",
-    Archived: "rgb(255, 144, 14)",
-    Incubating: "rgb(44, 160, 101)",
-    Graduated: "rgb(244, 60, 101)",
-  };
-
-  // Return the color for the given category, or a default color if not found
-  return colorMappings[category] || "rgb(0, 0, 0)"; // Default to black if not found
-};
-
 const getColorFromValue = (value) => {
   // Normalize the value to a scale from 0 to 1
   const normalizedValue = value / 100;
