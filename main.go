@@ -13,6 +13,7 @@ import (
 	"time"
 
 	"github.com/emanuelef/github-repo-activity-stats/repostats"
+	"github.com/emanuelef/github-repo-activity-stats/stats"
 	_ "github.com/joho/godotenv/autoload"
 	"golang.org/x/oauth2"
 	"gopkg.in/yaml.v2"
@@ -38,6 +39,9 @@ type SoftwareEntry struct {
 
 func main() {
 	ctx := context.Background()
+
+	starsHistory := map[string][]stats.StarsPerDay{}
+	commitsHistory := map[string][]stats.CommitsPerDay{}
 
 	currentTime := time.Now()
 
@@ -165,12 +169,23 @@ func main() {
 			if err != nil {
 				log.Fatal(err)
 			}
+
+			starsHistory[repo] = result.StarsTimeline
+			commitsHistory[repo] = result.CommitsTimeline
 		}
 
 		if count == 100 {
 			break
 		}
 	}
+	jsonData, _ := json.MarshalIndent(starsHistory, "", " ")
+	_ = os.WriteFile("stars-history-30d.json", jsonData, 0o644)
+
+	commitsJsonData, _ := json.MarshalIndent(commitsHistory, "", " ")
+	_ = os.WriteFile("commits-history-30d.json", commitsJsonData, 0o644)
+
+	elapsed := time.Since(currentTime)
+	log.Printf("Took %s\n", elapsed)
 }
 
 func listYAMLFiles(ctx context.Context) ([]GitHubFile, error) {
