@@ -138,8 +138,8 @@ func main() {
 				time.Sleep(2 * time.Minute)
 				result, err = client.GetAllStats(ctx, repo)
 				if err != nil {
-					log.Fatalf("Error getting all stats %s %v", repo, err)
-					return
+					//log.Fatalf("Error getting all stats %s %v", repo, err)
+					continue
 				}
 			}
 
@@ -182,7 +182,8 @@ func main() {
 		}
 
 		if count == 200 {
-			break
+			//break
+			time.Sleep(2 * time.Minute)
 		}
 	}
 	jsonData, _ := json.MarshalIndent(starsHistory, "", " ")
