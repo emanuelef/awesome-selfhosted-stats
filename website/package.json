@@ -1,0 +1,44 @@
+{
+  "name": "website",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "start": "vite --open",
+    "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^7.0.2",
+    "@mui/material": "^7.0.2",
+    "@mui/x-data-grid": "^8.1.0",
+    "@nivo/bar": "^0.89.1",
+    "@nivo/treemap": "^0.89.1",
+    "@uiw/react-github-corners": "^1.5.16",
+    "fusioncharts": "4.1.2",
+    "highcharts-react-official": "^3.2.1",
+    "papaparse": "^5.5.2",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-fusioncharts": "^4.1.0",
+    "react-github-btn": "^1.4.0",
+    "react-plotly.js": "^2.6.0",
+    "react-pro-sidebar": "^1.1.0",
+    "react-router-dom": "^7.5.2"
+  },
+  "devDependencies": {
+    "@types/react": "^19.1.2",
+    "@types/react-dom": "^19.1.2",
+    "@typescript-eslint/eslint-plugin": "^8.31.0",
+    "@typescript-eslint/parser": "^8.31.0",
+    "@vitejs/plugin-react": "^4.4.1",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "eslint-plugin-react-refresh": "^0.4.20",
+    "typescript": "^5.8.3",
+    "vite": "^6.3.3"
+  }
+}

@@ -123,6 +123,13 @@ func main() {
 
 			repo := strings.TrimPrefix(entry.SourceCodeURL, GitHubBaseUrl)
 			repo = strings.TrimSuffix(repo, "/")
+
+			// Validate repo format
+			if !strings.Contains(repo, "/") || strings.Count(repo, "/") != 1 {
+				log.Printf("Skipping invalid repo format: %s\n", repo)
+				continue
+			}
+
 			fmt.Printf("Repo: %s\n", repo)
 
 			result, err := client.GetAllStats(ctx, repo)
@@ -131,7 +138,7 @@ func main() {
 				time.Sleep(2 * time.Minute)
 				result, err = client.GetAllStats(ctx, repo)
 				if err != nil {
-					// log.Fatalf("Error getting all stats %s %v", repo, err)
+					log.Fatalf("Error getting all stats %s %v", repo, err)
 					return
 				}
 			}
