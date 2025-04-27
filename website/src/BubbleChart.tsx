@@ -173,6 +173,22 @@ const BubbleChart = ({ dataRows }) => {
     }
   };
 
+  useEffect(() => {
+    if (Object.keys(colours).length > 0) {
+      loadData();
+    }
+  }, [
+    maxDaysLastCommit,
+    minStars,
+    minMentionableUsers,
+    selectedAction,
+    selectedXAxis,
+    selectedYAxis,
+    selectedSize,
+    selectedBubbleColour,
+    colours, // Add colours as a dependency
+  ]);
+
   // Fetch colors data when the component mounts
   useEffect(() => {
     const fetchColors = async () => {
