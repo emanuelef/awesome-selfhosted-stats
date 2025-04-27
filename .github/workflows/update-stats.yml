@@ -2,7 +2,7 @@ name: Update stats
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs at 00:00 UTC everyday
+    - cron: "0 9 * * *" # runs at 00:00 UTC everyday
   workflow_dispatch:
 
 jobs:
@@ -26,11 +26,6 @@ jobs:
         run: go run main.go
         env:
           PAT: ${{ secrets.PAT }}
-          OTEL_EXPORTER_OTLP_HEADERS: ${{ secrets.OTEL_EXPORTER_OTLP_HEADERS }}
-          OTEL_SERVICE_NAME: ${{ vars.OTEL_SERVICE_NAME }}
-          OTEL_EXPORTER_OTLP_ENDPOINT: ${{ vars.OTEL_EXPORTER_OTLP_ENDPOINT }}
-          FILE_SUFFIX: "latest"
-          MAX_CONCURRENT_REQUESTS: "1"
 
       - name: Set last update date
         run: |

@@ -182,8 +182,8 @@ func main() {
 		}
 
 		if count == 200 {
-			//break
-			time.Sleep(2 * time.Minute)
+			// pause for 5 minutes after processing 200 files to avoid using too many API calls
+			time.Sleep(5 * time.Minute)
 		}
 	}
 	jsonData, _ := json.MarshalIndent(starsHistory, "", " ")
