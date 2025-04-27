@@ -174,7 +174,7 @@ func main() {
 			commitsHistory[repo] = result.CommitsTimeline
 		}
 
-		if count == 100 {
+		if count == 200 {
 			break
 		}
 	}

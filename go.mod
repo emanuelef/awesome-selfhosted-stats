@@ -1,4 +1,4 @@
-module github.com/emanuelef/cncf-repos-stats
+module github.com/emanuelef/awesome-selfhosted-stats
 
 go 1.24
 
