@@ -379,60 +379,6 @@ function App() {
             marginBottom: "10px",
           }}
         >
-          <Autocomplete
-            disablePortal
-            id="combo-box-main-category"
-            size="small"
-            options={[...new Set(dataRows.map((el) => el["category"]))]}
-            renderInput={(params) => (
-              <TextField
-                {...params}
-                style={{
-                  marginRight: "20px",
-                  marginLeft: "10px",
-                  width: "400px",
-                }}
-                label="Enter main category"
-                variant="outlined"
-                size="small"
-              />
-            )}
-            value={mainCategory}
-            onChange={(e, v, reason) => {
-              if (reason === "clear") {
-                setMainCategory("All");
-              } else {
-                setMainCategory(v);
-              }
-            }}
-          />
-          <Autocomplete
-            disablePortal
-            id="combo-box-sub-category"
-            size="small"
-            options={subCategories}
-            renderInput={(params) => (
-              <TextField
-                {...params}
-                style={{
-                  marginRight: "20px",
-                  marginLeft: "10px",
-                  width: "400px",
-                }}
-                label="Enter sub category"
-                variant="outlined"
-                size="small"
-              />
-            )}
-            value={subCategory}
-            onChange={(e, v, reason) => {
-              if (reason === "clear") {
-                setSubCategory("All");
-              } else {
-                setSubCategory(v);
-              }
-            }}
-          />
         </div>
         <div style={{ marginLeft: "10px", marginRight: "90px", height: "86%" }}>
           <DataGrid
