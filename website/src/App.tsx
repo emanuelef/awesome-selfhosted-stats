@@ -176,6 +176,33 @@ const columns: GridColDef[] = [
     width: 110,
   },
   {
+    field: "liveness",
+    headerName: "Liveness",
+    width: 120,
+    valueGetter: (val) => parseFloat(val),
+    renderCell: (params) => {
+      const value = params.value;
+      const color = getColorFromValue(value);
+
+      return (
+        <div
+          style={{
+            backgroundColor: color,
+            width: "100%",
+            height: "80%",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            boxSizing: "border-box",
+            border: "1px solid grey",
+          }}
+        >
+          {`${value}%`}
+        </div>
+      );
+    },
+  },
+  {
     field: "days-last-star",
     headerName: "Days last star",
     width: 100,
@@ -251,33 +278,6 @@ const columns: GridColDef[] = [
     renderCell: (params) => (
       <Linkweb href={`./#/starstimeline/${params.row.repo}`}>link</Linkweb>
     ),
-  },
-  {
-    field: "liveness",
-    headerName: "Liveness",
-    width: 120,
-    valueGetter: (val) => parseFloat(val),
-    renderCell: (params) => {
-      const value = params.value;
-      const color = getColorFromValue(value);
-
-      return (
-        <div
-          style={{
-            backgroundColor: color,
-            width: "100%",
-            height: "80%",
-            display: "flex",
-            alignItems: "center",
-            justifyContent: "center",
-            boxSizing: "border-box",
-            border: "1px solid grey",
-          }}
-        >
-          {`${value}%`}
-        </div>
-      );
-    },
   },
 ];
 
