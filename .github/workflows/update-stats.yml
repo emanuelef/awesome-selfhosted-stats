@@ -39,6 +39,9 @@ jobs:
 
       - name: Push generated csv files to the repo
         uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update stats"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
 
       - name: Upload results
         uses: actions/upload-artifact@v4
