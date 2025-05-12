@@ -5,9 +5,9 @@ go 1.24
 toolchain go1.24.2
 
 require (
-	github.com/emanuelef/github-repo-activity-stats v0.2.50
+	github.com/emanuelef/github-repo-activity-stats v0.2.51
 	github.com/joho/godotenv v1.5.1
-	golang.org/x/oauth2 v0.29.0
+	golang.org/x/oauth2 v0.30.0
 )
 
 require (
@@ -15,7 +15,7 @@ require (
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.60.0 // indirect
 	go.opentelemetry.io/otel v1.35.0 // indirect
 	go.opentelemetry.io/otel/trace v1.35.0 // indirect
-	golang.org/x/sync v0.13.0 // indirect
+	golang.org/x/sync v0.14.0 // indirect
 )
 
 require (
@@ -28,6 +28,6 @@ require (
 	go.opentelemetry.io/auto/sdk v1.1.0 // indirect
 	go.opentelemetry.io/otel/metric v1.35.0 // indirect
 	golang.org/x/mod v0.24.0 // indirect
-	golang.org/x/net v0.39.0 // indirect
+	golang.org/x/net v0.40.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0
 )
