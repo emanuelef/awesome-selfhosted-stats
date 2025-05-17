@@ -1,819 +1,774 @@
 repo,stars,new-stars-last-30d,new-stars-last-14d,new-stars-last-7d,new-stars-last-24H,stars-per-mille-30d,days-last-star,days-last-commit,days-since-creation,mentionable-users,language,archived,liveness,unique-contributors,new-commits-last-30d,tag
-Bubka/2FAuth,2743,68,29,10,2,24.790,0,34,2192,15,PHP,false,46.000,0,0,Miscellaneous
-RARgames/4gaBoards,208,63,49,40,1,302.885,0,0,849,41,JavaScript,false,100.000,3,112,Task Management & To-do Lists
-doublespeakgames/adarkroom,7566,52,27,14,4,6.873,0,87,4334,118,JavaScript,false,40.000,0,0,Games
-mirego/accent,1394,11,4,3,0,7.891,2,42,2614,160,Elixir,false,22.000,0,0,Software Development
-acp-admin/acp-admin,51,1,1,1,0,19.608,3,0,3036,4,Ruby,false,70.000,1,63,Community-Supported Agriculture (CSA)
-activepieces/activepieces,14751,1029,462,201,36,69.758,0,0,895,246,TypeScript,false,100.000,33,904,Automation
-ActivityWatch/activitywatch,14187,246,110,50,6,17.340,0,93,3305,27,Python,false,62.000,0,0,Time Tracking
-actualbudget/actual,18821,496,251,121,25,26.354,0,0,1113,307,TypeScript,false,100.000,22,89,"Money, Budgeting & Management"
-AdguardTeam/AdGuardHome,28354,488,230,97,16,17.211,0,1,3235,196,Go,false,100.000,4,19,DNS
-Admidio/admidio,372,4,2,2,0,10.753,4,0,3783,37,PHP,false,72.000,6,80,Human Resources Management (HRM)
-vrana/adminer,6769,136,67,26,7,20.092,0,9,5500,165,PHP,false,92.000,8,44,Database Management
-seanmorley15/AdventureLog,1141,54,23,12,2,47.327,0,2,412,25,Svelte,false,90.000,4,78,Maps and Global Positioning System (GPS)
-aimeos/aimeos,4599,107,45,21,4,23.266,0,3,2805,6,JavaScript,false,82.000,2,2,E-commerce
-johanohly/AirTrail,519,29,12,6,0,55.877,2,14,284,10,TypeScript,false,41.000,2,16,Maps and Global Positioning System (GPS)
-akaunting/akaunting,8608,91,41,24,2,10.572,0,0,2885,101,PHP,false,100.000,2,22,"Money, Budgeting & Management"
-alephdata/aleph,2143,22,10,6,0,10.266,1,15,3914,63,JavaScript,false,41.000,2,18,Search Engines
-Ardakilic/alerthub,214,1,1,1,0,4.673,4,12,2571,9,JavaScript,false,32.000,2,2,Miscellaneous
-alfio-event/alf.io,1483,2,0,0,0,1.349,24,12,3946,58,Java,false,26.000,3,6,Booking and Scheduling
-Alfresco/alfresco-community-repo,163,3,1,0,0,18.405,11,1,1759,425,Java,false,57.000,9,46,Content Management Systems (CMS)
-lanedirt/AliasVault,707,97,39,21,2,137.199,0,0,350,2,C#,false,100.000,2,262,Password Managers
-ampache/ampache,3644,16,6,4,2,4.391,0,0,4438,123,PHP,false,91.000,4,192,Media Streaming
-melmothx/amusewiki,194,1,1,1,0,5.155,4,7,4093,13,Perl,false,32.000,1,3,Wikis
-DaveStephens/ansible-nas,3440,27,10,8,0,7.849,0,2,2817,79,Jinja,false,67.000,1,4,Self-hosting Solutions
-antville/antville,81,0,0,0,0,0.000,32,23,3694,5,JavaScript,false,16.000,2,14,Blogging Platforms
-anycable/anycable,2057,26,5,3,0,12.640,4,3,3176,30,Go,false,52.000,1,7,Communication
-apache/airflow,40063,485,179,100,14,12.106,0,0,3685,3289,Python,false,100.000,98,705,Automation
-apache/solr,1384,29,14,6,1,20.954,0,0,1543,424,Java,false,95.000,16,28,Search Engines
-oupala/apaxy,1893,4,1,1,0,2.113,1,218,4586,30,Shell,false,12.000,0,0,File Transfer
-apostrophecms/apostrophe,4433,16,8,4,0,3.609,2,1,4479,111,JavaScript,false,71.000,6,26,Content Management Systems (CMS)
-AppFlowy-IO/appflowy,63011,1049,490,308,49,16.648,0,0,1429,365,Dart,false,100.000,11,230,Task Management & To-do Lists
-caronc/apprise,13456,333,216,160,7,24.747,0,15,2728,88,Python,false,72.000,1,1,Communication
-appsmithorg/appsmith,36982,387,144,75,10,10.465,0,0,1781,341,TypeScript,false,100.000,25,117,Software Development
-appwrite/appwrite,48644,573,321,205,29,11.779,0,0,2229,356,TypeScript,false,100.000,8,58,Software Development
-aptabase/aptabase,1328,35,16,10,1,26.355,0,45,782,8,TypeScript,false,41.000,0,0,Analytics
-ArchiveBox/ArchiveBox,23854,233,96,47,7,9.768,0,56,2933,124,Python,false,68.000,0,0,Archiving and Digital Preservation (DP)
-archivesspace/archivesspace,373,4,3,1,0,10.724,4,0,4691,94,Ruby,false,72.000,10,104,Archiving and Digital Preservation (DP)
-ArtalkJS/Artalk,1900,41,21,13,3,21.579,0,103,2417,31,Go,false,40.000,0,0,Communication
-asciinema/asciinema-server,2365,7,1,1,0,2.960,2,7,5181,45,Elixir,false,42.000,1,44,Miscellaneous
-asterisk/asterisk,2555,59,30,17,4,23.092,0,0,3687,235,C,false,100.000,12,22,Communication
-Atheos/Atheos,539,10,4,3,1,18.553,0,1,2069,90,JavaScript,false,68.000,3,13,Software Development
-atomicdata-dev/atomic-server,1260,27,15,7,2,21.429,0,9,1776,16,TypeScript,false,57.000,1,2,Knowledge Management Tools
-AtsumeruDev/Atsumeru,122,7,4,2,0,57.377,2,120,894,2,Java,false,12.000,0,0,Document Management
-advplyr/audiobookshelf,8773,433,261,172,18,49.356,0,0,1367,251,JavaScript,false,100.000,32,123,Media Streaming
-izderadicka/audioserve,764,2,1,0,0,2.618,10,37,2687,10,Rust,false,13.000,0,0,Media Streaming
-macarooni-man/auto-mcs,263,20,10,5,1,76.046,0,14,736,2,Python,false,51.000,1,47,Games
-automatisch/automatisch,8791,136,56,27,7,15.470,0,6,1323,25,JavaScript,false,100.000,4,82,Automation
-eldy/awstats,396,3,2,2,0,7.576,3,58,3562,54,Perl,false,18.000,0,0,Analytics
-azimuttapp/azimutt,1868,22,10,2,0,11.777,1,50,1361,15,Elm,false,31.000,0,0,Database Management
-AzuraCast/AzuraCast,3384,41,13,6,0,12.116,2,3,3302,57,PHP,false,61.000,2,11,Media Streaming
-babybuddy/babybuddy,2344,34,20,14,0,14.505,1,5,2762,91,Python,false,55.000,1,1,Miscellaneous
-backdrop/backdrop,1009,6,3,2,0,5.946,5,0,4285,237,PHP,false,68.000,4,14,Content Management Systems (CMS)
-bagisto/bagisto,18598,681,311,131,20,36.617,0,1,2440,211,PHP,false,100.000,6,166,E-commerce
-karlomikus/bar-assistant,790,16,7,4,1,20.253,0,2,955,5,PHP,false,73.000,1,10,Recipe Management
-sabre-io/Baikal,2717,41,23,14,2,15.090,0,29,4826,60,PHP,false,50.000,1,1,Calendar & Contacts
-daya0576/beaverhabits,1156,101,37,17,3,87.370,0,0,430,8,Python,false,100.000,3,54,Time Tracking
-mariocandela/beelzebub,1075,66,19,9,1,61.395,0,10,1103,5,Go,false,57.000,1,2,Miscellaneous
-beetbox/beets,13477,86,36,14,3,6.381,0,1,5393,499,Python,false,100.000,7,56,Media Streaming
-bencherdev/bencher,683,21,11,5,0,30.747,3,14,1755,13,MDX,false,37.000,1,4,Software Development
-bewcloud/bewcloud,604,64,19,10,5,105.960,0,2,426,7,TypeScript,false,77.000,1,2,File Transfer & Synchronization
-knrdl/bicimon,58,2,1,1,0,34.483,1,1126,1136,1,HTML,false,12.000,0,0,Maps and Global Positioning System (GPS)
-bigbluebutton/bigbluebutton,8789,35,15,11,1,3.982,0,0,5470,218,JavaScript,false,95.000,15,221,Communication
-bigcapitalhq/bigcapital,2822,35,18,6,0,12.403,2,0,1332,22,TypeScript,false,81.000,1,14,"Money, Budgeting & Management"
-bigtreecms/BigTree-CMS,218,0,0,0,0,0.000,103,46,4795,14,PHP,false,6.000,0,0,Content Management Systems (CMS)
-w4/bin,519,13,4,3,2,25.048,0,198,2286,10,Rust,false,26.000,0,0,Pastebins
-querwurzel/BinPastes,5,1,1,0,0,200.000,7,10,900,2,Java,false,27.000,1,2,Pastebins
-sjdonado/bit,33,3,1,0,0,90.909,11,38,1432,1,Crystal,false,13.000,0,0,URL Shorteners
-bitcart/bitcart,649,16,7,3,0,24.653,1,16,2265,14,Python,false,31.000,1,1,"Money, Budgeting & Management"
-bitmagnet-io/bitmagnet,2992,91,41,21,0,30.414,1,4,591,26,Go,false,72.000,3,5,Archiving and Digital Preservation (DP)
-fsinfuhh/Bitpoll,269,4,2,0,0,14.870,8,173,2865,19,Python,false,7.000,0,0,Polls and Events
-webtorrent/bittorrent-tracker,1831,10,3,1,1,5.461,0,116,4069,68,JavaScript,false,22.000,0,0,File Transfer
-bitwarden/server,16530,156,65,32,2,9.437,0,0,3461,198,C#,false,100.000,33,112,Password Managers
-blackcandy-org/black_candy,3589,74,19,10,0,20.619,2,7,2655,5,Ruby,false,47.000,1,7,Media Streaming
-blinko-space/blinko,3773,306,94,47,6,81.103,0,2,204,30,TypeScript,false,100.000,6,46,Note-taking & Editors
-0xERR0R/blocky,5328,86,29,17,2,16.141,0,1,2018,63,Go,false,82.000,2,2,DNS
-bludit/bludit,1322,7,3,1,0,5.295,4,264,3721,83,JavaScript,false,12.000,0,0,Content Management Systems (CMS)
-bluecherrydvr/bluecherry-apps,233,1,1,1,0,4.292,4,3,5202,27,C++,false,42.000,1,3,Video Surveillance
-TheWicklowWolf/BookBounty,219,10,8,4,0,45.662,2,66,545,2,Python,false,17.000,0,0,Automation
-Mozzo1000/booklogr,304,8,4,2,0,26.316,3,108,417,1,JavaScript,false,12.000,0,0,Document Management
-BookStackApp/BookStack,16610,207,98,37,6,12.462,0,1,3547,181,PHP,false,100.000,1,9,Wikis
-bookwyrm-social/bookwyrm,2444,23,12,8,0,9.411,1,12,1936,114,Python,false,55.000,3,55,Document Management
-evroon/bracket,1137,825,813,110,9,725.594,0,0,888,10,Python,false,100.000,5,35,Polls and Events
-ndom91/briefkasten,1059,20,9,3,0,18.886,3,7,1107,8,JavaScript,false,43.000,1,2,Bookmarks and Link Sharing
-btcpayserver/btcpayserver,6750,59,30,18,2,8.741,0,1,2827,168,C#,false,90.000,6,56,"Money, Budgeting & Management"
-georgemandis/bubo-rss,206,3,2,1,1,14.563,0,115,1996,4,TypeScript,false,22.000,0,0,Feed Readers
-buddypress/BuddyPress,234,2,0,0,0,8.547,26,26,4415,18,PHP,false,14.000,1,1,Communication
-Budibase/budibase,24522,291,109,59,7,11.867,0,0,2169,101,TypeScript,false,100.000,9,592,Software Development
-bugsink/bugsink,665,222,56,35,7,333.835,0,0,268,2,Python,false,100.000,2,65,Ticketing
-bugzilla/bugzilla,740,15,9,7,1,20.270,0,234,4082,91,Perl,false,31.000,0,0,Ticketing
-jarun/Buku,6705,35,17,10,2,5.220,0,0,3483,70,Python,false,87.000,3,9,Bookmarks and Link Sharing
-bunkerity/bunkerweb,7955,141,53,24,2,17.725,0,62,2095,30,Python,false,60.000,0,0,Web Servers
-bytebase/bytebase,12394,143,63,31,5,11.538,0,0,1570,90,Go,false,100.000,10,245,Database Management
-caddyserver/caddy,64283,835,333,157,22,12.989,0,2,3775,323,Go,false,100.000,9,18,Web Servers
-calcom/cal.com,36220,535,227,112,14,14.771,0,0,1515,769,TypeScript,false,100.000,36,275,Booking and Scheduling
-janeczku/calibre-web,14611,259,113,53,10,17.726,0,46,3574,233,Fluent,false,68.000,0,0,Document Management
-kovidgoyal/calibre,21408,287,139,69,9,13.406,0,0,4370,334,Python,false,100.000,8,121,Document Management
-IceWhaleTech/CasaOS,29819,507,248,86,7,17.003,0,30,1328,24,Go,false,68.000,0,0,Self-hosting Solutions
-centrifugal/centrifugo,8959,71,39,25,7,7.925,0,5,3698,44,Go,false,84.000,2,10,Communication
-chamilo/chamilo-lms,856,7,3,2,0,8.178,2,1,4430,73,PHP,false,62.000,5,125,Learning and Courses
-dgtlmoon/changedetection.io,24046,556,225,97,5,23.122,0,4,1569,101,Python,false,100.000,6,27,Automation
-TheWicklowWolf/ChannelTube,204,8,3,2,0,39.216,3,14,574,2,Python,false,22.000,1,1,Media Management
-chartbrew/chartbrew,2921,105,58,11,2,35.947,0,0,2086,20,JavaScript,false,100.000,1,52,Database Management
-chartdb/chartdb,16476,742,231,99,18,45.035,0,1,284,64,TypeScript,false,100.000,4,34,Database Management
-chaskiq/chaskiq,3323,30,12,6,1,9.028,0,210,2544,24,TypeScript,false,35.000,0,0,Communication
-chatwoot/chatwoot,23641,455,254,115,16,19.246,0,0,2102,273,Ruby,false,100.000,12,77,Communication
-chevereto/chevereto,650,19,9,5,1,29.231,0,2,897,5,PHP,false,71.000,1,1,Photo Galleries
-SinTan1729/chhoto-url,257,13,4,2,0,50.584,2,0,907,6,Rust,false,76.000,2,83,URL Shorteners
-chibisafe/chibisafe,2144,28,15,6,0,13.060,2,51,3045,55,TypeScript,false,31.000,0,0,File Transfer
-chiefonboarding/ChiefOnboarding,761,10,4,1,0,13.141,5,70,1767,15,Python,false,12.000,0,0,Automation
-devrsi0n/chirpy,576,1,1,0,0,1.736,12,45,1264,6,TypeScript,false,11.000,0,0,Communication
-jeremyckahn/chitchatter,1843,48,14,9,0,26.044,2,1,1012,15,TypeScript,false,67.000,2,9,Communication
-Wingysam/Christmas-Community,347,5,2,0,0,14.409,7,104,1340,29,TypeScript,false,7.000,0,0,Polls and Events
-xenocrat/chyrp-lite,433,5,1,1,0,11.547,3,4,4015,13,PHP,false,52.000,1,36,Blogging Platforms
-ckan/ckan,4703,34,14,8,1,7.229,0,8,4935,319,Python,false,65.000,8,75,Archiving and Digital Preservation (DP)
-ClaperCo/Claper,560,14,8,4,1,25.000,0,132,1028,11,Elixir,false,31.000,0,0,Polls and Events
-clearflask/clearflask,356,5,3,2,1,14.045,0,13,1382,3,TypeScript,false,44.000,1,4,Polls and Events
-MacWarrior/clipbucket-v5,114,2,1,0,0,17.544,8,0,2594,30,JavaScript,false,67.000,1,50,Media Streaming
-Sathvik-Rao/ClipCascade,832,44,19,9,0,52.885,2,99,256,1,Python,false,25.000,0,0,Miscellaneous
-ipv6rslimited/cloudseeder,147,5,3,2,0,34.014,5,8,383,2,Shell,false,32.000,1,1,Self-hosting Solutions
-dbeaver/cloudbeaver,3897,68,32,15,1,17.449,0,1,1862,72,TypeScript,false,100.000,14,51,Database Management
-magicbug/cloudlog,502,9,6,3,1,17.928,0,8,5134,102,PHP,false,49.000,1,8,Miscellaneous
-cncjs/cncjs,2408,21,8,4,2,8.721,0,112,3555,40,JavaScript,false,35.000,0,0,Manufacturing
-Cockpit-HQ/Cockpit,446,9,6,4,1,20.179,0,7,1577,14,PHP,false,53.000,1,17,Content Management Systems (CMS)
-coder/code-server,71712,799,272,151,24,11.142,0,0,2269,243,TypeScript,false,100.000,5,17,Software Development
-coder/coder,9844,374,132,53,10,37.993,0,0,1241,198,Go,false,100.000,33,268,Software Development
-collectiveaccess/providence,320,4,4,2,1,12.500,0,7,4748,47,PHP,false,48.000,2,16,Archiving and Digital Preservation (DP)
-Athou/commafeed,3044,32,11,4,1,10.512,0,0,4439,93,Java,false,95.000,4,105,Feed Readers
-ComposioHQ/composio,25267,493,191,82,18,19.512,0,6,447,61,Python,false,100.000,8,22,Software Development
-concretecms/concretecms,793,3,1,1,0,3.783,3,3,4041,264,PHP,false,52.000,4,31,Content Management Systems (CMS)
-contao/contao,368,1,1,0,0,2.717,12,8,2466,109,PHP,false,31.000,4,18,Content Management Systems (CMS)
-conversejs/converse.js,3128,5,0,0,0,1.598,14,9,4682,287,JavaScript,false,34.000,10,89,Communication
-C4illin/ConvertX,1834,458,95,46,3,249.727,0,1,403,10,TypeScript,false,100.000,5,29,Miscellaneous
-convos-chat/convos,1106,29,6,2,0,26.221,4,98,4184,29,Perl,false,25.000,0,0,Communication
-coppermine-gallery/cpg1.6.x,70,1,0,0,0,14.286,27,337,3481,7,PHP,false,2.000,0,0,Photo Galleries
-9001/copyparty,1219,63,32,14,2,51.682,0,1,2181,16,Python,false,100.000,2,30,File Transfer
-coralproject/talk,1940,7,3,1,0,3.608,4,6,3118,69,TypeScript,false,48.000,3,12,Communication
-coreshop/CoreShop,288,1,0,0,0,3.472,22,3,3713,74,PHP,false,42.000,4,40,E-commerce
-cortezaproject/corteza,1789,24,11,7,1,13.415,0,22,2186,31,Go,false,47.000,2,7,Customer Relationship Management (CRM)
-azukaar/cosmos-Server,4480,78,37,24,3,17.411,0,40,824,16,JavaScript,false,56.000,0,0,Self-hosting Solutions
-CouchCMS/CouchCMS,360,2,1,1,1,5.556,0,6,3740,11,PHP,false,52.000,1,1,Content Management Systems (CMS)
-Countly/countly-server,5675,16,10,6,1,2.819,0,0,4735,89,JavaScript,false,91.000,13,239,Analytics
-craftcms/cms,3419,24,16,6,2,7.020,0,0,3030,233,PHP,false,95.000,7,283,Content Management Systems (CMS)
-cryptpad/cryptpad,6458,270,201,130,16,41.809,0,13,3849,120,JavaScript,false,84.000,2,5,Office Suites
-cstate/cstate,2697,30,11,4,1,11.123,0,70,2954,64,HTML,false,35.000,0,0,Status / Uptime pages
-Kshitij-Banerjee/Cubiks-2048,25,0,0,0,0,0.000,512,3995,4063,1,JavaScript,false,0.000,0,0,Games
-OpenPrinting/cups,1257,21,8,4,0,16.706,1,1,1715,106,C,false,75.000,3,48,Miscellaneous
-gchq/CyberChef,31229,336,168,93,14,10.759,0,3,3090,182,JavaScript,false,100.000,13,48,Miscellaneous
-cypht-org/cypht,1107,37,11,4,0,33.424,0,2,4108,94,PHP,false,71.000,6,15,Communication
-cyrusimap/cyrus-imapd,578,3,1,0,0,5.190,13,1,3285,104,C,false,57.000,8,112,Communication
-calzoneman/sync,1518,7,3,2,0,4.611,5,82,4472,26,JavaScript,false,12.000,0,0,Media Streaming
-dagu-dev/dagu,1972,24,12,9,1,12.170,0,4,1119,45,Go,false,67.000,2,9,Media Management
-emanuelef/daily-stars-explorer,195,10,6,3,1,51.282,0,5,601,2,JavaScript,false,59.000,1,6,Analytics
-PhiTux/DailyTxT,273,8,7,5,1,29.304,0,32,1616,7,Vue,false,33.000,0,0,Note-taking & Editors
-webreaper/damselfly,1632,19,4,3,0,11.642,4,128,2055,4,C#,false,16.000,0,0,Photo Galleries
-dashpresshq/dashpress,1860,3,1,0,0,1.613,8,145,1004,9,TypeScript,false,7.000,0,0,Software Development
-lissy93/dashy,20718,353,163,79,8,17.038,0,5,1537,129,Vue,false,94.000,2,10,Personal Dashboards
-balzack/databag,1024,15,6,2,0,14.648,3,32,1242,13,TypeScript,false,27.000,0,0,Communication
-securitybunker/databunker,1298,7,4,3,0,5.393,2,12,1985,5,Go,false,32.000,1,1,Database Management
-simonw/datasette,10019,74,32,13,1,7.386,0,24,2762,78,Python,false,62.000,2,7,Database Management
-tchapi/davis,471,15,6,3,0,31.847,1,12,2025,9,PHP,false,43.000,2,10,Calendar & Contacts
-mguessan/davmail,627,6,4,2,0,9.569,1,0,2528,1,Java,false,72.000,1,25,Communication
-Freika/dawarich,4910,388,217,85,11,79.022,0,7,417,31,Ruby,false,92.000,4,72,Maps and Global Positioning System (GPS)
-debops/debops,1308,8,4,2,0,6.116,3,199,2819,159,Jinja,false,12.000,0,0,Communication
-diaspora/diaspora,13507,43,19,14,1,3.184,0,32,5357,369,Ruby,false,41.000,0,0,Communication
-MichaIng/DietPi,5255,86,29,18,5,16.365,0,26,3715,114,Shell,false,60.000,3,22,Self-hosting Solutions
-langgenius/dify,97377,5429,2086,1109,216,55.752,0,0,765,807,TypeScript,false,100.000,110,309,Software Development
-DirectoryLister/DirectoryLister,2343,17,10,6,1,7.256,0,6,5202,41,PHP,false,71.000,2,27,File Transfer
-directus/directus,30505,620,342,104,19,20.325,0,2,4538,458,TypeScript,false,100.000,10,45,Database Management
-Cybrarist/Discount-Bandit,423,7,3,1,0,16.548,3,44,679,4,PHP,false,18.000,0,0,Automation
-discourse/discourse,44001,304,147,68,8,6.909,0,0,4507,934,Ruby,false,100.000,43,388,Communication
-dittofeed/dittofeed,2314,63,37,20,4,27.226,0,0,958,23,TypeScript,false,100.000,2,50,Automation
-DjangoCRM/django-crm,257,29,14,8,0,112.840,1,0,326,9,Python,false,85.000,4,88,Customer Relationship Management (CRM)
-django-wiki/django-wiki,1867,9,7,2,0,4.821,1,14,4685,116,Python,false,29.000,2,6,Wikis
-dnote/dnote,2866,10,4,2,0,3.489,3,320,2968,22,Go,false,12.000,0,0,Note-taking & Editors
-jhpyle/docassemble,841,11,8,3,2,13.080,0,4,3681,52,Python,false,67.000,2,13,Polls and Events
-docat-org/docat,848,8,5,2,1,9.434,0,35,2015,20,TypeScript,false,28.000,0,0,Miscellaneous
-docker-mailserver/docker-mailserver,16377,631,536,334,10,38.530,0,5,3701,314,Shell,false,94.000,4,8,Communication
-shipsaas/docking,261,6,3,1,0,22.989,1,358,758,2,PHP,false,12.000,0,0,Document Management
-GhostWriters/DockSTARTer,2425,22,12,4,0,9.072,3,4,2547,74,Shell,false,65.000,4,24,Self-hosting Solutions
-docmost/docmost,15276,1960,295,110,15,128.306,0,6,651,30,TypeScript,false,100.000,3,29,Wikis
-suitenumerique/docs,12006,604,140,70,15,50.308,0,0,492,32,Python,false,100.000,12,57,Note-taking & Editors
-eikek/docspell,1798,17,10,2,0,9.455,5,1,2130,41,Elm,false,71.000,3,24,Document Management
-documenso/documenso,10915,179,73,30,8,16.399,0,1,795,120,TypeScript,false,100.000,4,35,Document Management
-documize/community,2227,17,7,1,0,7.634,4,135,3303,27,JavaScript,false,21.000,0,0,Wikis
-docusealco/docuseal,9139,160,76,40,2,17.507,0,3,682,4,Ruby,false,100.000,2,50,Document Management
-dokuwiki/dokuwiki,4300,18,5,4,2,4.186,0,0,5611,588,PHP,false,82.000,6,20,Wikis
-Dolibarr/dolibarr,6080,179,141,50,6,29.441,0,0,5072,697,PHP,false,100.000,45,510,Resource Planning
-DOMjudge/domjudge,797,12,3,3,0,15.056,3,2,4272,73,PHP,false,62.000,3,11,Miscellaneous
-domoticz/domoticz,3580,5,1,1,1,1.397,0,0,3561,382,C++,false,82.000,5,41,Internet of Things (IoT)
-donetick/donetick,673,58,33,10,0,86.181,1,21,319,11,Go,false,52.000,1,5,Task Management & To-do Lists
-dovecot/core,1061,11,9,5,2,10.368,0,0,3445,107,C,false,91.000,4,57,Communication
-DarrenOfficial/dpaste,574,4,2,2,0,6.969,2,18,5158,31,Python,false,24.000,1,3,Pastebins
-corecode/dma,241,1,1,0,0,4.149,13,48,4930,34,C,false,11.000,0,0,Communication
-jgraph/drawio,1490,310,161,114,16,208.054,0,2,3173,32,JavaScript,false,100.000,1,5,Note-taking & Editors
-dreamfactorysoftware/dreamfactory,1605,8,6,5,2,4.984,0,0,3668,21,Shell,false,79.000,3,7,Software Development
-teleclimber/Dropserver,63,1,0,0,0,15.873,25,156,2303,2,Go,false,2.000,0,0,Self-hosting Solutions
-apache/druid,13702,36,14,5,0,2.627,1,0,4587,653,Java,false,85.000,21,58,Analytics
-DSpace/DSpace,964,11,5,4,0,11.411,2,0,4808,235,Java,false,76.000,16,140,Document Management
-filipecarneiro/ELabel,27,1,0,0,0,37.037,22,98,533,4,JavaScript,false,2.000,0,0,Community-Supported Agriculture (CSA)
-alextselegidis/easyappointments,3625,45,27,16,3,12.414,0,73,3823,88,PHP,false,40.000,0,0,Booking and Scheduling
-easy-wi/developer,236,1,0,0,0,4.237,26,19,4287,42,PHP,false,12.000,1,1,Games
-eclipse/che,7041,15,4,1,0,2.130,6,1,3703,157,TypeScript,false,58.000,5,10,Software Development
-jortilles/EDA,138,4,2,1,0,28.986,3,0,1961,13,TypeScript,false,72.000,3,24,Analytics
-EGroupware/egroupware,268,4,1,0,0,14.925,7,0,3290,31,PHP,false,67.000,4,114,Groupware
-processone/ejabberd,6271,33,12,6,0,5.262,2,2,5575,154,Erlang,false,75.000,2,34,Communication
-elabftw/elabftw,1104,16,8,4,0,14.493,1,3,4535,49,PHP,false,61.000,2,53,Content Management Systems (CMS)
-elastic/elasticsearch,72688,410,186,121,16,5.641,0,0,5575,3714,Java,false,100.000,96,534,Search Engines
-vector-im/element-web,11746,112,51,25,7,9.535,0,0,3586,576,TypeScript,false,100.000,18,106,Communication
-Elgg/Elgg,1653,2,1,1,0,1.210,5,2,5730,81,PHP,false,62.000,2,21,Communication
-LukeSmithxyz/emailwiz,1946,27,21,14,3,13.875,0,11,2180,42,Shell,false,62.000,2,2,Communication
-emqx/emqx,14777,118,71,38,5,7.985,0,0,4532,141,Erlang,false,100.000,10,358,Internet of Things (IoT)
-CorentinTh/enclosed,1384,69,25,18,5,49.855,0,36,266,20,TypeScript,false,46.000,0,0,File Transfer
-joaovitoriasilva/endurain,980,99,24,12,2,101.020,0,4,567,7,Python,false,80.000,2,226,Health and Fitness
-engity-com/bifroest,43,4,2,1,1,93.023,0,2,319,5,Go,false,68.000,1,12,Remote Access
-NuSkooler/enigma-bbs,578,4,0,0,0,6.920,21,81,3488,26,JavaScript,false,4.000,0,0,Communication
-ente-io/ente,19247,481,217,100,20,24.991,0,0,927,184,Dart,false,100.000,16,672,Photo Galleries
-eprints/eprints3.4,37,1,0,0,0,27.027,17,7,2614,16,Perl,false,24.000,4,7,Document Management
-rtckit/eqivo,88,4,2,1,0,45.455,1,356,1147,1,PHP,false,12.000,0,0,Communication
-ergochat/ergo,2815,24,13,5,1,8.526,0,5,3321,51,Go,false,71.000,1,11,Communication
-frappe/erpnext,25003,509,245,132,25,20.358,0,0,5091,625,Python,false,100.000,29,366,Resource Planning
-erxes/erxes,3638,15,5,3,1,4.123,0,0,3108,153,TypeScript,false,86.000,10,97,Ticketing
-KL-Psychological-Methodology/ESMira,16,0,0,0,0,0.000,199,16,2032,8,unknown,false,12.000,2,2,Miscellaneous
-jonschoning/espial,837,10,4,2,0,11.947,2,136,2593,7,Haskell,false,12.000,0,0,Bookmarks and Link Sharing
-espocrm/espocrm,2208,78,45,16,5,35.326,0,1,3885,47,PHP,false,100.000,2,106,Customer Relationship Management (CRM)
-etesync/server,1649,19,6,4,2,11.522,0,307,2734,23,Python,false,31.000,0,0,Calendar & Contacts
-ether/etherpad-lite,17412,87,40,26,4,4.997,0,0,5164,306,TypeScript,false,100.000,3,18,Office Suites
-evcc-io/evcc,4606,159,62,26,5,34.520,0,0,1987,377,Go,false,100.000,36,162,Internet of Things (IoT)
-ever-co/ever-gauzy,2608,47,15,5,0,18.021,1,0,2174,91,TypeScript,false,85.000,9,202,Time Tracking
-evergreen-library-system/Evergreen,134,1,1,1,0,7.463,2,0,5113,125,PLpgSQL,false,70.000,9,27,Document Management
-evershopcommerce/evershop,5095,138,52,22,3,27.085,0,48,1470,37,JavaScript,false,66.000,0,0,E-commerce
-jonashellmann/everydocs-core,256,6,2,0,0,23.438,8,6,2182,1,Ruby,false,39.000,1,6,Document Management
-evidence-dev/evidence,5198,82,40,17,2,15.775,0,55,1450,64,JavaScript,false,56.000,0,0,Database Management
-tanq16/expenseowl,908,83,20,6,0,91.410,2,29,184,3,HTML,false,37.000,2,7,"Money, Budgeting & Management"
-thomas4019/expressa,442,2,0,0,0,4.525,27,151,3298,6,JavaScript,false,4.000,0,0,Content Management Systems (CMS)
-mayswind/ezbookkeeping,729,85,24,12,1,116.598,0,4,1672,8,Go,false,80.000,3,59,"Money, Budgeting & Management"
-nymanjens/facto,262,7,4,2,0,26.718,3,59,3713,3,Scala,false,18.000,0,0,"Money, Budgeting & Management"
-farmOS/farmOS,1070,14,8,1,0,13.084,2,6,4118,37,PHP,false,61.000,2,52,Resource Planning
-fastenhealth/fasten-onprem,2254,45,23,14,2,19.965,0,2,997,23,Go,false,82.000,3,3,Health and Fitness
-beancount/fava,2130,20,14,7,0,9.390,2,7,3450,97,Python,false,47.000,1,15,"Money, Budgeting & Management"
-featbit/featbit,1529,16,7,3,0,10.464,1,6,991,33,C#,false,53.000,2,7,Software Development
-fcrepo/fcrepo,221,2,0,0,0,9.050,20,6,4484,60,Java,false,36.000,3,10,Document Management
-Qolors/FeedCord,211,12,4,3,0,56.872,1,84,579,2,C#,false,16.000,0,0,Feed Readers
-cristoper/feedmixer,203,6,4,1,1,29.557,0,314,2954,1,Python,false,22.000,0,0,Automation
-ncarlier/feedpushr,366,4,1,1,0,10.929,6,13,2630,6,Go,false,32.000,1,1,Feed Readers
-Tiendil/feeds.fun,132,17,5,3,0,128.788,2,0,778,1,Python,false,72.000,1,14,Feed Readers
-revenz/fenrus,656,15,6,3,0,22.866,2,105,1187,15,JavaScript,false,21.000,0,0,Personal Dashboards
-codelibs/fess,1038,5,2,2,0,4.817,1,8,4263,37,Java,false,34.000,1,9,Search Engines
-getfider/fider,3482,87,53,17,0,24.986,1,7,3040,49,Go,false,72.000,2,10,Polls and Events
-filebrowser/filebrowser,29032,437,219,102,14,15.052,0,57,3534,182,Go,false,68.000,0,0,File Transfer
-filegator/filegator,2428,59,21,11,4,24.300,0,4,2163,46,PHP,false,70.000,1,1,File Transfer
-axeloz/filesharing,241,3,1,1,0,12.448,2,224,2857,5,PHP,false,12.000,0,0,File Transfer
-mickael-kerjean/filestash,11304,121,56,36,7,10.704,0,0,2894,65,JavaScript,false,100.000,1,28,File Transfer
-firefly-iii/firefly-iii,19116,452,179,78,14,23.645,0,4,3975,163,PHP,false,100.000,3,48,"Money, Budgeting & Management"
-mozilla/fxa,638,10,4,1,0,15.674,4,0,3634,208,TypeScript,false,72.000,17,227,Bookmarks and Link Sharing
-firezone/firezone,7215,74,33,19,4,10.256,0,0,1850,46,Elixir,false,100.000,4,273,Remote Access
-flagsmith/flagsmith,5628,59,26,16,2,10.483,0,0,2536,98,Python,false,100.000,15,72,Software Development
-flarum/flarum,15741,69,29,18,3,4.383,0,14,3789,32,PHP,false,50.000,1,1,Communication
-AndrewPaglusch/FlashPaper,445,6,2,1,1,13.483,0,181,2926,7,PHP,false,22.000,0,0,Pastebins
-dullage/flatnotes,2093,65,21,11,1,31.056,0,24,1381,15,Vue,false,52.000,2,2,Note-taking & Editors
-flatpressblog/flatpress,191,1,0,0,0,5.236,28,8,4260,12,PHP,false,32.000,2,192,Blogging Platforms
-BelledonneCommunications/flexisip,162,1,1,1,0,6.173,1,0,3643,24,C++,false,62.000,3,8,Communication
-flipt-io/flipt,4349,67,30,21,4,15.406,0,2,3114,66,Go,false,90.000,3,60,Software Development
-flowforge/flowforge,322,6,3,1,0,18.634,5,1,1416,31,JavaScript,false,62.000,8,236,Internet of Things (IoT)
-fluidd-core/fluidd,1532,16,8,2,1,10.444,0,5,1703,133,Vue,false,67.000,3,18,Manufacturing
-flyimg/flyimg,1113,8,5,1,0,7.188,4,34,3356,19,PHP,false,18.000,0,0,Miscellaneous
-mattermost/focalboard,23380,211,86,47,9,9.025,0,230,1682,271,TypeScript,false,62.000,0,0,Task Management & To-do Lists
-foodcoopshop/foodcoopshop,103,3,2,1,0,29.126,4,0,3185,15,PHP,false,72.000,2,41,Community-Supported Agriculture (CSA)
-foodcoops/foodsoft,337,3,1,0,0,8.902,13,5,5972,44,Ruby,false,43.000,4,12,Community-Supported Agriculture (CSA)
-mikebgrep/fork.recipes,51,4,1,1,0,78.431,3,17,175,2,HTML,false,32.000,1,25,Recipe Management
-formbricks/formbricks,10623,194,113,66,8,18.262,0,0,1075,264,TypeScript,false,100.000,13,173,Polls and Events
-FOSSBilling/FOSSBilling,1021,26,10,2,0,25.465,3,0,1094,91,PHP,false,85.000,7,71,"Money, Budgeting & Management"
-frappe/helpdesk,2352,251,40,23,5,106.718,0,2,1303,99,Vue,false,100.000,3,52,Ticketing
-frappe/hrms,2107,107,46,18,5,50.783,0,0,1072,224,Python,false,100.000,11,139,Human Resources Management (HRM)
-freescout-helpdesk/freescout,3463,60,27,14,0,17.326,1,1,2519,84,PHP,false,80.000,4,43,Ticketing
-signalwire/freeswitch,4048,74,25,13,3,18.281,0,30,2395,148,C,false,46.000,0,0,Communication
-FreshRSS/FreshRSS,11515,242,116,55,7,21.016,0,2,4589,306,PHP,false,100.000,6,34,Feed Readers
-friendica/friendica,1562,17,7,4,2,10.883,0,1,4939,13,PHP,false,81.000,6,51,Communication
-blakeblackshear/frigate,22582,591,285,127,14,26.171,0,0,2301,354,TypeScript,false,100.000,13,153,Video Surveillance
-apioo/fusio,1970,14,6,1,1,7.107,0,11,3578,3,PHP,false,53.000,1,6,Software Development
-0x2E/fusion,1600,92,52,34,7,57.500,0,2,436,13,Go,false,100.000,2,15,Feed Readers
-fusionpbx/fusionpbx,861,16,4,2,0,18.583,1,0,3607,207,PHP,false,76.000,7,38,Communication
-jech/galene,1055,8,4,2,0,7.583,2,0,1608,17,Go,false,64.000,1,4,Communication
-galette/galette,57,2,2,1,0,35.088,3,9,4504,109,PHP,false,42.000,5,52,"Money, Budgeting & Management"
-Phalcode/gamevault-backend,258,7,5,1,0,27.132,3,67,685,3,TypeScript,false,12.000,0,0,Games
-Zibbp/ganymede,706,32,16,10,0,45.326,1,8,1058,12,Go,false,55.000,3,34,Archiving and Digital Preservation (DP)
-gaseous-project/gaseous-server,559,34,17,11,2,60.823,0,2,821,2,C#,false,81.000,2,13,Games
-lowercasename/gathio,372,20,3,1,0,53.763,3,16,2121,19,JavaScript,false,36.000,2,21,Polls and Events
-TwiN/gatus,7438,118,52,27,2,15.864,0,0,2081,113,Go,false,100.000,7,10,Status / Uptime pages
-genea-app/genea-app,227,2,1,0,0,8.811,9,1149,1501,1,JavaScript,false,7.000,0,0,Genealogy
-geneweb/geneweb,341,3,2,0,0,8.798,12,1,4203,35,OCaml,false,57.000,5,175,Genealogy
-noandrea/geo2tz,81,1,0,0,0,12.346,29,52,1836,3,Go,false,8.000,0,0,Maps and Global Positioning System (GPS)
-gerbera/gerbera,1256,12,6,2,0,9.554,2,0,3932,93,C++,false,77.000,1,17,Media Streaming
-GerritCodeReview/gerrit,1054,16,8,3,1,15.180,0,0,3444,356,Java,false,91.000,16,185,Software Development
-TryGhost/Ghost,49252,298,137,69,4,6.051,0,0,4394,675,JavaScript,false,100.000,33,438,Blogging Platforms
-ghostfolio/ghostfolio,5742,134,53,29,4,23.337,0,0,1493,168,TypeScript,false,100.000,15,124,"Money, Budgeting & Management"
-vladkens/ghstats,151,3,1,1,0,19.868,1,89,294,2,Rust,false,12.000,0,0,Analytics
-GibbonEdu/core,520,5,3,1,0,9.615,6,0,4264,45,PHP,false,72.000,3,80,Learning and Courses
-gitblit-org/gitblit,2313,5,3,2,0,2.162,2,360,5076,117,Java,false,12.000,0,0,Software Development
-gitbucket/gitbucket,9245,17,9,3,1,1.839,0,1,4418,178,Scala,false,73.000,1,6,Software Development
-go-gitea/gitea,48616,571,270,144,21,11.745,0,0,3118,1456,Go,false,100.000,24,93,Software Development
-BreizhHardware/ntfy_alerts,26,4,3,2,0,153.846,3,11,441,2,Python,false,34.000,2,6,Automation
-jgm/gitit,2202,7,3,3,0,3.179,1,42,6034,60,Haskell,false,18.000,0,0,Wikis
-sitaramc/gitolite,8470,10,5,1,0,1.181,3,353,5744,38,Perl,false,12.000,0,0,Software Development
-GladysAssistant/Gladys,2808,20,11,7,3,7.123,0,0,3632,57,JavaScript,false,91.000,3,37,Internet of Things (IoT)
-glanceapp/glance,24236,1765,1284,374,27,72.826,0,0,383,61,Go,false,100.000,4,81,Personal Dashboards
-globaleaks/whistleblowing-software,1334,20,11,8,2,14.993,0,0,4641,46,Python,false,91.000,2,35,Communication
-glowing-bear/glowing-bear,960,7,4,3,0,7.292,1,306,4470,79,JavaScript,false,12.000,0,0,Communication
-yusing/godoxy,1797,147,86,57,6,81.803,0,1,442,4,Go,false,100.000,3,200,Web Servers
-thomaspoignant/go-feature-flag,1645,24,10,5,1,14.590,0,1,1616,73,Go,false,85.000,2,91,Software Development
-allinurl/goaccess,19338,119,68,39,8,6.154,0,9,4324,158,C,false,84.000,3,3,Analytics
-arp242/goatcounter,4893,62,17,8,2,12.671,0,34,2180,52,Go,false,41.000,0,0,Analytics
-gogs/gogs,46363,194,86,41,6,4.184,0,14,4111,494,Go,false,74.000,1,2,Software Development
-Forceu/gokapi,1881,28,15,7,0,14.886,1,12,1526,10,Go,false,47.000,2,6,File Transfer
-gollum/gollum,13998,23,11,5,1,1.643,0,38,5526,196,Ruby,false,41.000,0,0,Wikis
-sentriz/gonic,1895,46,20,12,1,24.274,0,31,2239,48,Go,false,41.000,0,0,Media Streaming
-majodev/google-webfonts-helper,12461,53,27,10,2,4.253,0,74,3798,9,TypeScript,false,40.000,0,0,Miscellaneous
-gophish/gophish,12568,126,62,34,7,10.025,0,235,4196,50,Go,false,62.000,0,0,Miscellaneous
-Depado/goploader,293,3,1,0,0,10.239,9,0,3463,11,JavaScript,false,67.000,2,21,File Transfer
-pldubouilh/gossa,973,13,2,1,0,13.361,6,80,2438,14,Go,false,16.000,0,0,File Transfer
-stv0g/gose,238,7,2,0,0,29.412,8,4,1164,2,Go,false,39.000,1,4,File Transfer
-gotenberg/gotenberg,9218,215,90,49,9,23.324,0,0,2610,59,Go,false,100.000,4,27,Document Management
-gotify/server,12481,157,70,36,5,12.579,0,10,2677,36,Go,false,82.000,2,2,Communication
-superseriousbusiness/gotosocial,4141,38,14,5,0,9.177,1,0,1538,135,Go,false,75.000,16,89,Communication
-gramps-project/gramps-web-api,107,4,1,1,0,37.383,4,2,1736,23,Python,false,62.000,2,23,Genealogy
-verifid/graph-vl,62,1,1,0,0,16.129,13,212,2093,1,Python,false,5.000,0,0,Miscellaneous
-graphhopper/graphhopper,5787,75,44,25,0,12.960,0,0,4835,115,Java,false,92.000,4,9,Maps and Global Positioning System (GPS)
-exogee-technology/graphweaver,518,5,1,0,0,9.653,11,0,998,18,TypeScript,false,67.000,4,40,Software Development
-goniszewski/grimoire,2428,36,13,6,0,14.827,1,77,693,11,TypeScript,false,25.000,0,0,Bookmarks and Link Sharing
-gristlabs/grist-core,8374,116,41,18,2,13.852,0,0,1820,106,TypeScript,false,100.000,17,74,Office Suites
-grocy/grocy,7514,130,80,44,6,17.301,0,43,2952,87,Blade,false,68.000,0,0,Resource Planning
-Intermesh/groupoffice,224,8,4,2,2,35.714,0,0,2625,19,PHP,false,82.000,4,120,Groupware
-JeromeDevome/GRR,90,1,0,0,0,11.111,24,11,3584,22,PHP,false,28.000,1,14,"Money, Budgeting & Management"
-apache/guacamole-server,3346,40,13,10,0,11.955,1,3,3342,70,C,false,65.000,5,39,Remote Access
-HabitRPG/habitica,12860,133,86,65,6,10.342,0,2,4726,890,JavaScript,false,100.000,4,16,Miscellaneous
-TheNickOfTime/handbrake-web,420,23,7,3,0,54.762,2,53,359,1,TypeScript,false,31.000,0,0,Automation
-haraka/Haraka,5257,27,11,5,0,5.136,1,35,5180,179,JavaScript,false,31.000,0,0,Communication
-hasura/graphql-engine,31537,94,53,25,4,2.981,0,0,2524,562,TypeScript,false,100.000,10,54,Software Development
-importantimport/hatsu,195,7,6,5,4,35.897,0,42,667,7,Rust,false,33.000,0,0,Communication
-havenweb/haven,693,6,5,1,0,8.658,3,6,1578,7,Ruby,false,44.000,2,4,Blogging Platforms
-rembo10/headphones,3471,10,4,3,1,2.881,0,160,5109,127,Python,false,22.000,0,0,Media Management
-healthchecks/healthchecks,8887,91,46,26,5,10.240,0,0,3612,97,Python,false,100.000,1,41,Automation
-hedgedoc/hedgedoc,6022,151,65,25,4,25.075,0,25,2241,163,TypeScript,false,72.000,3,10,Note-taking & Editors
-linuxserver/Heimdall,8368,74,37,22,3,8.843,0,191,2666,80,PHP,false,50.000,0,0,Personal Dashboards
-HemmeligOrg/Hemmelig.app,875,13,6,2,0,14.857,2,2,1432,35,JavaScript,false,63.000,3,8,Pastebins
-heyform/heyform,8102,100,43,26,3,12.343,0,39,422,24,TypeScript,false,56.000,0,0,Polls and Events
-HiEventsDev/hi.events,2884,129,53,23,2,44.730,0,0,570,22,PHP,false,100.000,4,36,Booking and Scheduling
-ashwin-pc/hiccup,169,5,1,0,0,29.586,10,228,1789,2,TypeScript,false,7.000,0,0,Personal Dashboards
-hitobito/hitobito,409,2,1,1,0,4.890,3,0,4307,61,Ruby,false,72.000,5,58,Polls and Events
-stephane-r/holoplay-pwa,109,0,0,0,0,0.000,56,297,809,5,TypeScript,false,0.000,0,0,Media Streaming
-homarr-labs/homarr,792,203,76,30,5,256.313,0,0,524,19,TypeScript,false,100.000,8,168,Personal Dashboards
-home-assistant/core,79048,1040,711,284,29,13.157,0,0,4259,4208,Python,false,100.000,163,1228,Internet of Things (IoT)
-sysadminsmedia/homebox,2633,223,140,49,2,84.694,0,1,332,166,Go,false,100.000,7,82,Inventory Management
-progmaticltd/homebox,486,1,1,1,0,2.058,5,304,2986,12,Shell,false,10.000,0,0,Communication
-xemle/home-gallery,946,22,13,7,1,23.256,0,22,1605,11,JavaScript,false,47.000,1,4,Photo Galleries
-gethomepage/homepage,23746,825,344,159,25,34.743,0,0,996,393,JavaScript,false,100.000,13,18,Personal Dashboards
-tomershvueli/homepage,315,1,0,0,0,3.175,19,1467,3176,2,JavaScript,false,2.000,0,0,Personal Dashboards
-bastienwirtz/homer,10121,120,56,24,3,11.857,0,10,2528,129,Vue,false,86.000,6,18,Personal Dashboards
-homeserverhq/hshq,22,2,1,1,0,90.909,1,0,903,1,Shell,false,72.000,1,62,Self-hosting Solutions
-hoppscotch/hoppscotch,71643,592,221,107,21,8.263,0,7,2094,271,TypeScript,false,95.000,14,27,Software Development
-danielbrendel/hortusfox-web,905,46,12,4,0,50.829,1,0,599,17,PHP,false,85.000,1,25,Miscellaneous
-zelon88/HRConvert2,1258,24,12,4,0,19.078,2,340,2638,6,PHP,false,25.000,0,0,Automation
-danpros/htmly,1180,18,3,2,1,15.254,0,7,4160,59,PHP,false,56.000,3,24,Blogging Platforms
-dukeofharen/httplaceholder,121,0,0,0,0,0.000,32,88,2570,1,C#,false,0.000,0,0,Software Development
-knrdl/hubleys-dashboard,85,5,1,1,1,58.824,0,1,882,3,TypeScript,false,72.000,2,24,Personal Dashboards
-huginn/huginn,46173,324,152,74,15,7.017,0,54,4450,232,Ruby,false,68.000,0,0,Automation
-hcengineering/platform,20810,671,185,74,11,32.244,0,0,1382,95,TypeScript,false,100.000,14,177,Software Development
-humhub/humhub,6433,20,10,3,1,3.109,0,0,4113,160,PHP,false,83.000,3,5,Communication
-juspay/hyperswitch,18564,2820,1259,128,5,151.907,0,0,941,253,Rust,false,100.000,49,144,"Money, Budgeting & Management"
-hyphanet/fred,1071,9,5,4,2,8.403,0,39,5865,81,Java,false,28.000,0,0,Communication
-mkucej/i-librarian-free,297,5,1,0,0,16.835,10,72,1864,2,PHP,false,7.000,0,0,Document Management
-misterunknown/ifm,350,0,0,0,0,0.000,51,50,4168,10,JavaScript,false,6.000,0,0,File Transfer
-spiral-project/ihatemoney,1269,21,7,3,0,16.548,2,107,5181,183,Python,false,25.000,0,0,"Money, Budgeting & Management"
-ILIAS-eLearning/ILIAS,426,1,1,1,0,2.347,2,0,3747,141,PHP,false,70.000,22,66,Learning and Courses
-imgproxy/imgproxy,9556,89,36,23,2,9.314,0,2,2886,102,Go,false,92.000,1,4,Proxy
-damongolding/immich-kiosk,826,35,15,9,1,42.373,0,18,314,12,Go,false,47.000,1,2,Photo Galleries
-immich-app/immich,65891,2313,961,451,48,35.103,0,0,1197,1227,TypeScript,false,100.000,43,244,Photo Galleries
-indico/indico,1878,20,12,4,1,10.650,0,0,5041,109,Python,false,87.000,8,20,Conference Management
-UCL-INGI/INGInious,221,2,0,0,0,9.050,16,11,3938,59,Python,false,30.000,1,14,Learning and Courses
-inspircd/inspircd,1229,10,7,2,0,8.137,1,6,4803,76,C++,false,53.000,1,12,Communication
-inveniosoftware/invenio-app-rdm,123,1,1,0,0,8.130,12,0,2185,212,JavaScript,false,61.000,10,19,Document Management
-inventaire/inventaire,458,2,2,1,0,4.367,4,0,3754,11,TypeScript,false,68.000,2,19,Inventory Management
-inventree/InvenTree,4981,102,54,28,4,20.478,0,0,2976,100,Python,false,100.000,11,64,Inventory Management
-iv-org/invidious,17257,169,79,32,3,9.793,0,2,2655,339,Crystal,false,100.000,7,17,Media Streaming
-invoiceninja/invoiceninja,8821,90,30,12,1,10.203,0,75,4188,79,PHP,false,40.000,0,0,"Money, Budgeting & Management"
-InvoicePlane/InvoicePlane,2708,27,12,6,2,9.970,0,17,4012,120,PHP,false,45.000,1,1,"Money, Budgeting & Management"
-InvoiceShelf/InvoiceShelf,1120,88,46,27,0,78.571,1,11,475,116,PHP,false,62.000,4,8,"Money, Budgeting & Management"
-ioBroker/ioBroker,1319,3,0,0,0,2.274,14,80,3929,30,Shell,false,4.000,0,0,Internet of Things (IoT)
-yarrick/iodine,6437,36,17,10,1,5.593,0,2,4849,33,C,false,77.000,1,3,Proxy
-Sanster/IOPaint,21212,298,168,83,19,14.049,0,17,1277,19,Python,false,74.000,2,3,Generative Artificial Intelligence (GenAI)
-iredmail/iRedMail,1611,24,13,11,0,14.898,2,15,1985,16,Shell,false,37.000,1,6,Communication
-Islandora/islandora,153,0,0,0,0,0.000,78,8,5287,18,PHP,false,22.000,2,2,Document Management
-dmunozv04/iSponsorBlockTV,2917,62,29,16,4,21.255,0,1,1216,24,Python,false,86.000,4,13,Miscellaneous
-posativ/isso,5146,17,8,4,1,3.304,0,25,4593,123,Python,false,41.000,1,1,Communication
-itflow-org/itflow,692,16,9,7,1,23.121,0,24,2255,25,PHP,false,43.000,2,8,Ticketing
-meetecho/janus-gateway,8617,54,23,15,2,6.267,0,1,4111,299,C,false,82.000,2,4,Communication
-jaesivsm/JARR,124,1,0,0,0,8.065,18,129,3990,6,Python,false,2.000,0,0,Feed Readers
-Jipok/Jauth,86,4,4,3,1,46.512,0,59,770,1,Go,false,28.000,0,0,Web Servers
-jellyfin/jellyfin,39560,837,388,186,22,21.158,0,0,2350,1226,C#,false,100.000,21,81,Media Streaming
-Fallenbagel/jellyseerr,5247,197,105,61,9,37.545,0,1,1164,320,TypeScript,false,100.000,11,30,Media Management
-bayang/jelu,484,26,7,5,0,53.719,1,20,1282,15,Kotlin,false,35.000,1,1,Miscellaneous
-jina-ai/jina,21567,66,29,20,1,3.060,0,52,1918,179,Python,false,46.000,0,0,Search Engines
-jitsi/jitsi-meet,25511,302,166,83,20,11.838,0,0,4168,512,TypeScript,false,100.000,12,71,Communication
-jitsi/jitsi-videobridge,2972,11,8,5,1,3.701,0,0,4404,95,Kotlin,false,87.000,3,11,Communication
-joomla/joomla-cms,4918,41,26,12,0,8.337,2,2,4980,812,PHP,false,80.000,18,31,Content Management Systems (CMS)
-laurent22/joplin,49286,634,320,145,12,12.864,0,1,3041,654,TypeScript,false,100.000,17,131,Note-taking & Editors
-jsxc/jsxc,730,0,0,0,0,0.000,58,280,4139,36,TypeScript,false,0.000,0,0,Communication
-judge0/judge0,3184,76,26,13,3,23.869,0,2,3030,16,HTML,false,82.000,1,2,Software Development
-daledavies/jump,580,8,5,4,2,13.793,0,366,1197,12,PHP,false,22.000,0,0,Personal Dashboards
-juntagrico/juntagrico,48,0,0,0,0,0.000,69,6,2966,34,Python,false,40.000,2,65,Community-Supported Agriculture (CSA)
-jupyterlab/jupyterlab,14575,68,32,14,0,4.666,1,2,3268,589,TypeScript,false,90.000,16,34,Software Development
-miawinter98/just-short-it,47,2,0,0,0,42.553,16,229,761,1,HTML,false,4.000,0,0,URL Shorteners
-kamailio/kamailio,2451,32,17,10,2,13.056,0,0,4174,314,C,false,95.000,14,117,Communication
-kanboard/kanboard,8876,112,87,21,5,12.618,0,3,4128,350,PHP,false,96.000,3,15,Task Management & To-do Lists
-Casvt/Kapowarr,584,22,10,6,2,37.671,0,29,1016,8,Python,false,47.000,1,6,Document Management
-karakeep-app/karakeep,16192,1124,533,364,115,69.417,0,4,464,90,TypeScript,false,100.000,11,48,Bookmarks and Link Sharing
-Kareadita/Kavita,7881,410,266,122,69,52.024,0,1,1615,188,C#,false,100.000,5,38,Document Management
-pentacent/keila,1675,25,9,4,2,14.925,0,12,1595,20,Elixir,false,57.000,1,2,Communication
-rajnandan1/kener,3832,155,75,21,3,40.449,0,3,531,22,Svelte,false,100.000,9,79,Status / Uptime pages
-kestra-io/kestra,17718,837,190,122,31,47.240,0,0,2091,168,Java,false,100.000,29,193,Automation
-keygen-sh/keygen-api,1104,20,9,5,0,18.116,2,0,3322,7,Gherkin,false,81.000,2,52,Miscellaneous
-keystonejs/keystone,9538,50,24,9,1,5.242,0,1,2597,263,TypeScript,false,86.000,3,12,Content Management Systems (CMS)
-kibitzr/kibitzr,679,6,2,2,1,8.837,0,10,3184,21,Python,false,48.000,2,14,Automation
-killbill/killbill,4857,31,16,6,0,6.383,1,9,4589,45,Java,false,45.000,1,1,"Money, Budgeting & Management"
-kimai/kimai,3778,64,33,15,0,16.940,1,6,3129,276,PHP,false,72.000,2,6,Time Tracking
-Kinto/kinto,4367,20,4,2,0,4.580,1,0,3732,125,Python,false,72.000,3,16,File Transfer & Synchronization
-getkirby/kirby,1392,19,5,3,1,13.649,0,2,2778,67,PHP,false,68.000,2,10,Content Management Systems (CMS)
-TomBursch/kitchenowl,1755,149,128,88,3,84.900,0,3,1563,145,Dart,false,100.000,4,30,Recipe Management
-kiwiirc/kiwiirc,903,6,0,0,0,6.645,14,47,3085,37,Vue,false,10.000,0,0,Communication
-kiwix/kiwix-tools,572,23,13,6,1,40.210,0,25,3118,40,C++,false,47.000,1,2,Document Management
-jonashaag/klaus,689,1,1,0,0,1.451,8,304,5092,25,Python,false,5.000,0,0,Software Development
-ynuwenhof/koblas,131,6,1,0,0,45.802,7,242,981,2,Rust,false,7.000,0,0,Proxy
-xbmc/xbmc,19268,101,46,25,5,5.242,0,0,5246,912,C++,false,100.000,19,378,Media Streaming
-koel/koel,16435,95,32,13,1,5.780,0,0,3448,82,PHP,false,100.000,1,25,Media Streaming
-Koha-Community/Koha,512,5,3,2,0,9.766,4,1,4620,303,Perl,false,62.000,39,595,Document Management
-benjaminjonard/koillection,839,25,15,8,3,29.797,0,7,2568,11,PHP,false,61.000,2,14,Miscellaneous
-gotson/komga,4848,136,62,31,4,28.053,0,0,2107,150,Kotlin,false,100.000,4,10,Document Management
-Kong/kong,40828,287,116,59,12,7.029,0,3,3832,405,Lua,false,98.000,12,15,Software Development
-krayin/laravel-crm,14645,640,289,136,25,43.701,0,0,1440,35,Blade,false,100.000,4,41,Customer Relationship Management (CRM)
-kresusapp/kresus,315,4,4,2,0,12.698,4,1,3940,34,TypeScript,false,58.000,2,14,"Money, Budgeting & Management"
-tontof/kriss_feed,283,1,1,1,0,3.534,4,122,4724,23,PHP,false,10.000,0,0,Feed Readers
-seeroy/kubek-minecraft-dashboard,110,3,1,0,0,27.273,8,80,1261,3,JavaScript,false,7.000,0,0,Games
-thedevs-network/kutt,9722,117,51,24,3,12.035,0,21,2648,54,JavaScript,false,70.000,1,1,URL Shorteners
-zoriya/kyoo,2058,40,22,12,2,19.436,0,3,2112,35,TypeScript,false,80.000,4,85,Media Streaming
-getlago/lago,7650,115,58,25,3,15.033,0,0,1173,34,Go,false,100.000,8,17,"Money, Budgeting & Management"
-lancachenet/monolithic,797,8,0,0,0,10.038,14,82,2339,24,Shell,false,4.000,0,0,Games
-langfuse/langfuse,11460,1079,451,232,36,94.154,0,0,728,72,TypeScript,false,100.000,6,139,Software Development
-languagetool-org/languagetool,13094,114,53,23,6,8.706,0,0,4298,203,Java,false,100.000,12,180,Miscellaneous
-leantime/leantime,5352,97,46,21,1,18.124,0,6,3765,132,PHP,false,90.000,3,81,Software Development
-ledgersmb/LedgerSMB,476,12,4,3,1,25.210,0,2,4058,34,Perl,false,76.000,4,55,Resource Planning
-LeedRSS/Leed,223,0,0,0,0,0.000,74,165,4444,18,PHP,false,0.000,0,0,Feed Readers
-LemmyNet/lemmy,13775,95,41,15,1,6.897,0,0,2282,257,Rust,false,100.000,7,37,Communication
-leon-ai/leon,16257,114,56,36,6,7.012,0,22,2286,18,TypeScript,false,74.000,1,10,Automation
-javalikescript/lha,8,0,0,0,0,0.000,114,12,2247,1,Lua,false,22.000,1,5,Internet of Things (IoT)
-LibreTranslate/LibreTranslate,11438,302,143,96,37,26.403,0,0,1608,202,Python,false,100.000,16,57,Miscellaneous
-michaelstaake/LibreKB,40,4,4,3,0,100.000,2,55,374,2,PHP,false,18.000,0,0,Knowledge Management Tools
-LibrePhotos/librephotos,7307,59,27,7,0,8.074,1,6,1646,57,Python,false,70.000,3,43,Photo Galleries
-bashrc2/libreserver,37,1,1,1,0,27.027,3,3,1470,2,Shell,false,42.000,1,8,Self-hosting Solutions
-LibreTime/libretime,858,7,5,2,0,8.159,2,31,3007,109,PHP,false,18.000,0,0,Media Streaming
-Librum-Reader/Librum,4511,75,56,19,4,16.626,0,318,1198,12,C++,false,60.000,0,0,Document Management
-Lidarr/Lidarr,4079,65,23,9,1,15.935,0,11,2931,474,C#,false,62.000,1,8,Media Management
-TheWicklowWolf/LidaTube,247,18,7,2,1,72.874,0,14,590,1,Python,false,41.000,1,1,Media Management
-TheWicklowWolf/Lidify,290,11,2,1,0,37.931,6,87,428,2,Python,false,16.000,0,0,Media Management
-lichess-org/lila,16649,181,79,35,7,10.872,0,0,4832,460,Scala,false,100.000,23,620,Games
-limbas/limbas,55,1,1,0,0,18.182,8,86,4383,1,PHP,false,5.000,0,0,Database Management
-LimeSurvey/LimeSurvey,3119,54,20,8,1,17.313,0,0,4854,237,JavaScript,false,85.000,8,38,Polls and Events
-Kovah/LinkAce,2921,42,15,8,1,14.379,0,49,2458,20,PHP,false,41.000,0,0,Bookmarks and Link Sharing
-sissbruecker/linkding,8187,198,82,39,5,24.185,0,33,2149,93,Python,false,66.000,0,0,Bookmarks and Link Sharing
-LinkStackOrg/LinkStack,2832,61,28,13,5,21.540,0,98,1186,32,PHP,false,40.000,0,0,Personal Dashboards
-linkwarden/linkwarden,12138,972,292,110,12,80.079,0,10,1133,60,TypeScript,false,92.000,3,45,Bookmarks and Link Sharing
-GameServerManagers/LinuxGSM,4524,29,15,7,1,6.410,0,94,4297,204,Shell,false,35.000,0,0,Games
-knadh/listmonk,16854,420,243,90,17,24.920,0,9,2151,195,Go,false,92.000,7,60,Communication
-shurco/litecart,226,3,2,1,0,13.274,4,15,663,7,Go,false,28.000,4,12,E-commerce
-Litlyx/litlyx,1254,135,68,23,0,107.656,1,62,351,6,Vue,false,50.000,0,0,Analytics
-sethcottle/littlelink,2226,96,31,12,1,43.127,0,27,1972,40,HTML,false,62.000,1,2,Personal Dashboards
-LiveHelperChat/livehelperchat,2061,13,5,4,1,6.308,0,0,4541,59,PHP,false,86.000,1,76,Communication
-livebook-dev/livebook,5321,62,22,13,5,11.652,0,1,1589,159,Elixir,false,90.000,6,22,Note-taking & Editors
-live-codes/livecodes,985,41,11,3,0,41.624,1,0,1587,8,TypeScript,false,85.000,6,63,Software Development
-MrBrax/LiveStreamDVR,388,16,5,3,0,41.237,2,114,1988,6,TypeScript,false,16.000,0,0,Archiving and Digital Preservation (DP)
-explodingcamera/liwan,32,3,2,1,0,93.750,4,0,335,1,Rust,false,64.000,1,7,Analytics
-epoupon/lms,1305,23,11,3,1,17.625,0,17,3881,15,C++,false,51.000,2,13,Media Streaming
-Tanq16/local-content-share,204,22,12,6,1,107.843,0,16,754,2,HTML,false,47.000,3,5,Pastebins
-Lessify/localess,54,2,0,0,0,37.037,16,0,1105,1,TypeScript,false,56.000,1,3,Content Management Systems (CMS)
-Lodestone-Team/lodestone,950,22,8,5,0,23.158,1,248,1136,27,Rust,false,25.000,0,0,Games
-lomorage/homepage,230,0,0,0,0,0.000,37,179,2235,5,HTML,false,0.000,0,0,Photo Galleries
-loomio/loomio,2443,14,5,4,0,5.731,3,10,4938,78,Ruby,false,46.000,2,36,Communication
-lowdefy/lowdefy,2799,19,10,3,0,6.788,2,160,1687,22,JavaScript,false,21.000,0,0,Software Development
-ldidry/lstu,213,1,1,1,0,4.695,4,363,4255,16,Perl,false,10.000,0,0,URL Shorteners
-luraproject/lura,6542,30,19,9,0,4.586,1,15,3114,39,Go,false,37.000,3,7,Software Development
-LycheeOrg/Lychee,3712,85,56,47,5,22.899,0,0,2473,107,PHP,false,100.000,4,67,Photo Galleries
-foxcpp/maddy,5516,50,29,8,0,9.065,1,67,3111,63,Go,false,30.000,0,0,Communication
-hywax/mafl,505,21,9,3,0,41.584,1,47,509,11,TypeScript,false,31.000,0,0,Personal Dashboards
-magento/magento2,11795,44,28,7,1,3.730,0,3,4915,3060,PHP,false,80.000,40,255,E-commerce
-mail-in-a-box/mailinabox,14457,67,30,14,0,4.634,1,1,4285,217,Python,false,70.000,1,1,Communication
-sj26/mailcatcher,6616,24,10,4,1,3.628,0,356,5317,48,Ruby,false,35.000,0,0,Communication
-mailcow/mailcow-dockerized,10279,222,108,58,10,21.597,0,3,3079,355,JavaScript,false,100.000,7,28,Communication
-Mailu/Mailu,6444,73,33,15,2,11.328,0,7,3413,197,Python,false,72.000,2,2,Communication
-mainsail-crew/mainsail,1877,21,8,4,0,11.188,2,14,1915,123,Vue,false,41.000,8,18,Manufacturing
-krateng/maloja,1338,31,16,9,1,23.169,0,87,2361,27,Python,false,35.000,0,0,Media Streaming
-intri-in/manage-my-damn-life-nextjs,265,18,8,4,1,67.925,0,67,765,4,JavaScript,false,31.000,0,0,Calendar & Contacts
-managemeals/manage-meals-web,45,2,1,0,0,44.444,10,35,458,1,Svelte,false,13.000,0,0,Recipe Management
-mnfst/manifest,2541,96,45,23,2,37.780,0,10,961,18,TypeScript,false,80.000,4,51,Software Development
-manticoresoftware/manticoresearch,10372,354,126,85,39,34.130,0,0,2879,56,C++,false,100.000,10,163,Search Engines
-mantisbt/mantisbt,1695,7,3,1,0,4.130,1,0,5434,137,PHP,false,72.000,5,35,Ticketing
-manyfold3d/manyfold,1173,42,25,12,0,35.806,1,0,1560,33,Ruby,false,90.000,3,420,Manufacturing
-borjapazr/mars-server,112,3,1,1,0,26.786,1,343,1605,2,Python,false,12.000,0,0,Self-hosting Solutions
-mastodon/mastodon,48266,236,107,47,9,4.890,0,0,3370,962,Ruby,false,100.000,15,128,Communication
-mataroa-blog/mataroa,287,5,3,1,0,17.422,3,17,1814,12,Python,false,24.000,1,5,Blogging Platforms
-sergree/matchering,2048,35,17,14,0,17.090,1,5,2421,3,Python,false,55.000,1,1,Automation
-centerofci/mathesar,4133,65,35,16,3,15.727,0,0,1520,119,Svelte,false,100.000,9,166,Database Management
-matomo-org/matomo,20515,118,50,29,2,5.752,0,0,5160,384,PHP,false,100.000,9,35,Analytics
-mattermost/mattermost,32539,270,127,69,11,8.298,0,0,3623,1060,TypeScript,false,100.000,51,218,Communication
-mautic/mautic,8109,161,90,52,4,19.854,0,1,4288,387,PHP,false,100.000,19,157,Communication
-maybe-finance/maybe,44200,1041,421,136,31,23.552,0,0,500,141,Ruby,false,100.000,16,114,"Money, Budgeting & Management"
-tanrax/maza-ad-blocking,1829,5,2,2,1,2.734,0,143,1960,5,Shell,false,22.000,0,0,DNS
-mealie-recipes/mealie,9087,215,89,46,1,23.660,0,1,1621,177,Python,false,100.000,4,39,Recipe Management
-mediacms-io/mediacms,3407,87,36,13,2,25.536,0,0,1612,34,JavaScript,false,100.000,1,1,Media Streaming
-pymedusa/Medusa,1867,7,3,0,0,3.749,7,153,3370,294,Python,false,7.000,0,0,Media Management
-medusajs/medusa,29026,476,292,150,55,16.399,0,0,1944,356,TypeScript,false,100.000,24,199,E-commerce
-Arthi-chaud/Meelo,775,69,54,6,0,89.032,2,1,1106,4,TypeScript,false,100.000,3,51,Media Streaming
-aaronpk/Meetable,140,3,0,0,0,21.429,14,120,1978,6,PHP,false,4.000,0,0,Polls and Events
-meilisearch/MeiliSearch,51318,957,439,221,38,18.648,0,3,2579,187,Rust,false,100.000,7,57,Search Engines
-dmpop/mejiro,173,1,0,0,0,5.780,26,4,4316,10,PHP,false,34.000,1,4,Photo Galleries
-usememos/memos,39471,627,282,166,31,15.885,0,0,1254,298,Go,false,100.000,10,50,Note-taking & Editors
-cfu288/mere-medical,107,10,3,2,0,93.458,4,132,958,2,TypeScript,false,12.000,0,0,Health and Fitness
-Ylianst/MeshCentral,4989,143,74,36,6,28.663,0,0,2817,115,HTML,false,100.000,4,25,Remote Access
-metabase/metabase,41976,429,179,80,13,10.220,0,0,3755,440,Clojure,false,100.000,54,463,Analytics
-JVT038/MetaTube,352,4,1,1,0,11.364,6,222,1287,2,Python,false,12.000,0,0,Media Management
-alexta69/metube,8874,353,148,70,9,39.779,0,15,1994,50,Python,false,74.000,2,2,Media Management
-Canop/miaou,546,1,0,0,0,1.832,25,187,4200,22,JavaScript,false,2.000,0,0,Communication
-microweber/microweber,3253,18,6,3,0,5.533,3,11,5335,56,HTML,false,41.000,1,1,E-commerce
-middlewarehq/middleware,1300,16,6,2,0,12.308,1,2,409,26,TypeScript,false,63.000,3,8,Analytics
-zer0tonin/Mikochi,311,8,6,3,1,25.723,0,24,856,5,JavaScript,false,43.000,1,12,File Transfer
-mindsdb/mindsdb,27956,276,98,50,11,9.873,0,0,2478,796,Python,false,100.000,13,77,Database Management
-Anuken/Mindustry,23912,321,118,61,8,13.424,0,0,2938,665,Java,false,100.000,24,173,Games
-b310-digital/mindwendel,107,0,0,0,0,0.000,37,1,1577,5,Elixir,false,42.000,1,2,Software Development
-miniflux/v2,7605,134,53,26,4,17.620,0,1,2734,262,Go,false,100.000,7,34,Feed Readers
-mcarbonne/minimal-git-server,27,4,0,0,0,148.148,14,86,479,2,Shell,false,4.000,0,0,Software Development
-pereorga/minimalist-web-notepad,1258,5,3,1,0,3.975,3,257,4667,10,PHP,false,12.000,0,0,Note-taking & Editors
-minio/minio,52447,711,321,174,33,13.557,0,6,3774,493,Go,false,100.000,12,27,File Transfer
-svenstaro/miniserve,6628,77,40,28,5,11.617,0,14,2576,58,Rust,false,62.000,2,5,File Transfer
-minthcm/minthcm,175,3,2,1,0,17.143,5,64,2159,4,PHP,false,12.000,0,0,Human Resources Management (HRM)
-Accessory/minus_games,18,5,2,0,0,277.778,6,13,301,2,Rust,false,29.000,1,2,Games
-miroslavpejic85/mirotalkc2c,274,6,5,3,1,21.898,0,5,894,3,JavaScript,false,54.000,1,9,Communication
-miroslavpejic85/mirotalk,3504,64,30,16,3,18.265,0,1,1595,20,JavaScript,false,82.000,1,8,Communication
-miroslavpejic85/mirotalksfu,2342,25,12,6,1,10.675,0,1,1367,10,JavaScript,false,85.000,2,32,Communication
-rafalp/Misago,2626,14,8,4,0,5.331,1,10,4710,40,Python,false,43.000,1,6,Communication
-misskey-dev/misskey,10560,95,41,24,2,8.996,0,0,3063,304,TypeScript,false,100.000,13,178,Communication
-DDVTECH/mistserver,421,8,3,2,2,19.002,0,21,4610,35,C,false,42.000,4,25,Media Streaming
-inovector/MixpostApp,99,2,0,0,0,20.202,14,34,805,1,PHP,false,10.000,0,0,Analytics
-modoboa/modoboa,3238,25,14,6,0,7.721,2,3,4412,90,Python,false,65.000,3,43,Communication
-modxcms/revolution,1379,2,1,1,0,1.450,5,2,5404,188,PHP,false,54.000,4,7,Content Management Systems (CMS)
-esl/MongooseIM,1693,10,7,5,1,5.907,0,1,4998,195,Erlang,false,77.000,5,52,Communication
-monicahq/monica,22755,154,77,45,6,6.768,0,8,3010,36,PHP,false,92.000,4,41,Customer Relationship Management (CRM)
-moode-player/moode,1100,9,4,2,1,8.182,0,1,2734,34,PHP,false,72.000,1,89,Media Streaming
-mopidy/mopidy,8271,34,17,9,1,4.111,0,59,5622,132,Python,false,41.000,0,0,Media Streaming
-mosparo/mosparo,230,14,8,0,0,60.870,7,39,1432,53,PHP,false,22.000,0,0,Miscellaneous
-CatoTH/antragsgruen,119,6,3,1,0,50.420,1,1,4616,13,PHP,false,62.000,1,23,Conference Management
-motor-admin/motor-admin,2110,7,3,3,0,3.318,1,351,1378,4,Ruby,false,12.000,0,0,Software Development
-movim/movim,1789,9,4,1,1,5.031,0,0,3613,56,JavaScript,false,82.000,2,42,Communication
-mjl-/mox,4921,128,34,15,0,26.011,1,0,836,16,Go,false,100.000,2,23,Communication
-MusicPlayerDaemon/MPD,2335,17,9,4,1,7.281,0,31,4837,256,C++,false,37.000,0,0,Media Streaming
-IrosTheBeggar/mStream,2261,5,2,2,0,2.211,4,38,3449,22,JavaScript,false,18.000,0,0,Media Streaming
-multitheftauto/mtasa-blue,1505,22,13,2,0,14.618,2,0,3709,143,C++,false,85.000,9,69,Games
-FoxxMD/multi-scrobbler,564,23,11,4,0,40.780,2,22,1647,11,TypeScript,false,37.000,1,2,Media Streaming
-mumble-voip/mumble,6901,125,52,26,3,18.113,0,11,5193,393,C++,false,86.000,3,18,Communication
-clangen/musikcube,4422,36,10,4,0,8.141,2,305,3711,43,C++,false,25.000,0,0,Media Streaming
-mybb/mybb,1148,12,6,3,0,10.453,3,1,4719,122,PHP,false,63.000,3,7,Communication
-mybucks-online/app,9,2,2,2,0,222.222,2,60,261,2,JavaScript,false,12.000,0,0,"Money, Budgeting & Management"
-bouncepaw/mycorrhiza,333,2,1,0,0,6.006,12,85,1802,13,Go,false,7.000,0,0,Wikis
-afaneca/myfin,156,11,10,4,0,70.513,2,61,1972,3,TypeScript,false,21.000,0,0,"Money, Budgeting & Management"
-jason5ng32/MyIP,8249,163,76,29,5,19.760,0,47,540,6,Vue,false,66.000,0,0,Miscellaneous
-mylar3/mylar3,1196,20,10,3,1,16.722,0,66,1949,75,Python,false,31.000,0,0,Automation
-gnmyt/myspeed,1362,49,20,10,2,35.977,0,1,1136,3,JavaScript,false,85.000,2,70,Miscellaneous
-maxpozdeev/mytinytodo,175,0,0,0,0,0.000,31,3,4125,9,PHP,false,32.000,1,7,Task Management & To-do Lists
-n8n-io/n8n,94268,12869,6313,3471,599,136.515,0,0,2154,491,TypeScript,false,100.000,40,303,Automation
-navidrome/navidrome,14580,581,226,115,9,39.849,0,0,3368,168,Go,false,100.000,7,17,Media Streaming
-lardbit/nefarious,1133,13,6,2,1,11.474,0,69,2371,10,Python,false,31.000,0,0,Media Management
-m1k1o/neko,10223,195,75,39,4,19.075,0,0,1888,48,Go,false,100.000,4,10,Miscellaneous
-AlexSciFier/neonlink,349,7,3,0,0,20.057,9,162,1123,3,JavaScript,false,7.000,0,0,Bookmarks and Link Sharing
-lutzroeder/netron,30206,308,123,63,12,10.197,0,0,5254,1,JavaScript,false,100.000,1,63,Analytics
-samuelclay/NewsBlur,7067,29,12,1,0,4.104,6,2,5974,90,Objective-C,false,67.000,1,8,Feed Readers
-pulsejet/memories,3491,44,22,14,3,12.604,0,0,1007,38,Vue,false,100.000,3,34,Photo Galleries
-nextcloud/server,29530,320,146,56,5,10.836,0,0,3270,1116,PHP,false,100.000,41,509,File Transfer & Synchronization
-nextcloud/nextcloudpi,2706,29,15,9,1,10.717,0,52,3014,297,Shell,false,41.000,0,0,Self-hosting Solutions
-NginxProxyManager/nginx-proxy-manager,26157,562,294,179,27,21.486,0,53,2703,180,JavaScript,false,71.000,0,0,Web Servers
-nginx/nginx,26892,335,162,83,12,12.457,0,16,3614,93,C,false,78.000,4,11,Web Servers
-ngircd/ngircd,475,7,2,2,0,14.737,3,224,4881,40,C,false,12.000,0,0,Communication
-nocodb/nocodb,54378,685,321,156,18,12.597,0,0,2755,316,TypeScript,false,100.000,15,1173,Database Management
-node-red/node-red,21132,281,133,81,14,13.297,0,17,4270,231,JavaScript,false,74.000,3,7,Internet of Things (IoT)
-NodeBB/NodeBB,14595,77,40,18,0,5.276,1,0,4406,217,JavaScript,false,100.000,5,266,Communication
-osm-search/Nominatim,3527,59,24,11,4,16.728,0,4,4821,102,Python,false,72.000,2,8,Maps and Global Positioning System (GPS)
-not-three/main,8,1,1,1,0,125.000,5,47,433,1,Shell,false,16.000,0,0,Pastebins
-enchant97/note-mark,474,8,5,4,0,16.878,2,26,1547,5,TypeScript,false,22.000,1,1,Note-taking & Editors
-notifo-io/notifo,810,11,2,1,0,13.580,6,7,1606,9,C#,false,38.000,1,2,Communication
-novuhq/novu,36945,213,112,50,8,5.765,0,0,1358,413,TypeScript,false,100.000,13,139,Communication
-binwiederhier/ntfy,22773,391,229,128,10,17.169,0,228,1300,209,Go,false,62.000,0,0,Communication
-apankrat/nullboard,4013,14,6,3,1,3.489,0,557,2209,7,HTML,false,31.000,0,0,Task Management & To-do Lists
-MayaPosch/NymphCast,2477,8,5,1,1,3.230,0,8,2289,7,C,false,44.000,1,2,Media Streaming
-octobercms/october,11096,11,3,2,0,0.991,2,85,4188,358,PHP,false,16.000,0,0,Content Management Systems (CMS)
-Drakkar-Software/OctoBot,4040,88,42,19,5,21.782,0,2,2638,14,Python,false,92.000,1,7,"Money, Budgeting & Management"
-octobox/octobox,4399,7,2,0,0,1.591,9,0,3072,116,Ruby,false,67.000,2,45,Software Development
-OctoPrint/OctoPrint,8560,48,23,11,1,5.607,0,2,4518,260,Python,false,90.000,1,23,Manufacturing
-simonwep/ocular,214,17,7,3,0,79.439,3,2,1148,9,Vue,false,71.000,2,24,"Money, Budgeting & Management"
-kensanata/oddmuse,82,0,0,0,0,0.000,60,277,3735,17,Perl,false,0.000,0,0,Note-taking & Editors
-odoo/odoo,42981,740,314,164,25,17.217,0,0,4020,3172,Python,false,100.000,201,483,Resource Planning
-apache/ofbiz-framework,888,14,7,5,0,15.766,1,10,3014,83,Java,false,47.000,4,11,Resource Planning
-offen/offen,933,10,3,3,0,10.718,2,29,2227,14,JavaScript,false,24.000,1,2,Analytics
-OliveTin/OliveTin,2966,81,37,18,2,27.310,0,13,1469,15,Go,false,72.000,2,8,Automation
-ollama/ollama,140639,3495,1527,735,135,24.851,0,0,689,477,Go,false,100.000,23,119,Generative Artificial Intelligence (GenAI)
-Ombi-app/Ombi,3876,29,14,7,1,7.482,0,1,3367,123,C#,false,81.000,2,19,Media Management
-omeka/omeka-s,435,4,2,2,1,9.195,0,0,4294,38,PHP,false,78.000,3,11,Archiving and Digital Preservation (DP)
-omeka/Omeka,506,3,1,0,0,5.929,12,0,5068,49,PHP,false,63.000,2,11,Content Management Systems (CMS)
-onetimesecret/onetimesecret,2365,42,26,9,3,17.759,0,0,4488,9,Ruby,false,100.000,5,507,Communication
-onionshare/onionshare,6533,47,24,12,2,7.194,0,44,4013,241,Python,false,46.000,0,0,File Transfer
-ONLYOFFICE/DocumentServer,5436,102,35,15,1,18.764,0,4,3967,62,Shell,false,82.000,2,2,Office Suites
-gunet/openeclass,140,1,1,1,1,7.143,0,7,3669,25,PHP,false,50.000,4,63,Learning and Courses
-openfoodfoundation/openfoodnetwork,1171,9,1,0,0,7.686,7,0,4594,266,Ruby,false,67.000,13,169,Community-Supported Agriculture (CSA)
-open-meteo/open-meteo,3184,98,41,20,2,30.779,0,8,1421,54,Swift,false,76.000,3,16,Miscellaneous
-Epic-Breakfast-Productions/OpenQuarterMaster,33,2,1,1,0,60.606,5,0,1539,8,Java,false,72.000,3,99,Inventory Management
-opensourcepos/opensourcepos,3702,61,31,10,2,16.478,0,6,4188,191,PHP,false,90.000,5,89,E-commerce
-Project-OSRM/osrm-backend,6821,85,38,21,3,12.462,0,6,4984,189,C++,false,82.000,1,3,Maps and Global Positioning System (GPS)
-open-webui/open-webui,94870,5441,2421,1040,165,57.352,0,4,587,511,JavaScript,false,100.000,55,478,Generative Artificial Intelligence (GenAI)
-TheAxelander/OpenBudgeteer,848,3,2,0,0,3.538,9,16,1287,8,C#,false,19.000,1,3,"Money, Budgeting & Management"
-opencart/opencart,7787,57,31,9,0,7.320,1,1,5036,384,PHP,false,90.000,6,78,E-commerce
-openemr/openemr,3444,58,26,14,3,16.841,0,1,5473,234,PHP,false,90.000,14,37,Health and Fitness
-igniterealtime/Openfire,2931,7,2,2,0,2.388,3,27,4057,141,Java,false,28.000,3,11,Communication
-thomiceli/opengist,2309,86,54,39,0,37.246,2,0,766,59,Go,false,100.000,4,10,Pastebins
-openhab/openhab-core,1009,13,6,2,0,12.884,3,4,3434,302,Java,false,61.000,12,46,Internet of Things (IoT)
-openmediavault/openmediavault,5690,87,47,27,3,15.290,0,3,3299,62,PHP,false,90.000,2,31,Self-hosting Solutions
-apache/openmeetings,652,5,1,0,0,7.669,8,15,3717,32,Java,false,19.000,1,2,Groupware
-OpenOLAT/OpenOLAT,362,10,8,6,0,27.624,1,0,2604,15,Java,false,77.000,5,290,Learning and Courses
-OpenOlitor/openolitor-server,20,0,0,0,0,0.000,176,10,3466,13,Scala,false,30.000,2,35,Community-Supported Agriculture (CSA)
-opf/openproject,11044,634,96,50,7,57.407,0,0,4551,262,Ruby,false,100.000,31,700,Software Development
-openremote/openremote,1401,22,8,5,1,15.703,0,0,3389,40,Java,false,95.000,8,22,Internet of Things (IoT)
-GIScience/openrouteservice,1605,28,8,3,0,17.445,1,1,2803,63,Java,false,75.000,9,96,Maps and Global Positioning System (GPS)
-opensearch-project/OpenSearch,10705,212,123,81,13,19.804,0,0,1567,409,Java,false,100.000,48,128,Search Engines
-opensignlabs/opensign,4623,114,63,22,3,24.659,0,0,591,32,JavaScript,false,100.000,2,40,Document Management
-OpenSIPS/opensips,1351,10,5,2,2,7.402,0,0,4389,136,C,false,82.000,10,73,Communication
-OpenSlides/OpenSlides,540,7,3,2,0,12.963,6,0,4671,45,Shell,false,68.000,4,13,Conference Management
-openstreetmap/openstreetmap-website,2382,45,22,12,2,18.892,0,0,5493,226,Ruby,false,100.000,10,227,Maps and Global Positioning System (GPS)
-HaschekSolutions/opentrashmail,698,11,6,3,1,15.759,0,7,2102,17,PHP,false,53.000,2,8,Communication
-opentripplanner/OpenTripPlanner,2339,24,11,9,0,10.261,1,0,5050,192,Java,false,85.000,11,122,Maps and Global Positioning System (GPS)
-OpenTTD/OpenTTD,6898,69,24,11,3,10.003,0,0,2596,200,C++,false,100.000,8,398,Games
-openziti/ziti,3302,66,31,15,4,19.988,0,1,2001,46,Go,false,100.000,5,24,Miscellaneous
-comet-ml/opik,8127,1650,908,804,64,203.027,0,0,736,49,Python,false,100.000,31,271,Software Development
-JhumanJ/opnform,2589,49,23,9,0,18.926,1,0,968,28,PHP,false,86.000,2,16,Polls and Events
-orangehrm/orangehrm,913,14,6,4,1,15.334,0,300,3053,43,PHP,false,31.000,0,0,Human Resources Management (HRM)
-openSUSE/osem,888,2,0,0,0,2.252,16,65,4619,156,Ruby,false,4.000,0,0,Conference Management
-opensource-socialnetwork/opensource-socialnetwork,1123,11,7,2,0,9.795,1,8,3912,24,PHP,false,41.000,1,1,Communication
-RotherOSS/otobo,289,4,0,0,0,13.841,16,0,1932,62,Perl,false,64.000,6,114,Ticketing
-Luzifer/ots,547,14,6,4,0,25.594,1,0,2842,21,Go,false,81.000,4,51,Communication
-redimp/otterwiki,885,53,16,12,5,59.887,0,1,2507,12,Python,false,81.000,4,20,Wikis
-nanawel/our-shopping-list,121,4,1,0,0,33.058,10,41,1473,13,JavaScript,false,13.000,0,0,Task Management & To-do Lists
-Jigsaw-Code/outline-server,5958,27,13,7,1,4.532,0,45,2620,44,TypeScript,false,41.000,0,0,Proxy
-outline/outline,32094,525,214,114,18,16.358,0,0,3280,197,TypeScript,false,100.000,8,111,Wikis
-AirenSoft/OvenMediaEngine,2745,27,19,11,2,9.836,0,1,2512,56,C++,false,81.000,5,20,Media Streaming
-overleaf/overleaf,15603,477,403,313,194,30.571,0,0,4114,134,JavaScript,false,100.000,20,245,Note-taking & Editors
-sct/overseerr,4468,79,33,18,4,17.681,0,6,1734,217,TypeScript,false,86.000,5,11,Media Management
-owncloud/core,8524,28,12,3,1,3.285,0,7,4646,630,PHP,false,57.000,3,6,File Transfer & Synchronization
-owntracks/recorder,974,14,6,3,1,14.374,0,23,3562,45,C,false,43.000,2,2,Maps and Global Positioning System (GPS)
-OXID-eSales/oxideshop_ce,237,0,0,0,0,0.000,126,2,4421,133,PHP,false,42.000,4,6,E-commerce
-WardPearce/paaster,474,3,1,1,0,6.329,4,3,1169,4,Svelte,false,52.000,2,36,Pastebins
-schlagmichdoch/pairdrop,7012,574,423,328,93,81.860,0,79,859,119,JavaScript,false,70.000,0,0,File Transfer
-panoratech/Panora,994,6,1,1,0,6.036,3,139,600,18,TypeScript,false,12.000,0,0,Software Development
-paperless-ngx/paperless-ngx,27425,1095,389,168,31,39.927,0,3,1188,353,Python,false,100.000,5,57,Document Management
-papermerge/papermerge-core,357,12,5,3,1,33.613,0,5,1605,8,Python,false,66.000,1,22,Document Management
-erudika/para,540,3,1,0,0,5.556,11,2,4085,14,Java,false,47.000,1,1,Software Development
-Part-DB/Part-DB-server,1195,40,20,5,0,33.473,2,5,2273,33,PHP,false,57.000,2,4,Inventory Management
-passbolt/passbolt_api,5047,90,34,16,2,17.832,0,0,3370,346,PHP,false,100.000,6,61,Password Managers
-Rabbit-Company/Passky-Server,216,4,2,1,0,18.519,4,191,1504,6,PHP,false,12.000,0,0,Password Managers
-pglombardo/PasswordPusher,2393,48,17,6,0,20.059,1,0,4887,47,Ruby,false,85.000,3,81,Pastebins
-interaapps/pastefy,297,11,5,3,0,37.037,1,12,2245,6,Vue,false,42.000,2,16,Pastebins
-payloadcms/payload,34810,950,315,158,23,27.291,0,0,1591,375,TypeScript,false,100.000,32,107,Content Management Systems (CMS)
-mrmn2/PdfDing,967,47,26,6,2,48.604,0,25,170,3,Python,false,50.000,1,1,Document Management
-Chocobozzz/PeerTube,13697,81,41,28,0,5.914,1,1,3486,475,TypeScript,false,90.000,26,209,Media Streaming
-penpot/penpot,38138,691,285,164,21,18.118,0,0,3425,197,Clojure,false,100.000,22,312,Miscellaneous
-sbrl/Pepperminty-Wiki,199,0,0,0,0,0.000,45,250,3824,10,PHP,false,0.000,0,0,Wikis
-ItzCrazyKns/Perplexica,21911,627,319,169,24,28.616,0,2,401,27,TypeScript,false,100.000,1,4,Generative Artificial Intelligence (GenAI)
-SmilyOrg/photofield,488,8,4,1,0,16.393,6,74,1796,4,Go,false,12.000,0,0,Photo Galleries
-photoprism/photoprism,37350,410,213,89,20,10.977,0,0,2665,179,Go,false,100.000,7,192,Photo Galleries
-photoview/photoview,5887,63,29,13,1,10.702,0,5,2139,71,TypeScript,false,72.000,3,9,Photo Galleries
-phpbb/phpbb,1924,15,8,3,0,7.796,2,3,5554,228,PHP,false,61.000,2,50,Communication
-phpList/phplist3,787,3,3,1,0,3.812,4,109,3718,75,PHP,false,12.000,0,0,Communication
-pi-hole/pi-hole,51865,439,212,118,12,8.464,0,1,3994,234,Shell,false,100.000,2,5,DNS
-mtlynch/picoshare,2520,29,12,4,1,11.508,0,74,1187,13,Go,false,35.000,0,0,File Transfer
-CaramelFur/Picsur,1026,28,17,7,1,27.290,0,183,1179,3,TypeScript,false,35.000,0,0,File Transfer
-HaschekSolutions/pictshare,866,6,4,3,0,6.928,1,9,3488,21,JavaScript,false,34.000,1,2,File Transfer
-bpatrik/pigallery2,1905,17,12,5,0,8.924,1,130,3351,63,TypeScript,false,21.000,0,0,Photo Galleries
-jsuto/piler,153,8,5,2,0,52.288,1,32,403,16,PHP,false,18.000,0,0,Communication
-pimcore/pimcore,3571,30,19,11,5,8.401,0,0,4945,523,PHP,false,95.000,11,49,Content Management Systems (CMS)
-kieraneglin/pinchflat,3063,126,57,28,3,41.136,0,17,483,10,Elixir,false,70.000,1,1,Media Management
-madeofpendletonwool/PinePods,399,16,8,6,2,40.100,0,0,986,10,Rust,false,91.000,2,46,Media Streaming
-stonith404/pingvin-share,4196,119,61,28,3,28.360,0,0,1116,50,TypeScript,false,100.000,4,19,File Transfer
-piqueserver/piqueserver,222,2,2,1,0,9.009,1,14,3061,38,Python,false,24.000,4,9,Games
-Piwigo/Piwigo,3451,24,11,7,1,6.955,0,10,3582,68,PHP,false,57.000,1,5,Photo Galleries
-pixelfed/pixelfed,6584,48,17,10,2,7.290,0,0,2586,172,PHP,false,95.000,6,103,Communication
-alextselegidis/plainpad,339,10,6,3,1,29.499,0,7,2019,3,PHP,false,49.000,2,8,Note-taking & Editors
-makeplane/plane,35989,716,324,169,31,19.895,0,1,908,130,TypeScript,false,100.000,20,88,Software Development
-plankanban/planka,9255,273,138,87,10,29.498,0,0,2085,121,JavaScript,false,100.000,12,33,Task Management & To-do Lists
-plausible/analytics,22400,331,141,75,9,14.777,0,0,2354,113,Elixir,false,100.000,6,37,Analytics
-PlexRipper/PlexRipper,424,27,9,6,0,63.679,1,10,1855,6,C#,false,55.000,1,80,Media Management
-root-gg/plik,1559,18,9,6,1,11.546,0,331,3679,31,Go,false,31.000,0,0,File Transfer
-mynaparrot/plugNmeet-server,359,10,6,1,0,27.855,5,7,1176,3,Go,false,43.000,3,13,Communication
-pluxml/PluXml,229,2,2,1,1,8.734,0,52,4677,31,PHP,false,28.000,0,0,Blogging Platforms
-pocketbase/pocketbase,47215,1936,406,241,25,41.004,0,2,1046,55,Go,false,100.000,2,27,Software Development
-SamTV12345/PodFetch,411,7,1,1,0,17.032,4,2,817,15,Rust,false,62.000,2,31,Media Management
-agersant/polaris,2218,30,15,8,2,13.526,0,64,3197,18,Rust,false,35.000,0,0,Media Streaming
-pomerium/pomerium,4266,57,33,10,4,13.361,0,1,2327,87,Go,false,100.000,4,34,Web Servers
-joho1968/POMjs,41,3,1,0,0,73.171,7,660,939,2,JavaScript,false,7.000,0,0,Miscellaneous
-kodehat/portkey,50,4,1,1,0,80.000,4,0,450,1,Go,false,72.000,2,22,Personal Dashboards
-abrenaut/posio,639,8,4,1,0,12.520,1,291,3240,7,Python,false,12.000,0,0,Games
-postalserver/postal,15501,107,44,21,4,6.903,0,8,2948,43,Ruby,false,70.000,1,1,Communication
-posthog/posthog,26477,656,292,125,21,24.776,0,0,1939,295,Python,false,100.000,63,710,Analytics
-gitroomhq/postiz-app,19855,391,179,79,12,19.693,0,0,677,52,TypeScript,false,100.000,3,75,Analytics
-leozqin/precis,59,3,0,0,0,50.847,22,152,404,1,Python,false,4.000,0,0,Feed Readers
-PrestaShop/PrestaShop,8561,65,34,21,4,7.593,0,0,4560,863,PHP,false,100.000,13,162,E-commerce
-pretalx/pretalx,795,11,4,3,0,13.836,3,15,3002,143,Python,false,28.000,3,7,Conference Management
-pretix/pretix,2067,35,15,5,1,16.933,0,0,3902,353,Python,false,95.000,20,130,E-commerce
-prismelabs/analytics,95,2,1,0,0,21.053,13,57,494,1,Go,false,13.000,0,0,Analytics
-PrivateBin/PrivateBin,7182,116,59,37,3,16.151,0,19,3233,129,PHP,false,76.000,5,13,Pastebins
-projectsend/projectsend,1565,19,10,4,1,12.141,0,22,4083,54,PHP,false,43.000,1,4,File Transfer
-psi-4ward/psitransfer,1667,14,7,2,0,8.398,4,77,2944,29,JavaScript,false,21.000,0,0,File Transfer
-pterodactyl/panel,7575,161,75,44,13,21.254,0,53,3448,168,PHP,false,68.000,0,0,Games
-publify/publify,1840,4,2,1,0,2.174,3,27,6048,81,Less,false,24.000,2,2,Content Management Systems (CMS)
-pufferpanel/pufferpanel,1502,27,10,4,0,17.976,1,9,4224,48,Go,false,47.000,2,2,Games
-pushbits/server,340,6,3,1,0,17.647,2,82,1755,3,Go,false,12.000,0,0,Communication
-heyputer/puter,30636,493,193,116,42,16.092,0,0,439,255,JavaScript,false,100.000,3,45,File Transfer & Synchronization
-pydio/cells,1957,23,9,5,1,11.753,0,3,2609,16,Go,false,71.000,4,13,File Transfer & Synchronization
-pyload/pyload,3494,22,9,5,1,6.297,0,5,4477,170,Python,false,67.000,1,8,Automation
-qbittorrent/qBittorrent,31198,528,227,108,19,16.924,0,2,4849,358,C++,false,100.000,11,53,File Transfer
-webkul/hotelcommerce,5218,552,308,145,24,105.788,0,0,3482,12,PHP,false,100.000,2,153,Booking and Scheduling
-codidact/qpixel,407,2,2,2,0,4.914,1,0,1933,57,Ruby,false,72.000,5,118,Communication
-quassel/quassel,740,6,0,0,0,8.108,15,84,4545,122,C++,false,4.000,0,0,Communication
-ihexxa/quickshare,528,1,0,0,0,1.894,21,13,2553,4,Go,false,24.000,2,2,File Transfer
-nymanjens/quizmaster,271,12,4,3,0,44.280,1,28,2040,7,Scala,false,28.000,2,3,Games
-Radarr/Radarr,11478,154,64,28,1,13.417,0,0,3063,756,C#,false,100.000,5,60,Media Management
-Kozea/Radicale,3706,62,28,16,5,16.730,0,0,5027,160,Python,false,100.000,7,78,Calendar & Contacts
-lukevella/rallly,4290,106,63,31,1,24.709,0,0,3761,29,TypeScript,false,100.000,2,46,Booking and Scheduling
-ryanlelek/Raneto,2823,6,2,2,0,2.125,4,102,4003,65,JavaScript,false,12.000,0,0,Wikis
-hauxir/rapidbay,774,0,0,0,0,0.000,38,87,2376,2,Python,false,0.000,0,0,Media Streaming
-gorcon/rcon-cli,549,9,3,2,0,16.393,2,154,2124,10,Go,false,12.000,0,0,Games
-AmruthPillai/Reactive-Resume,31306,877,241,110,20,28.014,0,95,1877,139,TypeScript,false,62.000,0,0,Miscellaneous
-lemon24/reader,488,6,3,2,0,12.295,1,12,2699,5,Python,false,34.000,1,4,Feed Readers
-ncarlier/readflow,438,4,1,0,0,9.132,10,84,2230,9,Go,false,7.000,0,0,Feed Readers
-Receipt-Wrangler/receipt-wrangler-api,130,6,1,0,0,46.154,8,1,1031,1,Go,false,49.000,2,8,"Money, Budgeting & Management"
-julianpoy/recipesage,721,14,8,2,0,19.417,2,11,2321,40,TypeScript,false,51.000,3,56,Recipe Management
-reaper47/recipya,336,16,6,3,1,47.619,0,9,1458,16,Go,false,53.000,3,6,Recipe Management
-redeclipse/base,463,1,1,0,0,2.160,9,1,3754,52,C++,false,55.000,6,32,Games
-getredash/redash,27314,123,70,33,4,4.503,0,3,4217,485,Python,false,92.000,5,7,Analytics
-redaxo/redaxo,334,0,0,0,0,0.000,34,50,5429,80,PHP,false,6.000,0,0,Content Management Systems (CMS)
-redlib-org/redlib,1997,99,46,23,4,49.574,0,24,506,49,Rust,false,60.000,1,1,Communication
-r3-team/r3,436,13,6,3,0,29.817,2,2,1333,7,JavaScript,false,61.000,1,38,"Money, Budgeting & Management"
-aleksilassila/reiverr,1675,33,14,7,0,19.701,1,83,694,11,TypeScript,false,25.000,0,0,Media Management
-inducer/relate,406,3,1,1,0,7.389,2,10,4004,19,Python,false,38.000,2,15,Learning and Courses
-umputun/remark42,5123,21,9,6,0,4.099,2,17,2704,130,Go,false,37.000,2,2,Communication
-immense/Remotely,4794,40,18,12,3,8.344,0,149,2249,14,C#,false,35.000,0,0,Remote Access
-bestpractical/rt,1022,11,4,2,0,10.763,3,6,5791,91,Perl,false,56.000,7,73,Ticketing
-rero/rero-ils,78,1,0,0,0,12.821,29,0,2837,28,Python,false,48.000,4,17,Document Management
-datarhei/restreamer,4385,55,21,10,0,12.543,1,73,3445,21,HTML,false,30.000,0,0,Media Streaming
-JMBeresford/retrom,1103,109,83,15,1,98.821,0,13,392,2,TypeScript,false,86.000,1,19,Games
-RetroShare/RetroShare,1807,7,4,3,1,3.874,0,3,3576,66,C++,false,54.000,2,10,Communication
-retrospring/retrospring,282,3,1,1,0,10.638,3,17,3601,14,Ruby,false,28.000,1,15,Communication
-hakimel/reveal.js,68866,202,73,42,7,2.933,0,17,5091,325,JavaScript,false,72.000,1,1,Miscellaneous
-reviewboard/reviewboard,1618,11,4,1,0,6.799,3,9,5745,216,Python,false,38.000,2,10,Software Development
-revive-adserver/revive-adserver,1330,16,7,4,1,12.030,0,6,4321,57,PHP,false,67.000,4,13,Miscellaneous
-revoltchat/self-hosted,1337,72,23,12,1,53.852,0,3,1349,18,JavaScript,false,72.000,2,2,Communication
-w4/rgit,160,10,4,2,0,62.500,4,12,1045,5,Rust,false,42.000,2,22,Software Development
-roadiz/roadiz,374,1,0,0,0,2.674,14,119,3829,11,PHP,false,2.000,0,0,Content Management Systems (CMS)
-robustirc/robustirc,181,0,0,0,0,0.000,148,7,3778,5,Go,false,22.000,1,3,Communication
-RocketChat/Rocket.Chat,42632,229,114,49,8,5.372,0,0,3650,914,TypeScript,false,100.000,25,149,Communication
-rommapp/romm,3722,181,84,58,5,48.630,0,19,799,47,Python,false,80.000,3,30,Games
-roundcube/roundcubemail,6260,70,31,11,1,11.182,0,11,4759,281,PHP,false,80.000,3,22,Communication
-fonoster/routr,1514,7,3,3,0,4.624,3,107,3040,8,TypeScript,false,12.000,0,0,Communication
-RSS-Bridge/rss-bridge,7959,101,41,24,5,12.690,0,5,4300,322,PHP,false,90.000,10,22,Feed Readers
-pietheinstrengholt/rssmonster,452,2,2,0,0,4.425,8,95,4432,7,Vue,false,7.000,0,0,Feed Readers
-rss2email/rss2email,405,4,0,0,0,9.877,16,28,2805,53,Python,false,16.000,2,5,Feed Readers
-DIYgod/RSSHub,36754,590,272,139,25,16.053,0,0,2600,1220,TypeScript,false,100.000,33,174,Feed Readers
-rstudio/rstudio,4795,26,9,4,1,5.422,0,0,5273,378,Java,false,95.000,14,98,Software Development
-rudderlabs/rudder-server,4184,20,13,9,1,4.780,0,0,2127,103,Go,false,91.000,16,59,Analytics
-rustdesk/rustdesk-server,7791,180,89,50,9,23.104,0,4,1690,32,Rust,false,94.000,3,3,Remote Access
-orhun/rustypaste,921,26,11,6,0,28.230,1,2,1388,25,Rust,false,67.000,2,8,Pastebins
-ignisda/ryot,2454,93,60,42,4,37.897,0,3,773,19,TypeScript,false,100.000,1,21,Personal Dashboards
-s-cart/s-cart,706,7,1,1,0,9.915,1,12,1870,2,Blade,false,38.000,1,12,E-commerce
-sabre-io/dav,1615,13,5,4,0,8.050,1,165,4969,106,PHP,false,16.000,0,0,Calendar & Contacts
-chaitin/SafeLine,16397,377,216,95,17,22.992,0,25,764,29,Go,false,72.000,1,1,Web Servers
-saleor/saleor,21557,173,87,43,6,8.025,0,0,4475,261,Python,false,100.000,12,50,E-commerce
-SAMA-Communications/sama-server,119,1,0,0,0,8.403,26,21,969,8,JavaScript,false,14.000,1,2,Communication
-samvera/hyrax,187,0,0,0,0,0.000,51,0,3089,219,Ruby,false,56.000,3,19,Document Management
-sandstorm-io/sandstorm,6841,9,4,1,1,1.316,0,150,4146,103,JavaScript,false,22.000,0,0,Self-hosting Solutions
-PhiTux/schoco,26,0,0,0,0,0.000,34,58,919,2,Vue,false,6.000,0,0,Learning and Courses
-hwgilbert16/scholarsome,606,11,7,4,1,18.152,0,296,983,9,TypeScript,false,31.000,0,0,Learning and Courses
-scm-manager/scm-manager,144,2,1,1,0,13.889,3,1,1894,40,Java,false,62.000,5,23,Software Development
-Erudika/scoold,882,5,4,3,0,5.669,1,7,3023,29,Java,false,32.000,1,1,Communication
-screego/server,8537,68,40,22,6,7.965,0,7,1764,18,Go,false,74.000,1,3,Communication
-scribble-rs/scribble.rs,522,5,2,0,0,9.579,6,47,2164,30,Go,false,13.000,0,0,Games
-haiwen/seafile,13084,111,46,23,6,8.484,0,2,4691,92,C,false,94.000,1,2,File Transfer & Synchronization
-searxng/searxng,19033,708,336,163,23,37.199,0,0,1494,258,Python,false,100.000,16,113,Search Engines
-seatsurfing/backend,198,7,2,1,0,35.354,3,0,1267,19,Go,false,72.000,4,70,Booking and Scheduling
-seaweedfs/seaweedfs,24343,227,104,53,11,9.325,0,0,3958,346,Go,false,100.000,17,40,File Transfer
-ibizaman/selfhostblocks,278,13,5,1,0,46.763,4,32,880,3,Nix,false,22.000,0,0,Self-hosting Solutions
-fossar/selfoss,2409,8,3,0,0,3.321,7,60,4974,156,HTML,false,7.000,0,0,Feed Readers
-timvisee/send,5205,68,40,25,5,13.064,0,23,1687,1,JavaScript,false,66.000,1,12,File Transfer
-getsentry/sentry,40848,323,138,79,9,7.907,0,0,5372,850,Python,false,100.000,114,1818,Software Development
-s9y/serendipity,215,2,0,0,0,9.302,22,8,4954,48,PHP,false,26.000,2,2,Blogging Platforms
-beromir/Servas,659,7,5,3,1,10.622,0,0,1101,2,Svelte,false,78.000,1,16,Bookmarks and Link Sharing
-drakkan/sftpgo,10404,165,69,41,5,15.859,0,2,2126,68,Go,false,100.000,2,12,File Transfer
-shaarli/Shaarli,3631,26,10,4,2,7.161,0,15,3946,9,PHP,false,47.000,2,10,Bookmarks and Link Sharing
-sharetribe/sharetribe,2398,6,2,2,0,2.502,5,0,4738,74,Ruby,false,64.000,3,7,E-commerce
-eikek/sharry,1020,17,5,2,1,16.667,0,7,2929,18,Elm,false,48.000,1,3,File Transfer
-Shelf-nu/shelf.nu,2085,30,16,7,1,14.388,0,0,825,33,TypeScript,false,95.000,4,125,Inventory Management
-shellhub-io/shellhub,1571,35,29,18,3,22.279,0,0,2191,38,Go,false,100.000,6,154,Remote Access
-smallwat3r/shhh,400,2,1,0,0,5.000,10,0,2067,3,Python,false,63.000,1,12,Communication
-TobySuch/Shifter,35,1,0,0,0,28.571,17,0,1483,5,Python,false,62.000,2,22,File Transfer
-go-shiori/shiori,10331,103,39,20,1,9.970,0,45,2669,63,Go,false,56.000,0,0,Bookmarks and Link Sharing
-vsys-host/shkeeper.io,351,9,4,3,0,25.641,2,7,1108,7,Python,false,32.000,1,1,"Money, Budgeting & Management"
-shlinkio/shlink,3877,90,53,28,2,23.214,0,9,3324,22,PHP,false,82.000,1,10,URL Shorteners
-shopware/platform,3042,34,19,11,6,11.177,0,0,2569,556,PHP,false,97.000,66,205,E-commerce
-milesmcc/shynet,3028,20,12,8,0,6.605,2,148,1862,37,Python,false,21.000,0,0,Analytics
-SickChill/SickChill,2426,5,1,0,0,2.061,10,247,3471,422,Python,false,7.000,0,0,Media Management
+Bubka/2FAuth,2745,67,29,11,2,24.408,0,35,2193,15,PHP,false,46.000,0,0,Miscellaneous
+RARgames/4gaBoards,210,64,49,42,2,304.762,0,0,850,41,JavaScript,false,100.000,3,111,Task Management & To-do Lists
+doublespeakgames/adarkroom,7568,53,29,16,2,7.003,0,88,4335,118,JavaScript,false,40.000,0,0,Games
+mirego/accent,1394,11,4,3,0,7.891,3,43,2615,160,Elixir,false,22.000,0,0,Software Development
+acp-admin/acp-admin,51,1,1,1,0,19.608,4,0,3037,4,Ruby,false,70.000,1,64,Community-Supported Agriculture (CSA)
+activepieces/activepieces,14770,1016,444,202,21,68.788,0,0,896,246,TypeScript,false,100.000,33,900,Automation
+ActivityWatch/activitywatch,14192,245,106,46,6,17.263,0,94,3306,27,Python,false,62.000,0,0,Time Tracking
+actualbudget/actual,18833,497,251,108,13,26.390,0,0,1114,307,TypeScript,false,100.000,23,90,"Money, Budgeting & Management"
+AdguardTeam/AdGuardHome,28364,485,221,99,11,17.099,0,2,3236,195,Go,false,100.000,4,18,DNS
+Admidio/admidio,372,4,2,2,0,10.753,5,1,3784,37,PHP,false,62.000,6,80,Human Resources Management (HRM)
+vrana/adminer,6769,135,66,25,1,19.944,0,10,5501,165,PHP,false,90.000,8,36,Database Management
+seanmorley15/AdventureLog,1142,55,23,13,1,48.161,0,3,413,25,Svelte,false,80.000,4,78,Maps and Global Positioning System (GPS)
+aimeos/aimeos,4603,107,47,17,4,23.246,0,4,2806,6,JavaScript,false,82.000,2,2,E-commerce
+johanohly/AirTrail,519,27,12,5,0,52.023,3,15,285,10,TypeScript,false,41.000,2,16,Maps and Global Positioning System (GPS)
+akaunting/akaunting,8612,87,45,25,4,10.102,0,1,2886,101,PHP,false,100.000,2,22,"Money, Budgeting & Management"
+alephdata/aleph,2143,20,8,5,0,9.333,2,16,3915,63,JavaScript,false,37.000,2,18,Search Engines
+Ardakilic/alerthub,214,1,1,1,0,4.673,5,13,2572,9,JavaScript,false,32.000,2,2,Miscellaneous
+alfio-event/alf.io,1483,1,0,0,0,0.674,25,13,3947,58,Java,false,24.000,3,6,Booking and Scheduling
+Alfresco/alfresco-community-repo,163,3,1,0,0,18.405,12,0,1760,425,Java,false,67.000,10,49,Content Management Systems (CMS)
+melmothx/amusewiki,194,1,1,1,0,5.155,5,0,4094,13,Perl,false,62.000,1,4,Wikis
+muety/anchr,333,32,1,0,0,96.096,9,28,3103,5,JavaScript,false,27.000,1,2,Miscellaneous
+anonaddy/anonaddy,3782,59,30,13,3,15.600,0,13,2156,10,PHP,false,62.000,1,2,Communication
+DaveStephens/ansible-nas,3440,27,10,8,0,7.849,1,3,2818,79,Jinja,false,57.000,1,4,Self-hosting Solutions
+answerdev/answer,14422,176,80,34,6,12.204,0,18,961,104,Go,false,82.000,5,50,Communication
+antville/antville,81,0,0,0,0,0.000,33,24,3695,5,JavaScript,false,16.000,2,14,Blogging Platforms
+anycable/anycable,2058,26,6,2,1,12.634,0,4,3177,30,Go,false,67.000,1,7,Communication
+apache/airflow,40077,473,184,102,15,11.802,0,0,3686,3290,Python,false,100.000,98,682,Automation
+apache/solr,1384,28,13,6,0,20.231,1,0,1544,424,Java,false,85.000,15,29,Search Engines
+oupala/apaxy,1893,3,1,1,0,1.585,2,219,4587,30,Shell,false,12.000,0,0,File Transfer
+apostrophecms/apostrophe,4434,17,9,4,1,3.834,0,0,4480,111,JavaScript,false,91.000,6,25,Content Management Systems (CMS)
+AppFlowy-IO/appflowy,63033,1047,501,312,26,16.610,0,0,1430,365,Dart,false,100.000,11,218,Task Management & To-do Lists
+caronc/apprise,13464,333,216,156,8,24.733,0,16,2729,88,Python,false,72.000,1,1,Communication
+appsmithorg/appsmith,36987,371,143,71,7,10.031,0,0,1782,341,TypeScript,false,100.000,25,112,Software Development
+appwrite/appwrite,48653,573,326,184,18,11.777,0,0,2230,356,TypeScript,false,100.000,10,47,Software Development
+aptabase/aptabase,1329,35,15,10,1,26.336,0,46,783,8,TypeScript,false,41.000,0,0,Analytics
+ArchiveBox/ArchiveBox,23858,229,95,45,5,9.598,0,57,2934,124,Python,false,66.000,0,0,Archiving and Digital Preservation (DP)
+archivesspace/archivesspace,373,4,3,1,0,10.724,5,1,4692,94,Ruby,false,62.000,9,98,Archiving and Digital Preservation (DP)
+asciinema/asciinema-server,2365,7,1,1,0,2.960,3,8,5182,45,Elixir,false,42.000,1,44,Miscellaneous
+asterisk/asterisk,2559,64,30,19,5,25.010,0,0,3688,235,C,false,96.000,11,20,Communication
+Atheos/Atheos,540,11,5,4,1,20.370,0,2,2070,90,JavaScript,false,72.000,3,13,Software Development
+atomicdata-dev/atomic-server,1260,23,13,7,0,18.254,1,10,1777,16,TypeScript,false,47.000,1,2,Knowledge Management Tools
+AtsumeruDev/Atsumeru,122,7,4,2,0,57.377,3,121,895,2,Java,false,12.000,0,0,Document Management
+advplyr/audiobookshelf,8784,438,267,117,11,49.863,0,0,1368,254,JavaScript,false,100.000,34,141,Media Streaming
+izderadicka/audioserve,764,2,1,0,0,2.618,11,38,2688,10,Rust,false,13.000,0,0,Media Streaming
+macarooni-man/auto-mcs,264,21,9,6,1,79.545,0,15,737,2,Python,false,55.000,1,47,Games
+automatisch/automatisch,8796,139,60,30,6,15.803,0,7,1324,25,JavaScript,false,92.000,4,76,Automation
+azimuttapp/azimutt,1868,20,9,2,0,10.707,2,51,1362,15,Elm,false,27.000,0,0,Database Management
+AzuraCast/AzuraCast,3386,43,13,6,2,12.699,0,0,3303,57,PHP,false,91.000,2,12,Media Streaming
+babybuddy/babybuddy,2345,34,20,15,1,14.499,0,6,2763,91,Python,false,65.000,1,1,Miscellaneous
+backdrop/backdrop,1009,5,2,1,0,4.955,6,0,4286,238,PHP,false,68.000,5,17,Content Management Systems (CMS)
+sabre-io/Baikal,2718,42,23,12,1,15.453,0,30,4827,60,PHP,false,46.000,0,0,Calendar & Contacts
+daya0576/beaverhabits,1158,98,35,17,2,84.629,0,0,431,8,Python,false,100.000,3,52,Time Tracking
+mariocandela/beelzebub,1076,65,18,10,1,60.409,0,11,1104,5,Go,false,55.000,1,1,Miscellaneous
+beetbox/beets,13479,85,39,15,3,6.306,0,0,5394,499,Python,false,100.000,7,78,Media Streaming
+bencherdev/bencher,683,19,11,4,0,27.818,4,15,1756,13,MDX,false,33.000,1,4,Software Development
+bewcloud/bewcloud,606,64,20,10,2,105.611,0,3,427,7,TypeScript,false,67.000,1,2,File Transfer & Synchronization
+bigbluebutton/bigbluebutton,8790,35,16,12,1,3.982,0,0,5471,218,JavaScript,false,95.000,15,209,Communication
+bigcapitalhq/bigcapital,2822,34,16,3,0,12.048,3,1,1333,22,TypeScript,false,71.000,1,14,"Money, Budgeting & Management"
+bigtreecms/BigTree-CMS,218,0,0,0,0,0.000,104,47,4796,14,PHP,false,6.000,0,0,Content Management Systems (CMS)
+w4/bin,519,12,4,2,0,23.121,1,199,2287,10,Rust,false,16.000,0,0,Pastebins
+querwurzel/BinPastes,5,1,1,0,0,200.000,8,11,901,2,Java,false,27.000,1,2,Pastebins
+bitcart/bitcart,649,16,6,3,0,24.653,2,17,2266,14,Python,false,31.000,1,1,"Money, Budgeting & Management"
+bitmagnet-io/bitmagnet,3003,100,49,27,11,33.300,0,5,592,26,Go,false,84.000,3,5,Archiving and Digital Preservation (DP)
+bitwarden/server,16534,157,65,34,5,9.496,0,0,3462,199,C#,false,100.000,34,113,Password Managers
+blackcandy-org/black_candy,3592,74,21,11,3,20.601,0,8,2656,5,Ruby,false,62.000,1,7,Media Streaming
+0xERR0R/blocky,5329,85,27,15,1,15.950,0,0,2019,63,Go,false,92.000,3,9,DNS
+bludit/bludit,1322,7,2,1,0,5.295,5,265,3722,83,JavaScript,false,12.000,0,0,Content Management Systems (CMS)
+bluecherrydvr/bluecherry-apps,233,1,1,1,0,4.292,5,0,5203,27,C++,false,62.000,2,7,Video Surveillance
+TheWicklowWolf/BookBounty,219,10,6,3,0,45.662,3,67,546,2,Python,false,17.000,0,0,Automation
+Mozzo1000/booklogr,304,8,3,2,0,26.316,4,109,418,1,JavaScript,false,12.000,0,0,Document Management
+BookStackApp/BookStack,16618,209,99,41,8,12.577,0,2,3548,181,PHP,false,100.000,1,9,Wikis
+bookwyrm-social/bookwyrm,2444,23,12,7,0,9.411,2,13,1937,114,Python,false,55.000,3,47,Document Management
+evroon/bracket,1143,830,818,109,6,726.159,0,1,889,10,Python,false,100.000,5,35,Polls and Events
+ndom91/briefkasten,1060,19,9,3,1,17.925,0,8,1108,8,JavaScript,false,53.000,1,2,Bookmarks and Link Sharing
+btcpayserver/btcpayserver,6752,58,29,14,2,8.590,0,2,2828,168,C#,false,90.000,6,56,"Money, Budgeting & Management"
+georgemandis/bubo-rss,206,3,2,1,0,14.563,1,116,1997,4,TypeScript,false,12.000,0,0,Feed Readers
+buddypress/BuddyPress,234,1,0,0,0,4.274,27,27,4416,18,PHP,false,12.000,1,1,Communication
+Budibase/budibase,24529,254,111,57,9,10.355,0,0,2170,101,TypeScript,false,100.000,10,613,Software Development
+bugsink/bugsink,666,220,54,35,1,330.330,0,1,269,2,Python,false,100.000,2,50,Ticketing
+bugzilla/bugzilla,740,15,9,7,0,20.270,1,235,4083,91,Perl,false,21.000,0,0,Ticketing
+jarun/Buku,6705,33,17,8,0,4.922,1,1,3484,70,Python,false,67.000,3,8,Bookmarks and Link Sharing
+bunkerity/bunkerweb,7959,142,52,25,4,17.841,0,63,2096,30,Python,false,60.000,0,0,Web Servers
+bytebase/bytebase,12399,145,64,34,6,11.694,0,1,1571,90,Go,false,100.000,10,231,Database Management
+caddyserver/caddy,64298,817,331,164,19,12.706,0,3,3776,323,Go,false,98.000,8,17,Web Servers
+calcom/cal.com,36230,523,214,110,10,14.436,0,0,1516,769,TypeScript,false,100.000,36,271,Booking and Scheduling
+janeczku/calibre-web,14620,262,116,60,10,17.921,0,47,3575,233,Fluent,false,68.000,0,0,Document Management
+kovidgoyal/calibre,21421,292,145,69,13,13.631,0,1,4371,334,Python,false,100.000,8,121,Document Management
+instructure/canvas-lms,5996,60,29,13,2,10.007,0,0,5219,387,Ruby,false,100.000,72,678,Learning and Courses
+IceWhaleTech/CasaOS,29826,497,248,84,11,16.663,0,31,1329,24,Go,false,68.000,0,0,Self-hosting Solutions
+centrifugal/centrifugo,8959,70,40,23,1,7.813,0,6,3699,44,Go,false,82.000,2,9,Communication
+chamilo/chamilo-lms,856,5,3,2,0,5.841,3,2,4431,73,PHP,false,62.000,5,119,Learning and Courses
+dgtlmoon/changedetection.io,24058,554,230,89,14,23.028,0,5,1570,101,Python,false,100.000,5,21,Automation
+TheWicklowWolf/ChannelTube,204,8,3,2,0,39.216,4,15,575,2,Python,false,22.000,1,1,Media Management
+chartbrew/chartbrew,2922,105,34,9,1,35.934,0,1,2087,20,JavaScript,false,100.000,1,47,Database Management
+chaskiq/chaskiq,3322,28,11,6,0,8.429,1,211,2545,24,TypeScript,false,25.000,0,0,Communication
+chatwoot/chatwoot,23648,452,251,105,7,19.114,0,0,2103,273,Ruby,false,100.000,12,76,Communication
+chevereto/chevereto,655,23,14,10,5,35.115,0,0,898,5,PHP,false,87.000,1,2,Photo Galleries
+SinTan1729/chhoto-url,257,13,4,2,0,50.584,3,0,908,6,Rust,false,76.000,2,101,URL Shorteners
+chibisafe/chibisafe,2147,31,17,9,3,14.439,0,52,3046,55,TypeScript,false,41.000,0,0,File Transfer
+chiefonboarding/ChiefOnboarding,761,10,3,1,0,13.141,6,71,1768,15,Python,false,12.000,0,0,Automation
+Wingysam/Christmas-Community,347,5,2,0,0,14.409,8,105,1341,29,TypeScript,false,7.000,0,0,Polls and Events
+ckan/ckan,4705,36,15,9,2,7.651,0,9,4936,319,Python,false,65.000,8,68,Archiving and Digital Preservation (DP)
+ClaperCo/Claper,561,15,8,4,1,26.738,0,133,1029,11,Elixir,false,31.000,0,0,Polls and Events
+clearflask/clearflask,356,5,3,2,0,14.045,1,14,1383,3,TypeScript,false,24.000,1,4,Polls and Events
+MacWarrior/clipbucket-v5,114,2,1,0,0,17.544,9,0,2595,30,JavaScript,false,67.000,1,52,Media Streaming
+Sathvik-Rao/ClipCascade,833,44,17,9,1,52.821,0,99,257,1,Python,false,35.000,0,0,Miscellaneous
+ipv6rslimited/cloudseeder,147,5,2,1,0,34.014,6,9,384,2,Shell,false,32.000,1,1,Self-hosting Solutions
+dbeaver/cloudbeaver,3900,69,31,14,3,17.692,0,0,1863,72,TypeScript,false,100.000,14,49,Database Management
+magicbug/cloudlog,503,10,7,4,1,19.881,0,9,5135,102,PHP,false,49.000,1,8,Miscellaneous
+Cockpit-HQ/Cockpit,446,9,6,4,0,20.179,1,8,1578,14,PHP,false,43.000,1,17,Content Management Systems (CMS)
+coder/code-server,71718,756,275,142,13,10.541,0,1,2270,243,TypeScript,false,100.000,5,16,Software Development
+coder/coder,9845,362,114,45,3,36.770,0,0,1242,198,Go,false,100.000,31,260,Software Development
+collectiveaccess/providence,321,5,5,3,1,15.576,0,8,4749,47,PHP,false,48.000,2,12,Archiving and Digital Preservation (DP)
+Athou/commafeed,3044,32,10,5,1,10.512,0,1,4440,93,Java,false,85.000,4,100,Feed Readers
+ComposioHQ/composio,25278,489,196,90,18,19.345,0,7,448,61,Python,false,92.000,8,22,Software Development
+concretecms/concretecms,794,4,2,2,1,5.038,0,4,4042,264,PHP,false,62.000,4,31,Content Management Systems (CMS)
+contao/contao,368,1,1,0,0,2.717,13,0,2467,110,PHP,false,65.000,9,50,Content Management Systems (CMS)
+conversejs/converse.js,3128,5,0,0,0,1.598,15,0,4683,287,JavaScript,false,64.000,10,117,Communication
+C4illin/ConvertX,1849,461,101,55,15,249.324,0,2,404,10,TypeScript,false,100.000,5,27,Miscellaneous
+convos-chat/convos,1106,29,5,2,0,26.221,5,99,4185,29,Perl,false,20.000,0,0,Communication
+coppermine-gallery/cpg1.6.x,70,1,0,0,0,14.286,28,338,3482,7,PHP,false,2.000,0,0,Photo Galleries
+9001/copyparty,1220,64,30,14,1,52.459,0,2,2182,16,Python,false,90.000,2,30,File Transfer
+coralproject/talk,1941,8,4,2,1,4.122,0,7,3119,69,TypeScript,false,48.000,3,12,Communication
+coreshop/CoreShop,288,1,0,0,0,3.472,23,4,3714,74,PHP,false,42.000,4,36,E-commerce
+cortezaproject/corteza,1789,23,11,7,0,12.856,1,23,2187,31,Go,false,37.000,2,7,Customer Relationship Management (CRM)
+azukaar/cosmos-Server,4480,78,37,23,1,17.411,0,41,825,16,JavaScript,false,56.000,0,0,Self-hosting Solutions
+CouchCMS/CouchCMS,361,3,2,2,1,8.310,0,7,3741,11,PHP,false,42.000,1,1,Content Management Systems (CMS)
+Countly/countly-server,5675,15,9,5,0,2.643,1,0,4736,89,JavaScript,false,81.000,12,216,Analytics
+craftcms/cms,3421,27,19,8,3,7.892,0,0,3031,233,PHP,false,95.000,7,257,Content Management Systems (CMS)
+cryptpad/cryptpad,6467,277,203,82,9,42.833,0,14,3850,120,JavaScript,false,74.000,2,5,Office Suites
+cstate/cstate,2697,30,11,5,1,11.123,0,71,2955,64,HTML,false,35.000,0,0,Status / Uptime pages
+Kshitij-Banerjee/Cubiks-2048,25,0,0,0,0,0.000,513,3996,4064,1,JavaScript,false,0.000,0,0,Games
+OpenPrinting/cups,1257,21,8,4,1,16.706,0,0,1716,106,C,false,95.000,2,46,Miscellaneous
+gchq/CyberChef,31238,338,167,97,11,10.820,0,0,3091,183,JavaScript,false,100.000,13,50,Miscellaneous
+cypht-org/cypht,1107,37,11,4,0,33.424,1,0,4109,94,PHP,false,81.000,7,17,Communication
+cyrusimap/cyrus-imapd,578,3,0,0,0,5.190,14,2,3286,104,C,false,54.000,8,102,Communication
+dagu-dev/dagu,1972,24,12,8,0,12.170,1,0,1120,45,Go,false,81.000,2,11,Media Management
+emanuelef/daily-stars-explorer,195,10,6,3,0,51.282,1,6,602,2,JavaScript,false,49.000,1,6,Analytics
+PhiTux/DailyTxT,273,8,6,5,0,29.304,1,33,1617,7,Vue,false,23.000,0,0,Note-taking & Editors
+webreaper/damselfly,1634,21,6,5,2,12.852,0,129,2056,4,C#,false,35.000,0,0,Photo Galleries
+dashpresshq/dashpress,1860,3,1,0,0,1.613,9,146,1005,9,TypeScript,false,7.000,0,0,Software Development
+balzack/databag,1024,14,5,2,0,13.672,4,33,1243,13,TypeScript,false,22.000,0,0,Communication
+securitybunker/databunker,1298,7,4,3,0,5.393,3,13,1986,5,Go,false,32.000,1,1,Database Management
+simonw/datasette,10022,76,34,17,4,7.583,0,25,2763,78,Python,false,62.000,1,2,Database Management
+tchapi/davis,471,14,6,3,0,29.724,2,13,2026,9,PHP,false,43.000,2,10,Calendar & Contacts
+mguessan/davmail,628,8,6,4,2,12.739,0,0,2529,1,Java,false,87.000,1,28,Communication
+Freika/dawarich,4917,392,216,89,7,79.723,0,8,418,31,Ruby,false,92.000,4,72,Maps and Global Positioning System (GPS)
+debops/debops,1308,8,3,1,0,6.116,4,200,2820,159,Jinja,false,12.000,0,0,Communication
+diaspora/diaspora,13509,44,21,16,2,3.257,0,33,5358,369,Ruby,false,46.000,0,0,Communication
+MichaIng/DietPi,5257,88,30,20,2,16.740,0,27,3716,114,Shell,false,60.000,2,21,Self-hosting Solutions
+langgenius/dify,97494,5304,2130,1133,124,54.403,0,0,766,808,TypeScript,false,100.000,106,296,Software Development
+DirectoryLister/DirectoryLister,2343,16,10,4,0,6.829,1,7,5203,41,PHP,false,51.000,2,27,File Transfer
+directus/directus,30519,622,302,103,14,20.381,0,3,4539,458,TypeScript,false,100.000,10,40,Database Management
+Cybrarist/Discount-Bandit,423,6,3,1,0,14.184,4,45,680,4,PHP,false,18.000,0,0,Automation
+discourse/discourse,44009,306,147,68,10,6.953,0,0,4508,934,Ruby,false,100.000,43,390,Communication
+dittofeed/dittofeed,2315,62,36,19,1,26.782,0,1,959,23,TypeScript,false,100.000,2,49,Automation
+DjangoCRM/django-crm,257,26,14,7,0,101.167,2,0,327,11,Python,false,85.000,7,101,Customer Relationship Management (CRM)
+django-wiki/django-wiki,1867,9,7,2,0,4.821,2,15,4686,116,Python,false,29.000,2,6,Wikis
+dnote/dnote,2866,9,4,1,0,3.140,4,321,2969,22,Go,false,12.000,0,0,Note-taking & Editors
+jhpyle/docassemble,841,11,7,3,0,13.080,1,5,3682,52,Python,false,57.000,2,13,Polls and Events
+docat-org/docat,848,8,5,2,0,9.434,1,36,2016,20,TypeScript,false,18.000,0,0,Miscellaneous
+docker-mailserver/docker-mailserver,16383,634,537,335,6,38.699,0,6,3702,314,Shell,false,94.000,4,8,Communication
+shipsaas/docking,261,6,3,1,0,22.989,2,359,759,2,PHP,false,12.000,0,0,Document Management
+GhostWriters/DockSTARTer,2425,22,10,3,0,9.072,4,5,2548,74,Shell,false,65.000,4,24,Self-hosting Solutions
+docmost/docmost,15282,1915,286,102,9,125.311,0,0,652,31,TypeScript,false,100.000,5,36,Wikis
+suitenumerique/docs,12009,579,130,65,3,48.214,0,0,493,32,Python,false,100.000,12,64,Note-taking & Editors
+eikek/docspell,1798,17,9,1,0,9.455,6,2,2131,41,Elm,false,71.000,3,24,Document Management
+documenso/documenso,10917,176,70,29,2,16.122,0,2,796,120,TypeScript,false,100.000,4,33,Document Management
+documize/community,2228,17,7,2,1,7.630,0,136,3304,27,JavaScript,false,31.000,0,0,Wikis
+docusealco/docuseal,9142,156,74,39,3,17.064,0,4,683,4,Ruby,false,100.000,2,49,Document Management
+dokuwiki/dokuwiki,4301,19,6,4,1,4.418,0,1,5612,588,PHP,false,77.000,6,20,Wikis
+Dolibarr/dolibarr,6082,176,138,46,2,28.938,0,0,5073,697,PHP,false,100.000,44,489,Resource Planning
+DOMjudge/domjudge,797,12,3,2,0,15.056,4,3,4273,73,PHP,false,52.000,3,11,Miscellaneous
+domoticz/domoticz,3580,5,1,1,0,1.397,1,1,3562,382,C++,false,62.000,5,41,Internet of Things (IoT)
+donetick/donetick,673,55,29,9,0,81.724,2,0,320,12,Go,false,86.000,2,13,Task Management & To-do Lists
+dovecot/core,1063,13,10,7,2,12.230,0,1,3446,107,C,false,81.000,4,57,Communication
+DarrenOfficial/dpaste,574,4,2,2,0,6.969,3,19,5159,31,Python,false,24.000,1,3,Pastebins
+corecode/dma,241,1,0,0,0,4.149,14,49,4931,34,C,false,8.000,0,0,Communication
+dreamfactorysoftware/dreamfactory,1605,8,6,4,0,4.984,1,1,3669,21,Shell,false,59.000,3,7,Software Development
+teleclimber/Dropserver,63,1,0,0,0,15.873,26,157,2304,2,Go,false,2.000,0,0,Self-hosting Solutions
+apache/druid,13703,35,14,3,1,2.554,0,0,4588,653,Java,false,95.000,20,57,Analytics
+DSpace/DSpace,966,11,7,5,2,11.387,0,0,4809,235,Java,false,91.000,16,137,Document Management
+filipecarneiro/ELabel,27,1,0,0,0,37.037,23,99,534,4,JavaScript,false,2.000,0,0,Community-Supported Agriculture (CSA)
+alextselegidis/easyappointments,3625,43,27,16,1,11.862,0,74,3824,88,PHP,false,40.000,0,0,Booking and Scheduling
+easy-wi/developer,236,1,0,0,0,4.237,27,20,4288,42,PHP,false,12.000,1,1,Games
+eclipse/che,7043,17,6,2,2,2.414,0,2,3704,157,TypeScript,false,73.000,5,10,Software Development
+jortilles/EDA,138,4,2,1,0,28.986,4,1,1962,13,TypeScript,false,62.000,3,23,Analytics
+elabftw/elabftw,1104,15,7,3,0,13.587,2,4,4536,49,PHP,false,61.000,2,52,Content Management Systems (CMS)
+LukeSmithxyz/emailwiz,1948,29,22,13,2,14.887,0,12,2181,42,Shell,false,62.000,2,2,Communication
+CorentinTh/enclosed,1387,72,25,16,3,51.911,0,37,267,20,TypeScript,false,46.000,0,0,File Transfer
+engity-com/bifroest,43,4,2,1,0,93.023,1,3,320,5,Go,false,48.000,1,11,Remote Access
+NuSkooler/enigma-bbs,582,8,4,4,4,13.746,0,82,3489,26,JavaScript,false,22.000,0,0,Communication
+ente-io/ente,19261,485,226,108,18,25.180,0,0,928,184,Dart,false,100.000,16,663,Photo Galleries
+eprints/eprints3.4,37,1,0,0,0,27.027,18,8,2615,16,Perl,false,24.000,4,7,Document Management
+rtckit/eqivo,88,4,2,1,0,45.455,2,357,1148,1,PHP,false,12.000,0,0,Communication
+ergochat/ergo,2816,25,11,4,1,8.878,0,6,3322,51,Go,false,71.000,1,11,Communication
+erxes/erxes,3637,14,5,3,0,3.849,1,1,3109,153,TypeScript,false,66.000,10,96,Ticketing
+KL-Psychological-Methodology/ESMira,16,0,0,0,0,0.000,200,17,2033,8,unknown,false,12.000,2,2,Miscellaneous
+espocrm/espocrm,2214,81,51,22,8,36.585,0,2,3886,47,PHP,false,100.000,2,98,Customer Relationship Management (CRM)
+etesync/server,1649,18,6,3,0,10.916,1,308,2735,23,Python,false,21.000,0,0,Calendar & Contacts
+ether/etherpad-lite,17413,82,40,24,1,4.709,0,1,5165,306,TypeScript,false,96.000,3,18,Office Suites
+ever-co/ever-gauzy,2609,45,16,6,1,17.248,0,1,2175,91,TypeScript,false,85.000,9,201,Time Tracking
+evergreen-library-system/Evergreen,134,1,1,1,0,7.463,3,1,5114,125,PLpgSQL,false,60.000,8,24,Document Management
+evershopcommerce/evershop,5098,141,52,21,4,27.658,0,49,1471,37,JavaScript,false,66.000,0,0,E-commerce
+jonashellmann/everydocs-core,257,7,3,1,1,27.237,0,7,2183,1,Ruby,false,44.000,1,6,Document Management
+evidence-dev/evidence,5199,80,38,16,1,15.388,0,56,1451,64,JavaScript,false,56.000,0,0,Database Management
+tanq16/expenseowl,908,74,18,6,0,81.498,3,30,185,3,HTML,false,31.000,0,0,"Money, Budgeting & Management"
+thomas4019/expressa,442,1,0,0,0,2.262,28,152,3299,6,JavaScript,false,2.000,0,0,Content Management Systems (CMS)
+mayswind/ezbookkeeping,729,85,20,7,0,116.598,1,5,1673,8,Go,false,65.000,3,59,"Money, Budgeting & Management"
+nymanjens/facto,262,7,4,2,0,26.718,4,60,3714,3,Scala,false,12.000,0,0,"Money, Budgeting & Management"
+farmOS/farmOS,1071,15,6,2,1,14.006,0,7,4119,37,PHP,false,61.000,2,52,Resource Planning
+fastenhealth/fasten-onprem,2256,47,24,14,2,20.833,0,0,998,23,Go,false,92.000,3,4,Health and Fitness
+beancount/fava,2130,20,14,6,0,9.390,3,8,3451,97,Python,false,47.000,1,15,"Money, Budgeting & Management"
+featbit/featbit,1529,14,6,3,0,9.156,2,7,992,33,C#,false,43.000,2,7,Software Development
+fcrepo/fcrepo,221,2,0,0,0,9.050,21,7,4485,60,Java,false,26.000,3,10,Document Management
+Qolors/FeedCord,211,12,4,3,0,56.872,2,85,580,2,C#,false,16.000,0,0,Feed Readers
+cristoper/feedmixer,203,6,4,1,0,29.557,1,315,2955,1,Python,false,12.000,0,0,Automation
+ncarlier/feedpushr,366,3,1,0,0,8.197,7,14,2631,6,Go,false,17.000,1,1,Feed Readers
+Tiendil/feeds.fun,132,17,4,3,0,128.788,3,0,779,1,Python,false,76.000,1,23,Feed Readers
+revenz/fenrus,656,15,6,2,0,22.866,3,106,1188,15,JavaScript,false,21.000,0,0,Personal Dashboards
+codelibs/fess,1040,7,4,4,2,6.731,0,9,4264,37,Java,false,44.000,1,9,Search Engines
+getfider/fider,3483,87,46,15,1,24.978,0,8,3041,49,Go,false,72.000,2,10,Polls and Events
+filebrowser/filebrowser,29045,438,221,103,17,15.080,0,58,3535,182,Go,false,68.000,0,0,File Transfer
+filegator/filegator,2429,59,20,10,1,24.290,0,5,2164,46,PHP,false,65.000,1,1,File Transfer
+axeloz/filesharing,241,3,1,1,0,12.448,3,225,2858,5,PHP,false,12.000,0,0,File Transfer
+mickael-kerjean/filestash,11305,122,53,32,2,10.792,0,1,2895,65,JavaScript,false,100.000,1,28,File Transfer
+firefly-iii/firefly-iii,19125,453,173,81,10,23.686,0,5,3976,163,PHP,false,100.000,3,48,"Money, Budgeting & Management"
+mozilla/fxa,638,10,3,1,0,15.674,5,0,3635,208,TypeScript,false,72.000,16,228,Bookmarks and Link Sharing
+firezone/firezone,7216,75,34,19,2,10.394,0,0,1851,46,Elixir,false,100.000,4,276,Remote Access
+flagsmith/flagsmith,5629,55,25,16,1,9.771,0,0,2537,98,Python,false,100.000,15,58,Software Development
+flarum/flarum,15740,69,30,17,1,4.384,0,15,3790,32,PHP,false,50.000,1,1,Communication
+AndrewPaglusch/FlashPaper,445,6,2,1,0,13.483,1,182,2927,7,PHP,false,12.000,0,0,Pastebins
+dullage/flatnotes,2092,64,21,8,0,30.593,1,25,1382,15,Vue,false,42.000,2,2,Note-taking & Editors
+flatpressblog/flatpress,191,1,0,0,0,5.236,29,9,4261,12,PHP,false,32.000,2,183,Blogging Platforms
+BelledonneCommunications/flexisip,163,2,2,2,1,12.270,0,1,3644,24,C++,false,64.000,3,6,Communication
+flipt-io/flipt,4349,58,30,18,0,13.336,1,3,3115,66,Go,false,70.000,3,59,Software Development
+flowforge/flowforge,322,6,2,1,0,18.634,6,2,1417,31,JavaScript,false,62.000,8,223,Internet of Things (IoT)
+fluidd-core/fluidd,1533,16,9,3,1,10.437,0,6,1704,133,Vue,false,67.000,3,18,Manufacturing
+flyimg/flyimg,1114,9,6,2,1,8.079,0,35,3357,19,PHP,false,33.000,0,0,Miscellaneous
+foodcoopshop/foodcoopshop,103,2,2,1,0,19.417,5,1,3186,15,PHP,false,62.000,2,40,Community-Supported Agriculture (CSA)
+foodcoops/foodsoft,337,3,0,0,0,8.902,14,6,5973,44,Ruby,false,40.000,4,12,Community-Supported Agriculture (CSA)
+mikebgrep/fork.recipes,52,5,2,2,1,96.154,0,18,176,2,HTML,false,42.000,1,25,Recipe Management
+formbricks/formbricks,10624,190,110,62,2,17.884,0,0,1076,264,TypeScript,false,100.000,13,167,Polls and Events
+forwardemail/forwardemail.net,1132,40,26,12,3,35.336,0,1,1977,35,JavaScript,false,90.000,3,44,Communication
+FOSSBilling/FOSSBilling,1021,25,9,2,0,24.486,4,0,1095,91,PHP,false,85.000,7,72,"Money, Budgeting & Management"
+frappe/helpdesk,2355,251,43,20,3,106.582,0,3,1304,99,Vue,false,90.000,3,46,Ticketing
+frappe/hrms,2123,119,60,30,16,56.053,0,1,1073,224,Python,false,100.000,11,138,Human Resources Management (HRM)
+freescout-helpdesk/freescout,3474,71,38,25,12,20.438,0,2,2520,84,PHP,false,100.000,4,43,Ticketing
+signalwire/freeswitch,4052,76,27,15,4,18.756,0,31,2396,148,C,false,46.000,0,0,Communication
+FreshRSS/FreshRSS,11526,250,124,62,13,21.690,0,3,4590,306,PHP,false,100.000,6,34,Feed Readers
+friendica/friendica,1562,17,7,4,0,10.883,1,2,4940,13,PHP,false,71.000,5,49,Communication
+blakeblackshear/frigate,22592,578,284,118,12,25.584,0,0,2302,354,TypeScript,false,100.000,13,151,Video Surveillance
+apioo/fusio,1971,15,7,3,2,7.610,0,12,3579,3,PHP,false,53.000,1,6,Software Development
+0x2E/fusion,1603,91,55,35,3,56.769,0,3,437,13,Go,false,96.000,2,14,Feed Readers
+fusionpbx/fusionpbx,861,16,4,2,0,18.583,2,1,3608,207,PHP,false,66.000,7,35,Communication
+jech/galene,1055,8,3,2,0,7.583,3,1,1609,17,Go,false,54.000,1,4,Communication
+galette/galette,57,2,2,1,0,35.088,4,0,4505,109,PHP,false,72.000,6,53,"Money, Budgeting & Management"
+Zibbp/ganymede,708,33,18,10,2,46.610,0,9,1059,12,Go,false,65.000,3,33,Archiving and Digital Preservation (DP)
+gaseous-project/gaseous-server,561,35,19,10,2,62.389,0,3,822,2,C#,false,71.000,2,13,Games
+lowercasename/gathio,372,20,3,1,0,53.763,4,17,2122,19,JavaScript,false,36.000,2,21,Polls and Events
+TwiN/gatus,7440,119,54,28,3,15.995,0,1,2082,113,Go,false,100.000,7,10,Status / Uptime pages
+genea-app/genea-app,227,2,1,0,0,8.811,10,1150,1502,1,JavaScript,false,7.000,0,0,Genealogy
+geneweb/geneweb,341,3,1,0,0,8.798,13,2,4204,35,OCaml,false,57.000,4,96,Genealogy
+noandrea/geo2tz,81,0,0,0,0,0.000,30,53,1837,3,Go,false,6.000,0,0,Maps and Global Positioning System (GPS)
+gerbera/gerbera,1256,12,6,2,0,9.554,3,1,3933,93,C++,false,67.000,1,12,Media Streaming
+GerritCodeReview/gerrit,1054,16,8,2,0,15.180,1,0,3445,356,Java,false,81.000,16,182,Software Development
+TryGhost/Ghost,49263,301,139,73,12,6.110,0,0,4395,674,JavaScript,false,100.000,32,434,Blogging Platforms
+ghostfolio/ghostfolio,5747,132,55,30,5,22.969,0,0,1494,168,TypeScript,false,100.000,15,116,"Money, Budgeting & Management"
+vladkens/ghstats,151,3,1,1,0,19.868,2,90,295,2,Rust,false,12.000,0,0,Analytics
+GibbonEdu/core,520,5,2,0,0,9.615,7,0,4265,45,PHP,false,67.000,3,86,Learning and Courses
+gitblit-org/gitblit,2314,6,4,3,1,2.593,0,361,5077,117,Java,false,22.000,0,0,Software Development
+gitbucket/gitbucket,9244,17,9,3,0,1.839,1,2,4419,178,Scala,false,63.000,1,6,Software Development
+go-gitea/gitea,48636,568,276,151,22,11.679,0,0,3119,1456,Go,false,100.000,25,95,Software Development
+BreizhHardware/ntfy_alerts,26,4,3,1,0,153.846,4,12,442,2,Python,false,34.000,2,6,Automation
+jgm/gitit,2202,5,3,3,0,2.271,2,43,6035,60,Haskell,false,18.000,0,0,Wikis
+sitaramc/gitolite,8470,9,5,1,0,1.063,4,354,5745,38,Perl,false,12.000,0,0,Software Development
+GladysAssistant/Gladys,2809,21,13,9,2,7.476,0,0,3633,57,JavaScript,false,95.000,3,39,Internet of Things (IoT)
+glanceapp/glance,24287,1781,1317,366,54,73.331,0,0,384,62,Go,false,100.000,5,83,Personal Dashboards
+globaleaks/whistleblowing-software,1334,21,12,9,1,15.742,0,1,4642,46,Python,false,85.000,2,34,Communication
+glowing-bear/glowing-bear,960,7,4,3,0,7.292,2,307,4471,79,JavaScript,false,12.000,0,0,Communication
+yusing/godoxy,1803,151,90,54,7,83.749,0,0,443,4,Go,false,100.000,3,209,Web Servers
+thomaspoignant/go-feature-flag,1646,25,10,5,1,15.188,0,2,1617,73,Go,false,85.000,2,91,Software Development
+allinurl/goaccess,19342,118,71,37,4,6.101,0,10,4325,158,C,false,82.000,3,3,Analytics
+arp242/goatcounter,4894,62,15,8,1,12.669,0,35,2181,52,Go,false,41.000,0,0,Analytics
+gogs/gogs,46362,187,86,35,4,4.033,0,0,4112,495,Go,false,100.000,2,2,Software Development
+gollum/gollum,13999,23,13,7,2,1.643,0,39,5527,196,Ruby,false,41.000,0,0,Wikis
+majodev/google-webfonts-helper,12461,52,25,9,0,4.173,1,75,3799,9,TypeScript,false,30.000,0,0,Miscellaneous
+gophish/gophish,12569,126,57,31,1,10.025,0,236,4197,50,Go,false,60.000,0,0,Miscellaneous
+Depado/goploader,293,3,1,0,0,10.239,10,1,3464,11,JavaScript,false,57.000,2,21,File Transfer
+stv0g/gose,238,8,3,1,1,33.613,0,5,1165,2,Go,false,54.000,1,4,File Transfer
+gotenberg/gotenberg,9221,198,91,48,3,21.473,0,1,2611,59,Go,false,100.000,4,24,Document Management
+gotify/server,12488,162,75,41,9,12.972,0,11,2678,36,Go,false,84.000,2,2,Communication
+superseriousbusiness/gotosocial,4142,36,13,6,1,8.691,0,1,1539,135,Go,false,85.000,16,89,Communication
+gramps-project/gramps-web-api,107,4,1,1,0,37.383,5,2,1737,23,Python,false,52.000,2,23,Genealogy
+verifid/graph-vl,62,1,0,0,0,16.129,14,213,2094,1,Python,false,2.000,0,0,Miscellaneous
+graphhopper/graphhopper,5795,81,51,31,8,13.978,0,1,4836,115,Java,false,100.000,4,8,Maps and Global Positioning System (GPS)
+exogee-technology/graphweaver,518,5,1,0,0,9.653,12,1,999,18,TypeScript,false,57.000,4,40,Software Development
+goniszewski/grimoire,2429,34,13,7,1,13.998,0,78,694,11,TypeScript,false,35.000,0,0,Bookmarks and Link Sharing
+gristlabs/grist-core,8378,116,41,20,4,13.846,0,0,1821,106,TypeScript,false,100.000,17,75,Office Suites
+grocy/grocy,7517,131,77,41,4,17.427,0,44,2953,87,Blade,false,66.000,0,0,Resource Planning
+Intermesh/groupoffice,224,8,4,2,0,35.714,1,0,2626,19,PHP,false,72.000,4,121,Groupware
+JeromeDevome/GRR,90,1,0,0,0,11.111,25,12,3585,22,PHP,false,28.000,1,14,"Money, Budgeting & Management"
+apache/guacamole-server,3348,42,15,11,2,12.545,0,4,3343,70,C,false,75.000,5,39,Remote Access
+HabitRPG/habitica,12863,134,86,64,4,10.417,0,3,4727,890,JavaScript,false,96.000,4,16,Miscellaneous
+TheNickOfTime/handbrake-web,421,24,7,4,1,57.007,0,54,360,1,TypeScript,false,41.000,0,0,Automation
+haraka/Haraka,5258,27,10,5,1,5.135,0,36,5181,179,JavaScript,false,41.000,0,0,Communication
+hasura/graphql-engine,31537,92,53,21,2,2.917,0,1,2525,562,TypeScript,false,100.000,10,54,Software Development
+importantimport/hatsu,195,7,6,5,0,35.897,1,43,668,7,Rust,false,23.000,0,0,Communication
+havenweb/haven,694,7,5,2,1,10.086,0,7,1579,7,Ruby,false,44.000,2,4,Blogging Platforms
+rembo10/headphones,3471,10,4,2,0,2.881,1,161,5110,127,Python,false,12.000,0,0,Media Management
+healthchecks/healthchecks,8886,88,44,22,0,9.903,1,1,3613,97,Python,false,90.000,1,41,Automation
+hedgedoc/hedgedoc,6025,149,66,23,3,24.730,0,26,2242,163,TypeScript,false,72.000,3,10,Note-taking & Editors
+linuxserver/Heimdall,8370,73,39,23,3,8.722,0,192,2667,80,PHP,false,50.000,0,0,Personal Dashboards
+HemmeligOrg/Hemmelig.app,875,12,6,1,0,13.714,3,3,1433,35,JavaScript,false,53.000,3,8,Pastebins
+heyform/heyform,8103,98,41,24,1,12.094,0,40,423,24,TypeScript,false,56.000,0,0,Polls and Events
+HiEventsDev/hi.events,2885,129,51,23,2,44.714,0,1,571,22,PHP,false,100.000,4,36,Booking and Scheduling
+ashwin-pc/hiccup,169,5,1,0,0,29.586,11,229,1790,2,TypeScript,false,7.000,0,0,Personal Dashboards
+hitobito/hitobito,410,3,2,2,1,7.317,0,0,4308,61,Ruby,false,82.000,5,61,Polls and Events
+stephane-r/holoplay-pwa,109,0,0,0,0,0.000,57,298,810,5,TypeScript,false,0.000,0,0,Media Streaming
+homarr-labs/homarr,801,206,76,36,11,257.179,0,0,525,20,TypeScript,false,100.000,10,180,Personal Dashboards
+home-assistant/core,79062,1040,710,267,15,13.154,0,0,4260,4208,Python,false,100.000,160,1229,Internet of Things (IoT)
+sysadminsmedia/homebox,2634,221,138,33,1,83.903,0,0,333,167,Go,false,100.000,7,83,Inventory Management
+progmaticltd/homebox,486,1,1,1,0,2.058,6,305,2987,12,Shell,false,10.000,0,0,Communication
+xemle/home-gallery,947,23,14,6,1,24.287,0,23,1606,11,JavaScript,false,45.000,1,1,Photo Galleries
+gethomepage/homepage,23768,816,349,168,22,34.332,0,1,997,393,JavaScript,false,100.000,13,18,Personal Dashboards
+tomershvueli/homepage,315,1,0,0,0,3.175,20,1468,3177,2,JavaScript,false,2.000,0,0,Personal Dashboards
+bastienwirtz/homer,10129,127,62,32,9,12.538,0,11,2529,129,Vue,false,88.000,6,18,Personal Dashboards
+homeserverhq/hshq,22,2,1,1,0,90.909,2,0,904,1,Shell,false,72.000,1,63,Self-hosting Solutions
+hoppscotch/hoppscotch,71653,578,224,110,15,8.067,0,8,2095,271,TypeScript,false,92.000,14,27,Software Development
+danielbrendel/hortusfox-web,906,45,12,5,1,49.669,0,1,600,17,PHP,false,85.000,1,25,Miscellaneous
+zelon88/HRConvert2,1258,23,12,3,0,18.283,3,341,2639,6,PHP,false,25.000,0,0,Automation
+danpros/htmly,1181,16,4,3,1,13.548,0,8,4161,59,PHP,false,56.000,3,24,Blogging Platforms
+dukeofharen/httplaceholder,121,0,0,0,0,0.000,33,89,2571,1,C#,false,0.000,0,0,Software Development
+knrdl/hubleys-dashboard,85,5,1,1,0,58.824,1,2,883,3,TypeScript,false,62.000,2,24,Personal Dashboards
+huginn/huginn,46188,325,159,78,18,7.036,0,55,4451,232,Ruby,false,68.000,0,0,Automation
+hcengineering/platform,20820,666,179,74,10,31.988,0,0,1383,95,TypeScript,false,100.000,13,175,Software Development
+humhub/humhub,6435,22,10,4,2,3.419,0,1,4114,160,PHP,false,77.000,3,5,Communication
+juspay/hyperswitch,18569,2811,1163,125,7,151.381,0,0,942,255,Rust,false,100.000,48,142,"Money, Budgeting & Management"
+hyphanet/fred,1072,9,6,5,1,8.396,0,40,5866,81,Java,false,33.000,0,0,Communication
+mkucej/i-librarian-free,297,5,1,0,0,16.835,11,73,1865,2,PHP,false,7.000,0,0,Document Management
+misterunknown/ifm,350,0,0,0,0,0.000,52,51,4169,10,JavaScript,false,6.000,0,0,File Transfer
+spiral-project/ihatemoney,1269,21,7,3,0,16.548,3,108,5182,183,Python,false,25.000,0,0,"Money, Budgeting & Management"
+ILIAS-eLearning/ILIAS,426,1,1,1,0,2.347,3,0,3748,141,PHP,false,70.000,26,71,Learning and Courses
+imgproxy/imgproxy,9559,86,37,25,3,8.997,0,0,2887,102,Go,false,100.000,1,5,Proxy
+damongolding/immich-kiosk,827,36,15,9,1,43.531,0,19,315,12,Go,false,47.000,1,2,Photo Galleries
+immich-app/immich,65935,2273,927,430,46,34.473,0,0,1198,1227,TypeScript,false,100.000,42,241,Photo Galleries
+deck9/input,221,2,1,0,0,9.050,9,99,1339,13,PHP,false,7.000,0,0,Polls and Events
+inveniosoftware/invenio-app-rdm,123,1,1,0,0,8.130,13,0,2186,212,JavaScript,false,61.000,11,20,Document Management
+inventaire/inventaire,458,2,2,1,0,4.367,5,0,3755,11,TypeScript,true,42.000,2,21,Inventory Management
+inventree/InvenTree,4983,99,52,26,2,19.868,0,0,2977,100,Python,false,100.000,11,62,Inventory Management
+iv-org/invidious,17257,163,70,22,0,9.445,1,3,2656,339,Crystal,false,86.000,7,17,Media Streaming
+invoiceninja/invoiceninja,8823,84,29,14,2,9.521,0,76,4189,79,PHP,false,40.000,0,0,"Money, Budgeting & Management"
+InvoicePlane/InvoicePlane,2708,27,9,4,0,9.970,1,18,4013,120,PHP,false,35.000,1,1,"Money, Budgeting & Management"
+InvoiceShelf/InvoiceShelf,1124,88,49,21,4,78.292,0,12,476,116,PHP,false,72.000,4,8,"Money, Budgeting & Management"
+ioBroker/ioBroker,1320,4,1,1,1,3.030,0,81,3930,30,Shell,false,22.000,0,0,Internet of Things (IoT)
+yarrick/iodine,6437,34,16,10,0,5.282,1,3,4850,33,C,false,57.000,1,3,Proxy
+Sanster/IOPaint,21219,296,171,82,7,13.950,0,18,1278,19,Python,false,74.000,2,3,Generative Artificial Intelligence (GenAI)
+iredmail/iRedMail,1611,21,12,10,0,13.035,3,16,1986,16,Shell,false,37.000,1,6,Communication
+Islandora/islandora,153,0,0,0,0,0.000,79,9,5288,18,PHP,false,20.000,1,1,Document Management
+dmunozv04/iSponsorBlockTV,2922,65,34,18,5,22.245,0,2,1217,24,Python,false,96.000,4,13,Miscellaneous
+posativ/isso,5146,17,8,3,0,3.304,1,26,4594,123,Python,false,31.000,1,1,Communication
+itflow-org/itflow,692,15,9,6,0,21.676,1,25,2256,25,PHP,false,33.000,2,7,Ticketing
+meetecho/janus-gateway,8619,57,25,17,4,6.613,0,2,4112,299,C,false,82.000,2,4,Communication
+jaesivsm/JARR,124,1,0,0,0,8.065,19,130,3991,6,Python,false,2.000,0,0,Feed Readers
+Jipok/Jauth,86,4,4,3,0,46.512,1,60,771,1,Go,false,12.000,0,0,Web Servers
+jellyfin/jellyfin,39581,819,380,191,24,20.692,0,1,2351,1226,C#,false,100.000,21,80,Media Streaming
+Fallenbagel/jellyseerr,5252,194,107,58,5,36.938,0,0,1165,320,TypeScript,false,100.000,11,31,Media Management
+bayang/jelu,484,26,7,3,0,53.719,2,21,1283,15,Kotlin,false,35.000,1,1,Miscellaneous
+jina-ai/jina,21571,67,32,19,4,3.106,0,53,1919,179,Python,false,56.000,0,0,Search Engines
+jitsi/jitsi-meet,25517,303,145,86,9,11.874,0,0,4169,512,TypeScript,false,100.000,12,75,Communication
+jitsi/jitsi-videobridge,2972,10,7,4,0,3.365,1,0,4405,95,Kotlin,false,73.000,3,13,Communication
+joomla/joomla-cms,4918,40,16,11,0,8.133,3,3,4981,812,PHP,false,65.000,17,27,Content Management Systems (CMS)
+laurent22/joplin,49301,634,317,147,18,12.860,0,0,3042,655,TypeScript,false,100.000,19,132,Note-taking & Editors
+jsxc/jsxc,729,0,0,0,0,0.000,59,281,4140,36,TypeScript,false,0.000,0,0,Communication
+judge0/judge0,3184,73,26,12,0,22.927,1,3,3031,16,HTML,false,62.000,1,2,Software Development
+daledavies/jump,580,8,4,4,0,13.793,1,367,1198,12,PHP,false,12.000,0,0,Personal Dashboards
+juntagrico/juntagrico,48,0,0,0,0,0.000,70,7,2967,34,Python,false,30.000,2,57,Community-Supported Agriculture (CSA)
+jupyterlab/jupyterlab,14576,64,27,13,1,4.391,0,3,3269,589,TypeScript,false,80.000,16,33,Software Development
+miawinter98/just-short-it,47,2,0,0,0,42.553,17,230,762,1,HTML,false,4.000,0,0,URL Shorteners
+kamailio/kamailio,2453,33,17,12,2,13.453,0,1,4175,314,C,false,85.000,14,121,Communication
+kanboard/kanboard,8881,115,88,21,5,12.949,0,0,4129,350,PHP,false,100.000,3,20,Task Management & To-do Lists
+karakeep-app/karakeep,16259,1135,570,409,72,69.807,0,5,465,90,TypeScript,false,100.000,8,40,Bookmarks and Link Sharing
+Kareadita/Kavita,7907,427,258,139,27,54.003,0,2,1616,188,C#,false,100.000,4,37,Document Management
+pentacent/keila,1677,27,10,6,2,16.100,0,13,1596,20,Elixir,false,57.000,1,2,Communication
+rajnandan1/kener,3836,152,75,24,4,39.625,0,4,532,22,Svelte,false,100.000,9,79,Status / Uptime pages
+kestra-io/kestra,17833,654,302,233,121,36.674,0,0,2092,168,Java,false,100.000,28,192,Automation
+keygen-sh/keygen-api,1106,22,10,4,2,19.892,0,0,3323,7,Gherkin,false,95.000,2,56,Miscellaneous
+keystonejs/keystone,9539,50,23,8,1,5.242,0,2,2598,263,TypeScript,false,86.000,3,12,Content Management Systems (CMS)
+kibitzr/kibitzr,679,6,2,2,0,8.837,1,11,3185,21,Python,false,38.000,2,14,Automation
+killbill/killbill,4857,29,11,4,0,5.971,2,10,4590,45,Java,false,45.000,1,1,"Money, Budgeting & Management"
+kimai/kimai,3779,64,33,13,1,16.936,0,7,3130,276,PHP,false,72.000,2,6,Time Tracking
+getkirby/kirby,1392,16,5,2,0,11.494,1,3,2779,67,PHP,false,48.000,2,10,Content Management Systems (CMS)
+TomBursch/kitchenowl,1758,152,127,59,3,86.462,0,4,1564,145,Dart,false,100.000,4,30,Recipe Management
+kiwiirc/kiwiirc,903,5,0,0,0,5.537,15,48,3086,37,Vue,false,10.000,0,0,Communication
+kiwix/kiwix-tools,573,24,12,7,1,41.885,0,26,3119,40,C++,false,47.000,1,2,Document Management
+jonashaag/klaus,689,1,1,0,0,1.451,9,305,5093,25,Python,false,5.000,0,0,Software Development
+idno/known,1090,4,1,1,0,3.670,3,46,4498,67,PHP,false,18.000,0,0,Blogging Platforms
+ynuwenhof/koblas,131,5,1,0,0,38.168,8,243,982,2,Rust,false,7.000,0,0,Proxy
+xbmc/xbmc,19274,107,49,32,7,5.552,0,1,5247,912,C++,false,100.000,18,373,Media Streaming
+koel/koel,16436,95,34,12,2,5.780,0,0,3449,82,PHP,false,100.000,1,26,Media Streaming
+Koha-Community/Koha,512,5,3,2,0,9.766,5,0,4621,303,Perl,false,72.000,39,602,Document Management
+benjaminjonard/koillection,839,25,13,8,0,29.797,1,8,2569,11,PHP,false,51.000,2,14,Miscellaneous
+gotson/komga,4859,144,72,40,12,29.636,0,1,2108,150,Kotlin,false,100.000,4,9,Document Management
+Kong/kong,40836,287,119,60,9,7.028,0,4,3833,405,Lua,false,98.000,11,14,Software Development
+krayin/laravel-crm,14651,632,268,132,7,43.137,0,0,1441,35,Blade,false,100.000,4,46,Customer Relationship Management (CRM)
+kresusapp/kresus,315,4,3,1,0,12.698,5,0,3941,34,TypeScript,false,68.000,2,15,"Money, Budgeting & Management"
+tontof/kriss_feed,283,1,1,1,0,3.534,5,123,4725,23,PHP,false,10.000,0,0,Feed Readers
+seeroy/kubek-minecraft-dashboard,110,3,1,0,0,27.273,9,81,1262,3,JavaScript,false,7.000,0,0,Games
+thedevs-network/kutt,9724,117,51,23,2,12.032,0,22,2649,54,JavaScript,false,70.000,1,1,URL Shorteners
+zoriya/kyoo,2059,39,21,7,1,18.941,0,4,2113,35,TypeScript,false,80.000,3,83,Media Streaming
+getlago/lago,7651,116,56,23,2,15.161,0,0,1173,34,Go,false,100.000,7,17,"Money, Budgeting & Management"
+lancachenet/monolithic,797,8,0,0,0,10.038,15,83,2340,24,Shell,false,4.000,0,0,Games
+langfuse/langfuse,11481,1061,452,232,22,92.414,0,0,729,72,TypeScript,false,100.000,6,136,Software Development
+languagetool-org/languagetool,13097,114,53,21,3,8.704,0,0,4299,203,Java,false,100.000,12,181,Miscellaneous
+leantime/leantime,5353,94,45,21,3,17.560,0,0,3766,132,PHP,false,100.000,2,88,Software Development
+ledgersmb/LedgerSMB,476,12,4,1,0,25.210,1,0,4059,34,Perl,false,76.000,4,57,Resource Planning
+LeedRSS/Leed,223,0,0,0,0,0.000,75,166,4445,18,PHP,false,0.000,0,0,Feed Readers
+LemmyNet/lemmy,13778,96,40,15,5,6.968,0,1,2283,257,Rust,false,100.000,7,36,Communication
+leon-ai/leon,16262,114,58,39,6,7.010,0,23,2287,18,TypeScript,false,74.000,1,10,Automation
+javalikescript/lha,8,0,0,0,0,0.000,115,13,2248,1,Lua,false,22.000,1,5,Internet of Things (IoT)
+LibreTranslate/LibreTranslate,11444,299,144,93,8,26.127,0,1,1609,202,Python,false,100.000,13,52,Miscellaneous
+michaelstaake/LibreKB,40,4,4,3,0,100.000,3,56,375,2,PHP,false,18.000,0,0,Knowledge Management Tools
+LibrePhotos/librephotos,7308,58,27,8,1,7.937,0,7,1647,57,Python,false,70.000,3,34,Photo Galleries
+bashrc2/libreserver,37,1,1,1,0,27.027,4,0,1471,2,Shell,false,66.000,1,12,Self-hosting Solutions
+LibreTime/libretime,858,7,5,1,0,8.159,3,32,3008,109,PHP,false,18.000,0,0,Media Streaming
+Librum-Reader/Librum,4513,76,56,20,2,16.840,0,319,1199,12,C++,false,60.000,0,0,Document Management
+Lidarr/Lidarr,4082,67,27,10,4,16.414,0,12,2932,474,C#,false,62.000,1,7,Media Management
+TheWicklowWolf/LidaTube,247,17,7,2,0,68.826,1,15,591,1,Python,false,31.000,1,1,Media Management
+TheWicklowWolf/Lidify,290,11,1,0,0,37.931,7,88,429,2,Python,false,11.000,0,0,Media Management
+lichess-org/lila,16652,177,79,35,3,10.629,0,0,4833,460,Scala,false,100.000,22,613,Games
+limbas/limbas,55,1,1,0,0,18.182,9,87,4384,1,PHP,false,5.000,0,0,Database Management
+LimeSurvey/LimeSurvey,3120,53,18,9,1,16.987,0,0,4855,237,JavaScript,false,95.000,8,44,Polls and Events
+Kovah/LinkAce,2922,38,15,8,1,13.005,0,50,2459,20,PHP,false,41.000,0,0,Bookmarks and Link Sharing
+LinkStackOrg/LinkStack,2834,62,30,13,2,21.877,0,99,1187,32,PHP,false,40.000,0,0,Personal Dashboards
+linkwarden/linkwarden,12152,974,246,114,14,80.151,0,11,1134,60,TypeScript,false,92.000,3,45,Bookmarks and Link Sharing
+GameServerManagers/LinuxGSM,4524,28,14,5,0,6.189,1,95,4298,204,Shell,false,25.000,0,0,Games
+knadh/listmonk,16866,428,225,95,15,25.376,0,0,2152,196,Go,false,100.000,8,61,Communication
+shurco/litecart,226,2,2,1,0,8.850,5,16,664,7,Go,false,24.000,4,10,E-commerce
+Litlyx/litlyx,1256,137,65,20,2,109.076,0,63,352,6,Vue,false,60.000,0,0,Analytics
+sethcottle/littlelink,2227,94,27,12,1,42.209,0,28,1973,40,HTML,false,52.000,1,2,Personal Dashboards
+LiveHelperChat/livehelperchat,2061,11,5,4,0,5.337,1,0,4542,59,PHP,false,76.000,1,78,Communication
+livebook-dev/livebook,5323,61,22,14,2,11.460,0,2,1590,159,Elixir,false,90.000,6,22,Note-taking & Editors
+live-codes/livecodes,985,40,9,3,0,40.609,2,0,1588,8,TypeScript,false,85.000,6,66,Software Development
+MrBrax/LiveStreamDVR,389,16,5,4,1,41.131,0,115,1989,6,TypeScript,false,26.000,0,0,Archiving and Digital Preservation (DP)
+explodingcamera/liwan,33,4,3,2,1,121.212,0,1,336,1,Rust,false,64.000,1,7,Analytics
+epoupon/lms,1305,20,10,3,0,15.326,1,18,3882,15,C++,false,37.000,2,13,Media Streaming
+Tanq16/local-content-share,205,22,11,6,1,107.317,0,17,755,2,HTML,false,47.000,3,5,Pastebins
+Lessify/localess,54,2,0,0,0,37.037,17,0,1106,1,TypeScript,false,56.000,1,4,Content Management Systems (CMS)
+Lodestone-Team/lodestone,950,23,9,5,1,24.211,0,249,1137,27,Rust,false,35.000,0,0,Games
+lomorage/homepage,230,0,0,0,0,0.000,38,180,2236,5,HTML,false,0.000,0,0,Photo Galleries
+loomio/loomio,2444,15,6,5,1,6.137,0,11,4939,78,Ruby,false,61.000,2,33,Communication
+lowdefy/lowdefy,2800,19,9,4,1,6.786,0,161,1688,22,JavaScript,false,31.000,0,0,Software Development
+ldidry/lstu,213,1,1,1,0,4.695,5,364,4256,16,Perl,false,10.000,0,0,URL Shorteners
+luanti-org/luanti,11436,102,53,23,2,8.919,0,0,5031,795,C++,false,100.000,38,114,Games
+hargata/lubelog,1569,44,21,6,0,28.043,1,19,502,11,JavaScript,false,46.000,1,12,Miscellaneous
+luraproject/lura,6544,31,20,11,2,4.737,0,16,3115,39,Go,false,47.000,2,4,Software Development
+LycheeOrg/Lychee,3711,82,55,48,1,22.096,0,0,2474,107,PHP,false,100.000,4,68,Photo Galleries
+foxcpp/maddy,5516,47,25,8,0,8.521,2,68,3112,63,Go,false,30.000,0,0,Communication
+hywax/mafl,506,22,10,4,1,43.478,0,48,510,11,TypeScript,false,41.000,0,0,Personal Dashboards
+magento/magento2,11797,45,27,9,2,3.815,0,4,4916,3060,PHP,false,80.000,39,235,E-commerce
+mail-in-a-box/mailinabox,14457,67,27,14,1,4.634,0,2,4286,217,Python,false,80.000,1,1,Communication
+sj26/mailcatcher,6616,21,10,3,0,3.174,1,357,5318,48,Ruby,false,25.000,0,0,Communication
+mailcow/mailcow-dockerized,10283,227,108,58,5,22.075,0,4,3080,355,JavaScript,false,100.000,7,28,Communication
+Mailu/Mailu,6445,72,32,12,1,11.171,0,8,3414,197,Python,false,72.000,2,2,Communication
+mainsail-crew/mainsail,1877,20,8,4,0,10.655,3,15,1916,123,Vue,false,37.000,8,18,Manufacturing
+krateng/maloja,1339,31,15,7,1,23.152,0,88,2362,27,Python,false,35.000,0,0,Media Streaming
+managemeals/manage-meals-web,45,2,1,0,0,44.444,11,36,459,1,Svelte,false,13.000,0,0,Recipe Management
+mnfst/manifest,2550,102,52,30,9,40.000,0,11,962,18,TypeScript,false,92.000,4,44,Software Development
+manticoresoftware/manticoresearch,10426,390,178,134,56,37.406,0,0,2880,56,C++,false,100.000,10,145,Search Engines
+mantisbt/mantisbt,1695,7,3,1,0,4.130,2,1,5435,137,PHP,false,62.000,5,35,Ticketing
+manyfold3d/manyfold,1174,42,25,12,1,35.775,0,0,1561,33,Ruby,false,100.000,3,396,Manufacturing
+borjapazr/mars-server,112,3,1,1,0,26.786,2,344,1606,2,Python,false,12.000,0,0,Self-hosting Solutions
+mastodon/mastodon,48272,237,108,46,8,4.910,0,0,3371,962,Ruby,false,100.000,16,129,Communication
+mataroa-blog/mataroa,287,5,3,1,0,17.422,4,18,1815,12,Python,false,24.000,1,5,Blogging Platforms
+sergree/matchering,2050,36,19,16,2,17.561,0,6,2422,3,Python,false,65.000,1,1,Automation
+centerofci/mathesar,4137,67,37,19,4,16.195,0,1,1521,119,Svelte,false,100.000,9,163,Database Management
+matomo-org/matomo,20514,114,48,23,0,5.557,1,0,5161,384,PHP,false,100.000,10,33,Analytics
+mattermost/mattermost,32542,267,126,70,5,8.205,0,0,3624,1060,TypeScript,false,100.000,50,213,Communication
+mautic/mautic,8111,159,85,49,3,19.603,0,0,4289,387,PHP,false,100.000,19,159,Communication
+maybe-finance/maybe,44215,986,384,139,19,22.300,0,0,501,141,Ruby,false,100.000,15,118,"Money, Budgeting & Management"
+tanrax/maza-ad-blocking,1829,5,2,2,0,2.734,1,144,1961,5,Shell,false,12.000,0,0,DNS
+mealie-recipes/mealie,9095,217,92,43,8,23.859,0,2,1622,177,Python,false,100.000,4,38,Recipe Management
+mediacms-io/mediacms,3409,87,38,16,3,25.521,0,1,1613,34,JavaScript,false,90.000,1,1,Media Streaming
+pymedusa/Medusa,1867,7,3,0,0,3.749,8,154,3371,294,Python,false,7.000,0,0,Media Management
+medusajs/medusa,29046,485,306,158,22,16.698,0,0,1945,356,TypeScript,false,100.000,24,197,E-commerce
+Arthi-chaud/Meelo,775,67,53,3,0,86.452,3,0,1107,4,TypeScript,false,100.000,3,54,Media Streaming
+aaronpk/Meetable,140,3,0,0,0,21.429,15,121,1979,6,PHP,false,4.000,0,0,Polls and Events
+meilisearch/MeiliSearch,51328,937,430,206,12,18.255,0,4,2580,187,Rust,false,100.000,5,44,Search Engines
+dmpop/mejiro,173,1,0,0,0,5.780,27,5,4317,10,PHP,false,34.000,1,4,Photo Galleries
+usememos/memos,39489,620,288,158,20,15.701,0,1,1255,298,Go,false,100.000,10,45,Note-taking & Editors
+cfu288/mere-medical,107,9,3,2,0,84.112,5,133,959,2,TypeScript,false,12.000,0,0,Health and Fitness
+Ylianst/MeshCentral,4990,144,73,33,3,28.858,0,1,2818,115,HTML,false,100.000,4,22,Remote Access
+metabase/metabase,41982,417,175,77,7,9.933,0,0,3756,440,Clojure,false,100.000,54,470,Analytics
+JVT038/MetaTube,352,4,1,0,0,11.364,7,223,1288,2,Python,false,7.000,0,0,Media Management
+alexta69/metube,8880,350,142,67,6,39.414,0,16,1995,50,Python,false,72.000,1,1,Media Management
+Canop/miaou,546,1,0,0,0,1.832,26,188,4201,22,JavaScript,false,2.000,0,0,Communication
+middlewarehq/middleware,1302,16,7,4,2,12.289,0,3,410,26,TypeScript,false,63.000,3,8,Analytics
+zer0tonin/Mikochi,311,8,6,3,0,25.723,1,25,857,5,JavaScript,false,29.000,1,2,File Transfer
+mindsdb/mindsdb,27963,277,95,56,11,9.906,0,0,2479,796,Python,false,100.000,12,71,Database Management
+Anuken/Mindustry,23917,320,121,53,8,13.380,0,0,2939,665,Java,false,100.000,24,169,Games
+b310-digital/mindwendel,108,1,1,1,1,9.259,0,2,1578,5,Elixir,false,62.000,1,2,Software Development
+miniflux/v2,7608,135,54,25,3,17.744,0,2,2735,262,Go,false,100.000,7,33,Feed Readers
+mcarbonne/minimal-git-server,27,4,0,0,0,148.148,15,87,480,2,Shell,false,4.000,0,0,Software Development
+pereorga/minimalist-web-notepad,1258,5,2,1,0,3.975,4,258,4668,10,PHP,false,12.000,0,0,Note-taking & Editors
+minio/minio,52460,689,320,172,17,13.134,0,0,3775,493,Go,false,100.000,12,27,File Transfer
+svenstaro/miniserve,6632,76,43,26,6,11.460,0,15,2577,58,Rust,false,64.000,2,5,File Transfer
+minthcm/minthcm,175,3,2,1,0,17.143,6,65,2160,4,PHP,false,12.000,0,0,Human Resources Management (HRM)
+Accessory/minus_games,19,6,3,1,1,315.789,0,14,302,2,Rust,false,34.000,1,2,Games
+miroslavpejic85/mirotalkc2c,274,6,5,3,0,21.898,1,6,895,3,JavaScript,false,44.000,1,9,Communication
+miroslavpejic85/mirotalk,3505,62,31,16,1,17.689,0,2,1596,20,JavaScript,false,92.000,1,8,Communication
+miroslavpejic85/mirotalksfu,2344,27,13,6,2,11.519,0,0,1368,10,JavaScript,false,95.000,2,31,Communication
+rafalp/Misago,2629,16,11,7,3,6.086,0,11,4711,40,Python,false,53.000,1,4,Communication
+misskey-dev/misskey,10559,93,37,20,0,8.808,1,0,3064,304,TypeScript,false,90.000,13,177,Communication
+DDVTECH/mistserver,421,8,3,2,0,19.002,1,22,4611,35,C,false,24.000,2,9,Media Streaming
+inovector/MixpostApp,99,2,0,0,0,20.202,15,35,806,1,PHP,false,10.000,0,0,Analytics
+modoboa/modoboa,3238,25,13,6,0,7.721,3,4,4413,90,Python,false,65.000,3,43,Communication
+modxcms/revolution,1378,1,1,1,0,0.726,6,3,5405,188,PHP,false,42.000,4,7,Content Management Systems (CMS)
+esl/MongooseIM,1693,10,7,4,0,5.907,1,2,4999,195,Erlang,false,67.000,5,52,Communication
+monicahq/monica,22758,154,78,44,4,6.767,0,9,3011,36,PHP,false,90.000,4,36,Customer Relationship Management (CRM)
+moode-player/moode,1101,10,5,3,1,9.083,0,2,2735,34,PHP,false,72.000,1,87,Media Streaming
+mopidy/mopidy,8270,32,15,8,0,3.869,1,60,5623,132,Python,false,25.000,0,0,Media Streaming
+mosparo/mosparo,230,14,7,0,0,60.870,8,40,1433,53,PHP,false,22.000,0,0,Miscellaneous
+CatoTH/antragsgruen,119,6,3,1,0,50.420,2,2,4617,13,PHP,false,62.000,1,23,Conference Management
+motor-admin/motor-admin,2110,6,3,2,0,2.844,2,352,1379,4,Ruby,false,12.000,0,0,Software Development
+movim/movim,1789,9,4,1,0,5.031,1,1,3614,56,JavaScript,false,62.000,2,41,Communication
+mjl-/mox,4932,136,43,22,12,27.575,0,1,837,16,Go,false,98.000,2,17,Communication
+MusicPlayerDaemon/MPD,2336,18,10,5,1,7.705,0,32,4838,255,C++,false,37.000,0,0,Media Streaming
+IrosTheBeggar/mStream,2261,4,2,1,0,1.769,5,39,3450,22,JavaScript,false,18.000,0,0,Media Streaming
+multitheftauto/mtasa-blue,1506,21,14,3,1,13.944,0,1,3710,143,C++,false,85.000,9,69,Games
+FoxxMD/multi-scrobbler,564,23,10,2,0,40.780,3,23,1648,11,TypeScript,false,37.000,1,2,Media Streaming
+mumble-voip/mumble,6901,118,47,22,0,17.099,1,0,5194,393,C++,false,100.000,4,22,Communication
+clangen/musikcube,4423,35,10,3,1,7.913,0,306,3712,43,C++,false,35.000,0,0,Media Streaming
+mybb/mybb,1148,12,6,3,0,10.453,4,2,4720,122,PHP,false,63.000,3,7,Communication
+mybucks-online/app,9,2,2,2,0,222.222,3,61,262,2,JavaScript,false,12.000,0,0,"Money, Budgeting & Management"
+bouncepaw/mycorrhiza,334,3,2,1,1,8.982,0,86,1803,13,Go,false,22.000,0,0,Wikis
+afaneca/myfin,157,11,11,5,1,70.064,0,62,1973,3,TypeScript,false,31.000,0,0,"Money, Budgeting & Management"
+jason5ng32/MyIP,8253,160,72,31,5,19.387,0,48,541,6,Vue,false,66.000,0,0,Miscellaneous
+mylar3/mylar3,1196,18,9,3,0,15.050,1,67,1950,75,Python,false,21.000,0,0,Automation
+gnmyt/myspeed,1365,50,22,12,3,36.630,0,0,1137,3,JavaScript,false,100.000,2,72,Miscellaneous
+maxpozdeev/mytinytodo,176,1,1,1,1,5.682,0,4,4126,9,PHP,false,52.000,1,7,Task Management & To-do Lists
+n8n-io/n8n,94841,12956,6653,3772,590,136.608,0,0,2155,491,TypeScript,false,100.000,41,300,Automation
+lardbit/nefarious,1133,13,6,1,0,11.474,1,70,2372,10,Python,false,21.000,0,0,Media Management
+m1k1o/neko,10228,190,75,40,5,18.576,0,1,1889,48,Go,false,100.000,4,10,Miscellaneous
+AlexSciFier/neonlink,349,7,3,0,0,20.057,10,163,1124,3,JavaScript,false,7.000,0,0,Bookmarks and Link Sharing
+lutzroeder/netron,30208,288,119,61,2,9.534,0,1,5255,1,JavaScript,false,100.000,1,61,Analytics
+samuelclay/NewsBlur,7066,28,11,0,0,3.963,7,3,5975,90,Objective-C,false,52.000,1,7,Feed Readers
+pulsejet/memories,3494,47,24,15,3,13.452,0,1,1008,38,Vue,false,90.000,3,33,Photo Galleries
+nextcloud/server,29536,317,146,53,10,10.733,0,0,3271,1116,PHP,false,100.000,40,525,File Transfer & Synchronization
+nextcloud/nextcloudpi,2707,30,16,7,1,11.082,0,53,3015,297,Shell,false,41.000,0,0,Self-hosting Solutions
+NginxProxyManager/nginx-proxy-manager,26168,562,295,173,12,21.477,0,54,2704,180,JavaScript,false,68.000,0,0,Web Servers
+nginx/nginx,26905,339,166,85,14,12.600,0,17,3615,93,C,false,74.000,4,8,Web Servers
+ngircd/ngircd,475,7,2,2,0,14.737,4,225,4882,40,C,false,12.000,0,0,Communication
+nocodb/nocodb,54389,673,314,139,17,12.374,0,0,2756,316,TypeScript,false,100.000,15,1268,Database Management
+node-red/node-red,21143,287,139,87,13,13.574,0,18,4271,231,JavaScript,false,74.000,2,6,Internet of Things (IoT)
+NodeBB/NodeBB,14596,79,37,16,2,5.412,0,0,4407,217,JavaScript,false,100.000,5,266,Communication
+osm-search/Nominatim,3528,57,23,9,1,16.156,0,5,4822,102,Python,false,72.000,2,8,Maps and Global Positioning System (GPS)
+not-three/main,8,1,1,1,0,125.000,6,48,434,1,Shell,false,16.000,0,0,Pastebins
+enchant97/note-mark,474,9,6,3,1,18.987,0,27,1548,5,TypeScript,false,37.000,1,1,Note-taking & Editors
+notifo-io/notifo,810,10,2,0,0,12.346,7,8,1607,9,C#,false,29.000,1,2,Communication
+novuhq/novu,36945,208,112,46,3,5.630,0,0,1359,413,TypeScript,false,100.000,13,134,Communication
+binwiederhier/ntfy,22789,400,239,109,17,17.552,0,229,1301,209,Go,false,62.000,0,0,Communication
+apankrat/nullboard,4012,13,5,3,0,3.240,1,558,2210,7,HTML,false,16.000,0,0,Task Management & To-do Lists
+MayaPosch/NymphCast,2477,8,5,1,0,3.230,1,9,2290,7,C,false,34.000,1,2,Media Streaming
+octobercms/october,11096,11,2,1,0,0.991,3,86,4189,358,PHP,false,16.000,0,0,Content Management Systems (CMS)
+Drakkar-Software/OctoBot,4043,90,41,20,3,22.261,0,3,2639,14,Python,false,82.000,1,7,"Money, Budgeting & Management"
+octobox/octobox,4399,6,2,0,0,1.364,10,1,3073,116,Ruby,false,57.000,2,41,Software Development
+OctoPrint/OctoPrint,8560,49,22,11,1,5.724,0,3,4519,260,Python,false,80.000,1,22,Manufacturing
+simonwep/ocular,214,16,6,3,0,74.766,4,0,1149,9,Vue,false,81.000,2,26,"Money, Budgeting & Management"
+kensanata/oddmuse,82,0,0,0,0,0.000,61,278,3736,17,Perl,false,0.000,0,0,Note-taking & Editors
+odoo/odoo,43004,739,315,167,24,17.184,0,0,4021,3176,Python,false,100.000,203,483,Resource Planning
+apache/ofbiz-framework,888,13,7,4,0,14.640,2,11,3015,83,Java,false,47.000,4,11,Resource Planning
+offen/offen,933,10,3,3,0,10.718,3,30,2228,14,JavaScript,false,18.000,0,0,Analytics
+OliveTin/OliveTin,2968,83,38,16,2,27.965,0,14,1470,15,Go,false,62.000,2,8,Automation
+ollama/ollama,140739,3454,1535,766,113,24.542,0,0,690,477,Go,false,100.000,23,111,Generative Artificial Intelligence (GenAI)
+Ombi-app/Ombi,3876,27,14,7,0,6.966,0,2,3368,123,C#,false,71.000,2,19,Media Management
+omeka/omeka-s,435,4,2,2,0,9.195,1,0,4295,38,PHP,false,68.000,3,11,Archiving and Digital Preservation (DP)
+omeka/Omeka,506,2,1,0,0,3.953,13,0,5069,49,PHP,false,63.000,2,12,Content Management Systems (CMS)
+onetimesecret/onetimesecret,2366,43,26,9,1,18.174,0,1,4489,9,Ruby,false,90.000,5,484,Communication
+onionshare/onionshare,6533,46,24,11,0,7.041,1,45,4014,241,Python,false,36.000,0,0,File Transfer
+ONLYOFFICE/DocumentServer,5439,98,35,16,3,18.018,0,5,3968,62,Shell,false,82.000,2,2,Office Suites
+gunet/openeclass,140,1,1,1,0,7.143,1,8,3670,25,PHP,false,40.000,4,63,Learning and Courses
+openfoodfoundation/openfoodnetwork,1171,9,1,0,0,7.686,8,0,4595,266,Ruby,false,67.000,14,189,Community-Supported Agriculture (CSA)
+open-meteo/open-meteo,3184,93,39,19,1,29.209,0,9,1422,54,Swift,false,76.000,3,15,Miscellaneous
+Epic-Breakfast-Productions/OpenQuarterMaster,33,2,1,1,0,60.606,6,0,1540,8,Java,false,72.000,3,100,Inventory Management
+opensourcepos/opensourcepos,3703,60,26,11,1,16.203,0,7,4189,191,PHP,false,70.000,5,89,E-commerce
+Project-OSRM/osrm-backend,6824,88,40,18,3,12.896,0,7,4985,189,C++,false,72.000,1,3,Maps and Global Positioning System (GPS)
+open-webui/open-webui,95004,5388,2249,1071,141,56.713,0,5,588,511,JavaScript,false,100.000,51,467,Generative Artificial Intelligence (GenAI)
+TheAxelander/OpenBudgeteer,848,3,2,0,0,3.538,10,17,1288,8,C#,false,19.000,1,3,"Money, Budgeting & Management"
+opencart/opencart,7787,57,34,12,3,7.320,0,0,5037,385,PHP,false,100.000,7,79,E-commerce
+openemr/openemr,3448,61,27,18,4,17.691,0,0,5474,234,PHP,false,100.000,13,36,Health and Fitness
+igniterealtime/Openfire,2930,7,2,1,0,2.389,4,28,4058,141,Java,false,28.000,3,11,Communication
+thomiceli/opengist,2317,92,61,29,8,39.707,0,1,767,59,Go,false,100.000,4,10,Pastebins
+openhab/openhab-core,1009,13,6,2,0,12.884,4,5,3435,302,Java,false,61.000,12,44,Internet of Things (IoT)
+openmediavault/openmediavault,5693,90,48,27,3,15.809,0,4,3300,62,PHP,false,90.000,2,29,Self-hosting Solutions
+apache/openmeetings,652,4,1,0,0,6.135,9,16,3718,32,Java,false,19.000,1,2,Groupware
+OpenOLAT/OpenOLAT,362,9,8,5,0,24.862,2,0,2605,15,Java,false,77.000,5,291,Learning and Courses
+OpenOlitor/openolitor-server,20,0,0,0,0,0.000,177,11,3467,13,Scala,false,30.000,2,35,Community-Supported Agriculture (CSA)
+opf/openproject,11047,417,93,49,3,37.748,0,0,4552,262,Ruby,false,100.000,31,665,Software Development
+openremote/openremote,1402,22,8,5,1,15.692,0,0,3390,40,Java,false,95.000,9,23,Internet of Things (IoT)
+GIScience/openrouteservice,1605,27,8,3,0,16.822,2,2,2804,63,Java,false,75.000,9,94,Maps and Global Positioning System (GPS)
+opensearch-project/OpenSearch,10709,210,127,74,6,19.610,0,0,1568,409,Java,false,100.000,46,126,Search Engines
+opensignlabs/opensign,4625,112,51,21,2,24.216,0,1,592,32,JavaScript,false,100.000,2,38,Document Management
+OpenSIPS/opensips,1351,10,5,2,1,7.402,0,1,4390,136,C,false,72.000,10,64,Communication
+OpenSlides/OpenSlides,540,7,3,0,0,12.963,7,1,4672,45,Shell,false,53.000,4,13,Conference Management
+openstreetmap/openstreetmap-website,2383,46,23,12,1,19.303,0,1,5494,226,Ruby,false,90.000,10,221,Maps and Global Positioning System (GPS)
+HaschekSolutions/opentrashmail,700,13,6,3,2,18.571,0,8,2103,17,PHP,false,53.000,2,8,Communication
+opentripplanner/OpenTripPlanner,2339,22,10,8,0,9.406,2,0,5051,192,Java,false,85.000,11,115,Maps and Global Positioning System (GPS)
+OpenTTD/OpenTTD,6898,68,23,12,1,9.858,0,0,2597,200,C++,false,100.000,8,392,Games
+openziti/ziti,3304,63,27,16,2,19.068,0,2,2002,46,Go,false,90.000,5,24,Miscellaneous
+comet-ml/opik,8186,1675,958,834,59,204.618,0,0,737,49,Python,false,100.000,31,279,Software Development
+JhumanJ/opnform,2588,46,20,8,0,17.774,2,0,969,28,PHP,false,81.000,2,19,Polls and Events
+orangehrm/orangehrm,913,13,6,4,0,14.239,1,301,3054,43,PHP,false,21.000,0,0,Human Resources Management (HRM)
+openSUSE/osem,888,2,0,0,0,2.252,17,66,4620,156,Ruby,false,4.000,0,0,Conference Management
+opensource-socialnetwork/opensource-socialnetwork,1124,11,6,3,1,9.786,0,9,3913,24,PHP,false,51.000,1,1,Communication
+RotherOSS/otobo,289,3,0,0,0,10.381,17,0,1933,62,Perl,false,64.000,6,133,Ticketing
+Luzifer/ots,547,14,5,4,0,25.594,2,0,2843,21,Go,false,76.000,4,53,Communication
+redimp/otterwiki,887,54,18,13,2,60.879,0,2,2508,12,Python,false,81.000,4,19,Wikis
+nanawel/our-shopping-list,122,5,2,1,1,40.984,0,42,1474,13,JavaScript,false,28.000,0,0,Task Management & To-do Lists
+Jigsaw-Code/outline-server,5958,27,11,6,0,4.532,1,46,2621,44,TypeScript,false,31.000,0,0,Proxy
+outline/outline,32100,504,207,109,7,15.701,0,0,3281,197,TypeScript,false,100.000,9,114,Wikis
+AirenSoft/OvenMediaEngine,2746,26,17,11,1,9.468,0,2,2513,56,C++,false,81.000,5,18,Media Streaming
+overleaf/overleaf,15623,491,419,328,22,31.428,0,1,4115,134,JavaScript,false,100.000,20,226,Note-taking & Editors
+sct/overseerr,4469,80,32,16,1,17.901,0,7,1735,217,TypeScript,false,72.000,5,10,Media Management
+owncast/owncast,10143,117,90,34,7,11.535,0,0,1819,161,Go,false,100.000,7,55,Media Streaming
+owncloud/core,8525,29,13,5,2,3.402,0,8,4647,630,PHP,false,57.000,3,6,File Transfer & Synchronization
+owntracks/recorder,974,14,5,3,0,14.374,1,24,3563,45,C,false,28.000,2,2,Maps and Global Positioning System (GPS)
+OXID-eSales/oxideshop_ce,238,1,1,1,1,4.202,0,0,4422,133,PHP,false,72.000,4,8,E-commerce
+WardPearce/paaster,475,4,2,2,1,8.421,0,4,1170,4,Svelte,false,62.000,2,36,Pastebins
+schlagmichdoch/pairdrop,7040,597,445,278,29,84.801,0,80,860,119,JavaScript,false,65.000,0,0,File Transfer
+panoratech/Panora,994,6,1,1,0,6.036,4,140,601,18,TypeScript,false,12.000,0,0,Software Development
+paperless-ngx/paperless-ngx,27440,1092,373,153,16,39.796,0,0,1189,353,Python,false,100.000,5,62,Document Management
+papermerge/papermerge-core,357,11,5,2,0,30.812,1,0,1606,8,Python,false,76.000,1,23,Document Management
+erudika/para,540,3,1,0,0,5.556,12,3,4086,14,Java,false,37.000,1,1,Software Development
+passbolt/passbolt_api,5049,89,32,16,2,17.627,0,1,3371,346,PHP,false,100.000,6,57,Password Managers
+Rabbit-Company/Passky-Server,216,4,2,1,0,18.519,5,192,1505,6,PHP,false,12.000,0,0,Password Managers
+interaapps/pastefy,297,10,5,2,0,33.670,2,13,2246,6,Vue,false,38.000,2,12,Pastebins
+payloadcms/payload,34825,942,308,163,19,27.050,0,0,1592,376,TypeScript,false,100.000,32,106,Content Management Systems (CMS)
+mrmn2/PdfDing,967,46,25,5,0,47.570,1,26,171,3,Python,false,40.000,1,1,Document Management
+Chocobozzz/PeerTube,13697,80,42,25,3,5.841,0,2,3487,475,TypeScript,false,100.000,25,202,Media Streaming
+pelican-dev/panel,1318,79,36,22,2,59.939,0,1,424,194,PHP,false,100.000,12,67,Games
+penpot/penpot,38162,614,292,166,26,16.089,0,0,3426,197,Clojure,false,100.000,23,281,Miscellaneous
+sbrl/Pepperminty-Wiki,199,0,0,0,0,0.000,46,251,3825,10,PHP,false,0.000,0,0,Wikis
+ItzCrazyKns/Perplexica,21932,640,331,169,22,29.181,0,3,402,27,TypeScript,false,97.000,1,4,Generative Artificial Intelligence (GenAI)
+SmilyOrg/photofield,488,8,4,0,0,16.393,7,75,1797,4,Go,false,7.000,0,0,Photo Galleries
+photoprism/photoprism,37365,418,204,98,15,11.187,0,0,2666,179,Go,false,100.000,7,180,Photo Galleries
+photoview/photoview,5890,61,30,15,3,10.357,0,0,2140,71,TypeScript,false,92.000,3,10,Photo Galleries
+phpbb/phpbb,1924,15,8,3,0,7.796,3,4,5555,228,PHP,false,61.000,2,50,Communication
+phpList/phplist3,788,4,3,2,1,5.076,0,110,3719,75,PHP,false,22.000,0,0,Communication
+pi-hole/pi-hole,51865,428,203,106,2,8.252,0,2,3995,234,Shell,false,100.000,2,5,DNS
+mtlynch/picoshare,2522,31,10,6,2,12.292,0,75,1188,13,Go,false,35.000,0,0,File Transfer
+CaramelFur/Picsur,1026,28,14,6,0,27.290,0,184,1180,3,TypeScript,false,25.000,0,0,File Transfer
+HaschekSolutions/pictshare,866,6,4,2,0,6.928,2,10,3489,21,JavaScript,false,34.000,1,2,File Transfer
+bpatrik/pigallery2,1905,17,12,4,0,8.924,2,131,3352,63,TypeScript,false,21.000,0,0,Photo Galleries
+jsuto/piler,153,8,5,2,0,52.288,2,33,404,16,PHP,false,18.000,0,0,Communication
+pimcore/pimcore,3570,30,17,10,0,8.403,1,1,4946,523,PHP,false,75.000,10,43,Content Management Systems (CMS)
+kieraneglin/pinchflat,3065,126,53,26,3,41.109,0,18,484,10,Elixir,false,70.000,1,1,Media Management
+madeofpendletonwool/PinePods,399,16,8,4,0,40.100,0,0,987,10,Rust,false,81.000,2,49,Media Streaming
+stonith404/pingvin-share,4197,117,59,25,2,27.877,0,1,1117,50,TypeScript,false,100.000,4,19,File Transfer
+Piwigo/Piwigo,3451,24,11,5,0,6.955,1,11,3583,68,PHP,false,47.000,1,4,Photo Galleries
+pixelfed/pixelfed,6585,47,18,11,1,7.137,0,0,2587,172,PHP,false,85.000,6,103,Communication
+alextselegidis/plainpad,341,12,7,4,2,35.191,0,8,2020,3,PHP,false,53.000,2,7,Note-taking & Editors
+makeplane/plane,35998,703,316,166,12,19.529,0,0,909,130,TypeScript,false,100.000,20,88,Software Development
+plankanban/planka,9262,274,142,92,8,29.583,0,0,2086,121,JavaScript,false,100.000,12,34,Task Management & To-do Lists
+plausible/analytics,22408,326,146,72,9,14.548,0,1,2355,113,Elixir,false,100.000,6,31,Analytics
+PlexRipper/PlexRipper,424,26,9,5,0,61.321,2,11,1856,6,C#,false,55.000,1,80,Media Management
+root-gg/plik,1558,16,9,6,0,10.270,1,332,3680,31,Go,false,21.000,0,0,File Transfer
+mynaparrot/plugNmeet-server,358,10,6,1,0,27.933,6,8,1177,3,Go,false,43.000,3,13,Communication
+pluxml/PluXml,229,2,1,1,0,8.734,1,53,4678,31,PHP,false,18.000,0,0,Blogging Platforms
+pocketbase/pocketbase,47235,1942,402,241,24,41.114,0,3,1047,55,Go,false,100.000,2,27,Software Development
+SamTV12345/PodFetch,411,6,1,1,0,14.599,5,3,818,15,Rust,false,52.000,2,31,Media Management
+agersant/polaris,2219,31,15,8,1,13.970,0,65,3198,18,Rust,false,35.000,0,0,Media Streaming
+pomerium/pomerium,4267,58,33,9,1,13.593,0,2,2328,87,Go,false,100.000,4,34,Web Servers
+joho1968/POMjs,41,3,1,0,0,73.171,8,661,940,2,JavaScript,false,7.000,0,0,Miscellaneous
+kodehat/portkey,50,3,1,1,0,60.000,5,0,451,1,Go,false,72.000,2,24,Personal Dashboards
+abrenaut/posio,639,8,4,1,0,12.520,2,292,3241,7,Python,false,12.000,0,0,Games
+postalserver/postal,15506,108,45,22,5,6.965,0,9,2949,43,Ruby,false,70.000,1,1,Communication
+posthog/posthog,26494,649,285,122,17,24.496,0,0,1940,295,Python,false,100.000,63,681,Analytics
+gitroomhq/postiz-app,19858,376,174,76,9,18.934,0,0,678,52,TypeScript,false,100.000,3,79,Analytics
+leozqin/precis,59,3,0,0,0,50.847,23,153,405,1,Python,false,4.000,0,0,Feed Readers
+pretalx/pretalx,796,11,5,4,1,13.819,0,0,3003,144,Python,false,82.000,5,20,Conference Management
+pretix/pretix,2067,33,13,3,0,15.965,1,0,3903,353,Python,false,85.000,19,122,E-commerce
+PrivateBin/PrivateBin,7185,117,59,37,3,16.284,0,20,3234,129,PHP,false,76.000,5,13,Pastebins
+projectsend/projectsend,1565,20,11,6,2,12.780,0,23,4084,54,PHP,false,43.000,1,4,File Transfer
+psi-4ward/psitransfer,1669,16,9,4,2,9.587,0,78,2945,29,JavaScript,false,31.000,0,0,File Transfer
+pterodactyl/panel,7575,160,75,37,2,21.122,0,54,3449,168,PHP,false,66.000,0,0,Games
+publify/publify,1840,4,2,1,0,2.174,4,28,6049,81,Less,false,24.000,2,2,Content Management Systems (CMS)
+pufferpanel/pufferpanel,1502,26,9,2,0,17.310,2,10,4225,48,Go,false,47.000,2,2,Games
+pushbits/server,340,6,2,1,0,17.647,3,83,1756,3,Go,false,12.000,0,0,Communication
+heyputer/puter,30684,531,236,157,52,17.305,0,0,440,255,JavaScript,false,100.000,4,48,File Transfer & Synchronization
+pydio/cells,1957,23,9,4,0,11.753,1,4,2610,16,Go,false,61.000,4,13,File Transfer & Synchronization
+pyload/pyload,3495,23,10,4,1,6.581,0,6,4478,170,Python,false,67.000,1,2,Automation
+qbittorrent/qBittorrent,31211,520,233,112,19,16.661,0,3,4850,358,C++,false,100.000,11,52,File Transfer
+webkul/hotelcommerce,5227,561,287,142,10,107.327,0,0,3483,12,PHP,false,100.000,2,174,Booking and Scheduling
+codidact/qpixel,407,2,2,2,0,4.914,2,1,1934,57,Ruby,false,62.000,5,100,Communication
+quassel/quassel,740,6,0,0,0,8.108,16,85,4546,122,C++,false,4.000,0,0,Communication
+ihexxa/quickshare,529,2,1,1,1,3.781,0,14,2554,4,Go,false,34.000,2,2,File Transfer
+nymanjens/quizmaster,271,12,4,2,0,44.280,2,29,2041,7,Scala,false,28.000,2,3,Games
+Radarr/Radarr,11484,151,66,29,6,13.149,0,0,3064,756,C#,false,100.000,5,60,Media Management
+gorcon/rcon-cli,549,8,3,1,0,14.572,3,155,2125,10,Go,false,12.000,0,0,Games
+AmruthPillai/Reactive-Resume,31320,869,231,114,14,27.746,0,96,1878,139,TypeScript,false,62.000,0,0,Miscellaneous
+lemon24/reader,488,6,3,2,0,12.295,2,13,2700,5,Python,false,34.000,1,4,Feed Readers
+ncarlier/readflow,438,3,1,0,0,6.849,11,85,2231,9,Go,false,7.000,0,0,Feed Readers
+julianpoy/recipesage,721,14,8,1,0,19.417,3,12,2322,40,TypeScript,false,51.000,2,54,Recipe Management
+reaper47/recipya,336,16,5,3,0,47.619,0,10,1459,16,Go,false,38.000,2,5,Recipe Management
+redeclipse/base,463,1,1,0,0,2.160,10,0,3755,52,C++,false,65.000,6,33,Games
+getredash/redash,27317,122,71,31,3,4.466,0,0,4218,485,Python,false,100.000,5,8,Analytics
+redaxo/redaxo,335,1,1,1,1,2.985,0,51,5430,80,PHP,false,26.000,0,0,Content Management Systems (CMS)
+redlib-org/redlib,1997,96,41,18,1,48.072,0,25,507,49,Rust,false,60.000,1,1,Communication
+r3-team/r3,437,14,6,4,1,32.037,0,3,1334,7,JavaScript,false,71.000,1,38,"Money, Budgeting & Management"
+aleksilassila/reiverr,1675,34,13,8,1,20.299,0,84,695,11,TypeScript,false,35.000,0,0,Media Management
+inducer/relate,406,3,1,1,0,7.389,3,11,4005,19,Python,false,38.000,2,15,Learning and Courses
+umputun/remark42,5125,22,10,6,2,4.293,0,18,2705,130,Go,false,47.000,2,2,Communication
+immense/Remotely,4796,40,20,12,2,8.340,0,150,2250,14,C#,false,35.000,0,0,Remote Access
+bestpractical/rt,1022,11,3,2,0,10.763,4,7,5792,91,Perl,false,46.000,7,71,Ticketing
+rero/rero-ils,78,0,0,0,0,0.000,30,1,2838,28,Python,false,46.000,4,17,Document Management
+datarhei/restreamer,4385,55,21,9,1,12.543,0,74,3446,21,HTML,false,40.000,0,0,Media Streaming
+JMBeresford/retrom,1104,108,66,14,1,97.826,0,14,393,2,TypeScript,false,76.000,1,19,Games
+RetroShare/RetroShare,1807,7,3,3,0,3.874,1,4,3577,66,C++,false,44.000,1,6,Communication
+retrospring/retrospring,283,4,2,2,1,14.134,0,18,3602,14,Ruby,false,38.000,1,15,Communication
+hakimel/reveal.js,68873,201,80,49,8,2.918,0,18,5092,325,JavaScript,false,72.000,1,1,Miscellaneous
+reviewboard/reviewboard,1618,11,3,1,0,6.799,4,10,5746,216,Python,false,38.000,2,10,Software Development
+revive-adserver/revive-adserver,1330,15,7,4,0,11.278,1,7,4322,57,PHP,false,47.000,4,12,Miscellaneous
+revoltchat/self-hosted,1339,74,20,13,2,55.265,0,4,1350,18,JavaScript,false,67.000,2,2,Communication
+w4/rgit,160,9,4,1,0,56.250,5,13,1046,5,Rust,false,42.000,2,21,Software Development
+roadiz/roadiz,374,1,0,0,0,2.674,15,120,3830,11,PHP,false,2.000,0,0,Content Management Systems (CMS)
+robustirc/robustirc,181,0,0,0,0,0.000,149,8,3779,5,Go,false,22.000,1,3,Communication
+RocketChat/Rocket.Chat,42634,229,115,49,6,5.371,0,0,3651,914,TypeScript,false,100.000,24,145,Communication
+rommapp/romm,3726,179,87,55,4,48.041,0,20,800,47,Python,false,80.000,3,30,Games
+roundcube/roundcubemail,6260,67,30,11,1,10.703,0,12,4760,281,PHP,false,70.000,3,22,Communication
+fonoster/routr,1514,7,3,1,0,4.624,4,108,3041,8,TypeScript,false,12.000,0,0,Communication
+RSS-Bridge/rss-bridge,7959,99,40,23,2,12.439,0,6,4301,322,PHP,false,90.000,10,22,Feed Readers
+pietheinstrengholt/rssmonster,452,2,2,0,0,4.425,9,96,4433,7,Vue,false,7.000,0,0,Feed Readers
+rss2email/rss2email,405,4,0,0,0,9.877,17,29,2806,53,Python,false,16.000,2,5,Feed Readers
+DIYgod/RSSHub,36771,579,279,145,19,15.746,0,0,2601,1220,TypeScript,false,100.000,33,168,Feed Readers
+rstudio/rstudio,4796,25,9,5,1,5.213,0,0,5274,377,Java,false,95.000,13,98,Software Development
+rudderlabs/rudder-server,4183,20,11,8,0,4.781,1,1,2128,103,Go,false,71.000,16,57,Analytics
+rustdesk/rustdesk-server,7792,176,83,47,2,22.587,0,5,1691,32,Rust,false,92.000,3,3,Remote Access
+orhun/rustypaste,921,25,11,6,0,27.144,2,3,1389,25,Rust,false,57.000,2,8,Pastebins
+ignisda/ryot,2455,90,57,43,1,36.660,0,0,774,19,TypeScript,false,100.000,1,20,Personal Dashboards
+s-cart/s-cart,706,8,2,2,1,11.331,0,13,1871,2,Blade,false,48.000,1,12,E-commerce
+sabre-io/dav,1615,12,5,4,0,7.430,2,166,4970,106,PHP,false,16.000,0,0,Calendar & Contacts
+chaitin/SafeLine,16408,382,218,100,12,23.281,0,26,765,29,Go,false,72.000,1,1,Web Servers
+saleor/saleor,21564,175,89,49,7,8.115,0,1,4476,261,Python,false,100.000,12,48,E-commerce
+SAMA-Communications/sama-server,119,1,0,0,0,8.403,27,0,970,8,JavaScript,false,58.000,3,11,Communication
+samvera/hyrax,187,0,0,0,0,0.000,52,0,3090,219,Ruby,false,56.000,3,19,Document Management
+sandstorm-io/sandstorm,6840,9,3,1,0,1.316,1,151,4147,103,JavaScript,false,12.000,0,0,Self-hosting Solutions
+PhiTux/schoco,26,0,0,0,0,0.000,35,59,920,2,Vue,false,6.000,0,0,Learning and Courses
+hwgilbert16/scholarsome,606,11,7,4,0,18.152,1,297,984,9,TypeScript,false,21.000,0,0,Learning and Courses
+scm-manager/scm-manager,144,2,1,1,0,13.889,4,2,1895,40,Java,false,62.000,5,23,Software Development
+Erudika/scoold,882,5,4,2,0,5.669,2,8,3024,29,Java,false,32.000,1,1,Communication
+screego/server,8539,69,41,21,2,8.081,0,8,1765,18,Go,false,72.000,1,3,Communication
+scribble-rs/scribble.rs,522,5,2,0,0,9.579,7,48,2165,30,Go,false,13.000,0,0,Games
+haiwen/seafile,13087,107,48,23,4,8.176,0,3,4692,92,C,false,80.000,1,1,File Transfer & Synchronization
+searxng/searxng,19049,696,336,154,16,36.537,0,1,1495,258,Python,false,100.000,15,110,Search Engines
+seaweedfs/seaweedfs,24345,226,105,53,4,9.283,0,1,3959,346,Go,false,100.000,17,39,File Transfer
+ibizaman/selfhostblocks,278,13,5,1,0,46.763,5,33,881,3,Nix,false,22.000,0,0,Self-hosting Solutions
+fossar/selfoss,2409,7,3,0,0,2.906,8,61,4975,156,HTML,false,7.000,0,0,Feed Readers
+timvisee/send,5210,71,44,26,5,13.628,0,24,1688,1,JavaScript,false,66.000,1,12,File Transfer
+getsentry/sentry,40853,318,140,78,8,7.784,0,0,5373,849,Python,false,100.000,111,1761,Software Development
+s9y/serendipity,215,1,0,0,0,4.651,23,9,4955,48,PHP,false,24.000,2,2,Blogging Platforms
+beromir/Servas,659,7,5,3,0,10.622,1,0,1102,2,Svelte,false,72.000,1,22,Bookmarks and Link Sharing
+drakkan/sftpgo,10408,162,66,41,4,15.565,0,3,2127,68,Go,false,96.000,2,12,File Transfer
+shaarli/Shaarli,3632,26,10,5,1,7.159,0,16,3947,9,PHP,false,47.000,2,10,Bookmarks and Link Sharing
+sharetribe/sharetribe,2398,6,2,1,0,2.502,6,1,4739,74,Ruby,false,54.000,3,7,E-commerce
+eikek/sharry,1021,18,7,4,2,17.630,0,8,2930,18,Elm,false,53.000,1,3,File Transfer
+Shelf-nu/shelf.nu,2085,29,15,6,0,13.909,1,0,826,33,TypeScript,false,85.000,4,151,Inventory Management
+shellhub-io/shellhub,1571,35,29,12,0,22.279,1,0,2192,38,Go,false,90.000,6,155,Remote Access
+TobySuch/Shifter,35,1,0,0,0,28.571,18,1,1484,5,Python,false,52.000,2,22,File Transfer
+go-shiori/shiori,10334,103,44,24,5,9.967,0,46,2670,63,Go,false,56.000,0,0,Bookmarks and Link Sharing
+shlinkio/shlink,3880,89,54,29,3,22.938,0,10,3325,22,PHP,false,82.000,1,10,URL Shorteners
+shopware/platform,3044,34,21,13,2,11.170,0,0,2570,556,PHP,false,100.000,68,206,E-commerce
+milesmcc/shynet,3028,20,12,7,0,6.605,3,149,1863,37,Python,false,21.000,0,0,Analytics
+SickChill/SickChill,2426,5,1,0,0,2.061,11,248,3472,422,Python,false,7.000,0,0,Media Management
