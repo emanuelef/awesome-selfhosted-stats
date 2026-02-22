@@ -1,13 +1,13 @@
 module github.com/emanuelef/awesome-selfhosted-stats
 
-go 1.24
+go 1.24.0
 
 toolchain go1.24.2
 
 require (
 	github.com/emanuelef/github-repo-activity-stats v0.2.50
 	github.com/joho/godotenv v1.5.1
-	golang.org/x/oauth2 v0.29.0
+	golang.org/x/oauth2 v0.33.0
 )
 
 require (
