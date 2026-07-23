@@ -1,8 +1,6 @@
 name: Update stats
 
 on:
-  schedule:
-    - cron: "0 9 * * *" # runs at 00:00 UTC everyday
   workflow_dispatch:
 
 jobs:
